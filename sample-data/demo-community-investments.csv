@@ -1,0 +1,301 @@
+external_id,address_line_1,address_line_2,city,state,postal_code,category,amount,date,status,description,latitude,longitude
+CI-00001,6079 400 North,,North Ogden,UT,84414,Scholarship,243570,2023-11-02,Committed,"Scholarship, North Ogden, UT",41.348415,-111.969013
+CI-00002,9091 Redwood Rd,,Sandy,UT,84070,Sponsorship,14355,2025-06-08,Completed,"Sponsorship, Sandy, UT",40.593941,-111.884747
+CI-00003,7479 Highland Dr,,West Valley City,UT,84119,Sponsorship,168932,2026-07-06,Completed,"Sponsorship, West Valley City, UT",40.650101,-112.167355
+CI-00004,4966 Main St,,Murray,UT,84107,Small Business Support,127726,2025-05-22,Completed,"Small Business Support, Murray, UT",40.648337,-111.857722
+CI-00005,6059 900 West,,Murray,UT,84107,Sponsorship,143087,2025-03-17,Disbursed,"Sponsorship, Murray, UT",40.647801,-111.859606
+CI-00006,1384 Riverdale Rd,,Clearfield,UT,84015,Sponsorship,22608,2025-11-09,Committed,"Sponsorship, Clearfield, UT",41.102499,-111.983591
+CI-00007,1630 Harrison Blvd,,West Valley City,UT,84119,Sponsorship,114387,2025-04-05,Committed,"Sponsorship, West Valley City, UT",40.698272,-111.978674
+CI-00008,1903 200 South,,North Logan,UT,84341,Financial Literacy Program,22328,2023-10-07,Disbursed,"Financial Literacy Program, North Logan, UT",41.765298,-111.775987
+CI-00009,798 Harrison Blvd,,Clearfield,UT,84015,Scholarship,8421,2025-05-15,Committed,"Scholarship, Clearfield, UT",41.110920,-112.004497
+CI-00010,2679 State St,,Sandy,UT,84070,Scholarship,184434,2024-03-27,Committed,"Scholarship, Sandy, UT",40.588299,-111.882516
+CI-00011,6463 200 South,,South Jordan,UT,84095,Scholarship,149571,2026-04-05,Disbursed,"Scholarship, South Jordan, UT",40.586138,-111.912333
+CI-00012,7651 Fort Union Blvd,,South Jordan,UT,84095,Financial Literacy Program,35113,2023-11-18,Completed,"Financial Literacy Program, South Jordan, UT",40.571252,-111.957188
+CI-00013,180 200 South,,West Valley City,UT,84119,Sponsorship,157932,2023-11-10,Committed,"Sponsorship, West Valley City, UT",40.685414,-111.998536
+CI-00014,7214 Harrison Blvd,,West Valley City,UT,84119,Sponsorship,146862,2024-04-07,Completed,"Sponsorship, West Valley City, UT",40.663776,-111.956304
+CI-00015,7366 University Ave,,West Valley City,UT,84119,Small Business Support,64747,2026-08-28,Committed,"Small Business Support, West Valley City, UT",40.629677,-112.156695
+CI-00016,2143 Riverdale Rd,,Murray,UT,84107,Small Business Support,202032,2025-08-19,Completed,"Small Business Support, Murray, UT",40.646620,-111.859937
+CI-00017,8359 Main St,,South Jordan,UT,84095,Sponsorship,22502,2025-04-24,Committed,"Sponsorship, South Jordan, UT",40.569910,-111.911587
+CI-00018,5213 Harrison Blvd,,Salt Lake City,UT,84101,Small Business Support,32131,2023-09-14,Completed,"Small Business Support, Salt Lake City, UT",40.740808,-111.805596
+CI-00019,1344 Harrison Blvd,,Salt Lake City,UT,84101,Financial Literacy Program,165885,2025-12-30,Completed,"Financial Literacy Program, Salt Lake City, UT",40.772729,-111.852942
+CI-00020,3089 400 North,,Perry,UT,84302,Scholarship,136696,2026-02-27,Committed,"Scholarship, Perry, UT",41.409693,-112.163141
+CI-00021,7521 Wall Ave,,Murray,UT,84107,Scholarship,83615,2026-03-03,Disbursed,"Scholarship, Murray, UT",40.645168,-111.862528
+CI-00022,3178 Canyon Rd,,Salt Lake City,UT,84101,Scholarship,58596,2024-02-29,Committed,"Scholarship, Salt Lake City, UT",40.761233,-111.860939
+CI-00023,6443 900 West,,South Jordan,UT,84095,Small Business Support,65077,2026-01-13,Completed,"Small Business Support, South Jordan, UT",40.562256,-111.887800
+CI-00024,3873 Highland Dr,,Murray,UT,84107,Small Business Support,198843,2026-07-22,Completed,"Small Business Support, Murray, UT",40.634233,-111.856828
+CI-00025,7039 900 West,,Ogden,UT,84401,Small Business Support,47419,2026-06-18,Committed,"Small Business Support, Ogden, UT",41.211597,-111.981892
+CI-00026,5897 400 North,,North Ogden,UT,84414,Grant,243758,2025-07-13,Completed,"Grant, North Ogden, UT",41.318358,-111.958125
+CI-00027,1842 State St,,Roy,UT,84067,Grant,13098,2025-06-01,Completed,"Grant, Roy, UT",41.169251,-112.032939
+CI-00028,734 400 North,,Salt Lake City,UT,84101,Financial Literacy Program,205152,2023-09-13,Committed,"Financial Literacy Program, Salt Lake City, UT",40.732406,-111.799850
+CI-00029,5398 Washington Blvd,,South Jordan,UT,84095,Grant,16029,2024-09-02,Disbursed,"Grant, South Jordan, UT",40.583968,-111.900145
+CI-00030,8836 University Ave,,Sandy,UT,84070,Small Business Support,24856,2023-12-19,Committed,"Small Business Support, Sandy, UT",40.615868,-111.832817
+CI-00031,5806 1200 East,,Salt Lake City,UT,84101,Grant,226593,2025-11-16,Committed,"Grant, Salt Lake City, UT",40.729874,-111.796420
+CI-00032,3361 400 North,,South Jordan,UT,84095,Small Business Support,55710,2024-10-29,Committed,"Small Business Support, South Jordan, UT",40.574372,-111.897597
+CI-00033,997 University Ave,,Roy,UT,84067,Financial Literacy Program,65181,2026-08-28,Committed,"Financial Literacy Program, Roy, UT",41.143095,-112.065294
+CI-00034,8050 Highland Dr,,Salt Lake City,UT,84101,Sponsorship,86005,2025-07-15,Completed,"Sponsorship, Salt Lake City, UT",40.765286,-111.861770
+CI-00035,5036 Canyon Rd,,West Valley City,UT,84119,Scholarship,77612,2024-06-23,Disbursed,"Scholarship, West Valley City, UT",40.651293,-112.021388
+CI-00036,2229 Highland Dr,,Perry,UT,84302,Small Business Support,40696,2024-04-10,Completed,"Small Business Support, Perry, UT",41.440886,-111.928155
+CI-00037,4042 Washington Blvd,,North Logan,UT,84341,Sponsorship,183137,2025-05-17,Committed,"Sponsorship, North Logan, UT",41.761840,-111.811264
+CI-00038,5779 Fort Union Blvd,,Salt Lake City,UT,84101,Scholarship,97957,2025-10-06,Committed,"Scholarship, Salt Lake City, UT",40.761363,-111.857602
+CI-00039,6566 Canyon Rd,,South Ogden,UT,84403,Financial Literacy Program,158355,2023-12-14,Disbursed,"Financial Literacy Program, South Ogden, UT",41.189783,-111.976848
+CI-00040,7424 Canyon Rd,,West Valley City,UT,84119,Small Business Support,106284,2026-06-10,Completed,"Small Business Support, West Valley City, UT",40.697064,-111.985367
+CI-00041,1260 Redwood Rd,,Ogden,UT,84401,Grant,19143,2024-09-10,Completed,"Grant, Ogden, UT",41.212596,-111.983518
+CI-00042,8765 Wall Ave,,South Jordan,UT,84095,Sponsorship,17214,2024-05-31,Committed,"Sponsorship, South Jordan, UT",40.583281,-111.893312
+CI-00043,2174 Main St,,Sandy,UT,84070,Financial Literacy Program,73586,2023-10-24,Committed,"Financial Literacy Program, Sandy, UT",40.568488,-111.864055
+CI-00044,8019 Harrison Blvd,,Layton,UT,84040,Small Business Support,132241,2024-12-21,Committed,"Small Business Support, Layton, UT",41.063200,-112.033189
+CI-00045,5353 Redwood Rd,,Clearfield,UT,84015,Financial Literacy Program,155479,2023-09-29,Committed,"Financial Literacy Program, Clearfield, UT",41.075278,-112.030426
+CI-00046,1992 Main St,,Salt Lake City,UT,84101,Financial Literacy Program,130851,2025-01-30,Committed,"Financial Literacy Program, Salt Lake City, UT",40.772883,-111.866419
+CI-00047,7512 Wall Ave,,Logan,UT,84321,Grant,65113,2023-12-28,Completed,"Grant, Logan, UT",41.746405,-111.859057
+CI-00048,3569 Washington Blvd,,Sandy,UT,84070,Sponsorship,116379,2024-06-08,Completed,"Sponsorship, Sandy, UT",40.570092,-111.861763
+CI-00049,5080 Highland Dr,,Murray,UT,84107,Financial Literacy Program,25739,2026-08-02,Disbursed,"Financial Literacy Program, Murray, UT",40.687147,-111.871861
+CI-00050,9017 400 North,,Smithfield,UT,84335,Financial Literacy Program,231912,2025-09-19,Committed,"Financial Literacy Program, Smithfield, UT",41.908368,-112.008171
+CI-00051,4336 400 North,,Salt Lake City,UT,84101,Financial Literacy Program,60494,2025-03-03,Disbursed,"Financial Literacy Program, Salt Lake City, UT",40.769325,-111.855158
+CI-00052,2534 Main St,,West Valley City,UT,84119,Small Business Support,120454,2025-01-28,Completed,"Small Business Support, West Valley City, UT",40.702715,-111.978868
+CI-00053,1230 200 South,,Ogden,UT,84401,Sponsorship,123501,2024-06-22,Completed,"Sponsorship, Ogden, UT",41.233566,-111.956020
+CI-00054,7538 Riverdale Rd,,North Ogden,UT,84414,Small Business Support,123779,2024-10-28,Disbursed,"Small Business Support, North Ogden, UT",41.271054,-111.961881
+CI-00055,2165 Riverdale Rd,,Murray,UT,84107,Financial Literacy Program,194158,2024-04-26,Committed,"Financial Literacy Program, Murray, UT",40.639855,-111.855991
+CI-00056,862 Harrison Blvd,,Sandy,UT,84070,Small Business Support,197055,2024-10-20,Completed,"Small Business Support, Sandy, UT",40.622808,-111.822798
+CI-00057,7605 200 South,,South Jordan,UT,84095,Financial Literacy Program,201306,2025-12-28,Completed,"Financial Literacy Program, South Jordan, UT",40.570334,-111.895036
+CI-00058,9610 900 West,,West Valley City,UT,84119,Scholarship,202191,2026-06-24,Committed,"Scholarship, West Valley City, UT",40.626586,-112.097119
+CI-00059,9752 Washington Blvd,,North Ogden,UT,84414,Small Business Support,196978,2025-04-25,Completed,"Small Business Support, North Ogden, UT",41.280786,-112.068639
+CI-00060,1351 Canyon Rd,,Perry,UT,84302,Financial Literacy Program,221952,2025-07-29,Disbursed,"Financial Literacy Program, Perry, UT",41.448390,-112.047039
+CI-00061,6866 Main St,,Clearfield,UT,84015,Scholarship,47295,2024-01-07,Completed,"Scholarship, Clearfield, UT",41.124703,-111.958299
+CI-00062,5653 Canyon Rd,,West Valley City,UT,84119,Grant,43707,2026-03-31,Committed,"Grant, West Valley City, UT",40.630722,-112.183870
+CI-00063,2723 Fort Union Blvd,,Salt Lake City,UT,84101,Scholarship,184184,2024-04-30,Committed,"Scholarship, Salt Lake City, UT",40.763838,-111.855126
+CI-00064,5599 Bengal Blvd,,Bountiful,UT,84010,Financial Literacy Program,36947,2025-09-21,Committed,"Financial Literacy Program, Bountiful, UT",40.863111,-111.923440
+CI-00065,2459 Redwood Rd,,South Jordan,UT,84095,Sponsorship,181488,2025-08-02,Completed,"Sponsorship, South Jordan, UT",40.584336,-111.913557
+CI-00066,2455 Redwood Rd,,Brigham City,UT,84302,Grant,41008,2025-02-19,Completed,"Grant, Brigham City, UT",41.503746,-112.008246
+CI-00067,6496 1200 East,,Clearfield,UT,84015,Grant,134632,2024-12-01,Completed,"Grant, Clearfield, UT",41.098714,-111.990653
+CI-00068,2175 State St,,Salt Lake City,UT,84101,Small Business Support,208205,2025-09-23,Committed,"Small Business Support, Salt Lake City, UT",40.760924,-111.853756
+CI-00069,5949 Canyon Rd,,Smithfield,UT,84335,Financial Literacy Program,214367,2025-01-10,Disbursed,"Financial Literacy Program, Smithfield, UT",41.996662,-111.815663
+CI-00070,3852 Highland Dr,,South Jordan,UT,84095,Grant,176162,2024-09-12,Committed,"Grant, South Jordan, UT",40.565477,-111.930369
+CI-00071,8603 Washington Blvd,,Tremonton,UT,84337,Financial Literacy Program,66218,2026-01-18,Committed,"Financial Literacy Program, Tremonton, UT",41.711444,-112.079027
+CI-00072,2509 Harrison Blvd,,Salt Lake City,UT,84101,Sponsorship,200213,2024-04-30,Committed,"Sponsorship, Salt Lake City, UT",40.731370,-111.799622
+CI-00073,5495 Wall Ave,,Murray,UT,84107,Grant,54709,2024-07-24,Completed,"Grant, Murray, UT",40.642185,-111.858828
+CI-00074,6020 400 North,,West Valley City,UT,84119,Scholarship,218298,2025-12-23,Disbursed,"Scholarship, West Valley City, UT",40.664071,-111.957791
+CI-00075,6338 Redwood Rd,,West Valley City,UT,84119,Financial Literacy Program,132811,2025-02-16,Disbursed,"Financial Literacy Program, West Valley City, UT",40.683777,-111.992245
+CI-00076,6788 State St,,Tremonton,UT,84337,Grant,80842,2026-04-04,Committed,"Grant, Tremonton, UT",41.710131,-112.140919
+CI-00077,6618 Bengal Blvd,,Layton,UT,84040,Scholarship,28598,2025-02-03,Disbursed,"Scholarship, Layton, UT",41.103817,-111.960455
+CI-00078,7913 Highland Dr,,Murray,UT,84107,Sponsorship,129477,2026-07-31,Disbursed,"Sponsorship, Murray, UT",40.707312,-111.876648
+CI-00079,3470 Washington Blvd,,South Jordan,UT,84095,Financial Literacy Program,61812,2026-04-05,Committed,"Financial Literacy Program, South Jordan, UT",40.577965,-111.952152
+CI-00080,7906 Fort Union Blvd,,Sandy,UT,84070,Grant,84517,2026-08-30,Committed,"Grant, Sandy, UT",40.615988,-111.827355
+CI-00081,5456 University Ave,,South Jordan,UT,84095,Grant,208511,2026-04-27,Completed,"Grant, South Jordan, UT",40.569320,-111.943469
+CI-00082,5544 200 South,,Sandy,UT,84070,Scholarship,89319,2024-10-30,Committed,"Scholarship, Sandy, UT",40.589021,-111.876244
+CI-00083,9096 Main St,,Sandy,UT,84070,Small Business Support,204575,2025-07-12,Committed,"Small Business Support, Sandy, UT",40.581494,-111.878979
+CI-00084,2640 Wall Ave,,Sandy,UT,84070,Grant,125873,2023-12-07,Disbursed,"Grant, Sandy, UT",40.572549,-111.860394
+CI-00085,2810 Highland Dr,,Logan,UT,84321,Scholarship,115090,2024-02-08,Committed,"Scholarship, Logan, UT",41.725074,-111.802220
+CI-00086,5601 Canyon Rd,,South Jordan,UT,84095,Scholarship,229539,2025-11-15,Committed,"Scholarship, South Jordan, UT",40.570713,-111.893097
+CI-00087,4525 State St,,Salt Lake City,UT,84101,Small Business Support,181920,2026-02-19,Committed,"Small Business Support, Salt Lake City, UT",40.738510,-111.805293
+CI-00088,9118 Redwood Rd,,South Jordan,UT,84095,Grant,3481,2026-02-05,Committed,"Grant, South Jordan, UT",40.575297,-111.950658
+CI-00089,2344 Canyon Rd,,Sandy,UT,84070,Small Business Support,85029,2024-12-26,Completed,"Small Business Support, Sandy, UT",40.562934,-111.859309
+CI-00090,2216 200 South,,Salt Lake City,UT,84101,Financial Literacy Program,39962,2025-05-02,Completed,"Financial Literacy Program, Salt Lake City, UT",40.761447,-111.860583
+CI-00091,9622 Bengal Blvd,,Sandy,UT,84070,Scholarship,25622,2023-11-11,Committed,"Scholarship, Sandy, UT",40.595731,-111.875966
+CI-00092,4979 Harrison Blvd,,Roy,UT,84067,Sponsorship,121765,2025-05-21,Completed,"Sponsorship, Roy, UT",41.145847,-112.067246
+CI-00093,6571 Harrison Blvd,,Roy,UT,84067,Financial Literacy Program,74256,2025-03-03,Completed,"Financial Literacy Program, Roy, UT",41.233108,-112.246948
+CI-00094,2649 Redwood Rd,,Murray,UT,84107,Sponsorship,227159,2024-01-17,Committed,"Sponsorship, Murray, UT",40.704140,-111.873690
+CI-00095,9713 200 South,,Salt Lake City,UT,84101,Small Business Support,19858,2024-09-12,Completed,"Small Business Support, Salt Lake City, UT",40.760949,-111.852687
+CI-00096,292 Redwood Rd,,Clearfield,UT,84015,Grant,4887,2025-05-23,Disbursed,"Grant, Clearfield, UT",41.107497,-111.994946
+CI-00097,7331 Redwood Rd,,Kaysville,UT,84037,Scholarship,179166,2026-03-21,Disbursed,"Scholarship, Kaysville, UT",40.994782,-111.977862
+CI-00098,2826 Main St,,Layton,UT,84040,Scholarship,221030,2024-09-21,Disbursed,"Scholarship, Layton, UT",41.110901,-111.905300
+CI-00099,7817 Bengal Blvd,,Salt Lake City,UT,84101,Sponsorship,230996,2023-10-05,Disbursed,"Sponsorship, Salt Lake City, UT",40.761666,-111.854847
+CI-00100,991 State St,,West Valley City,UT,84119,Sponsorship,25839,2026-07-29,Disbursed,"Sponsorship, West Valley City, UT",40.702844,-112.002018
+CI-00101,3277 Canyon Rd,,Smithfield,UT,84335,Small Business Support,129053,2026-01-09,Committed,"Small Business Support, Smithfield, UT",41.937964,-111.910747
+CI-00102,3719 900 West,,Salt Lake City,UT,84101,Sponsorship,181022,2025-08-05,Disbursed,"Sponsorship, Salt Lake City, UT",40.768926,-111.860990
+CI-00103,6260 Main St,,South Ogden,UT,84403,Financial Literacy Program,52760,2026-08-13,Disbursed,"Financial Literacy Program, South Ogden, UT",41.193893,-111.960612
+CI-00104,4093 Highland Dr,,Perry,UT,84302,Financial Literacy Program,210745,2025-09-22,Completed,"Financial Literacy Program, Perry, UT",41.439303,-112.006508
+CI-00105,4006 Highland Dr,,West Valley City,UT,84119,Small Business Support,169498,2025-07-01,Completed,"Small Business Support, West Valley City, UT",40.656998,-111.957945
+CI-00106,4560 Redwood Rd,,West Valley City,UT,84119,Small Business Support,35045,2024-09-16,Disbursed,"Small Business Support, West Valley City, UT",40.712630,-112.164863
+CI-00107,2064 Riverdale Rd,,West Valley City,UT,84119,Grant,25932,2024-11-19,Disbursed,"Grant, West Valley City, UT",40.712834,-112.121061
+CI-00108,6011 Washington Blvd,,North Ogden,UT,84414,Financial Literacy Program,20200,2026-09-07,Committed,"Financial Literacy Program, North Ogden, UT",41.262933,-111.973939
+CI-00109,6793 Main St,,South Jordan,UT,84095,Financial Literacy Program,10222,2023-12-08,Committed,"Financial Literacy Program, South Jordan, UT",40.573843,-111.905731
+CI-00110,4923 Harrison Blvd,,Salt Lake City,UT,84101,Grant,112352,2023-10-06,Completed,"Grant, Salt Lake City, UT",40.768716,-111.853553
+CI-00111,6144 400 North,,Sandy,UT,84070,Grant,237636,2026-03-29,Disbursed,"Grant, Sandy, UT",40.561534,-111.880385
+CI-00112,712 State St,,Kaysville,UT,84037,Small Business Support,91078,2023-11-17,Committed,"Small Business Support, Kaysville, UT",41.035674,-111.969254
+CI-00113,2351 Riverdale Rd,,Sandy,UT,84070,Grant,27636,2024-11-30,Committed,"Grant, Sandy, UT",40.594523,-111.883290
+CI-00114,2360 University Ave,,Roy,UT,84067,Sponsorship,152962,2025-11-12,Disbursed,"Sponsorship, Roy, UT",41.141474,-112.072761
+CI-00115,2870 Highland Dr,,Smithfield,UT,84335,Scholarship,174277,2026-02-11,Completed,"Scholarship, Smithfield, UT",41.857209,-111.887775
+CI-00116,3835 200 South,,Sandy,UT,84070,Sponsorship,155649,2024-10-10,Completed,"Sponsorship, Sandy, UT",40.565288,-111.824064
+CI-00117,7654 Highland Dr,,West Valley City,UT,84119,Grant,52354,2024-07-13,Completed,"Grant, West Valley City, UT",40.682451,-111.992288
+CI-00118,5297 Harrison Blvd,,Salt Lake City,UT,84101,Financial Literacy Program,95145,2024-03-25,Completed,"Financial Literacy Program, Salt Lake City, UT",40.778343,-111.861362
+CI-00119,1951 Washington Blvd,,West Valley City,UT,84119,Grant,36236,2026-02-07,Committed,"Grant, West Valley City, UT",40.660893,-111.954352
+CI-00120,328 Highland Dr,,Murray,UT,84107,Small Business Support,211707,2026-02-03,Completed,"Small Business Support, Murray, UT",40.700625,-111.874405
+CI-00121,9436 State St,,Salt Lake City,UT,84101,Small Business Support,79521,2023-09-09,Committed,"Small Business Support, Salt Lake City, UT",40.767914,-111.858333
+CI-00122,7773 Canyon Rd,,South Ogden,UT,84403,Scholarship,209429,2024-06-26,Disbursed,"Scholarship, South Ogden, UT",41.208842,-111.953441
+CI-00123,8320 Riverdale Rd,,Salt Lake City,UT,84101,Financial Literacy Program,168359,2024-05-13,Committed,"Financial Literacy Program, Salt Lake City, UT",40.766520,-111.861608
+CI-00124,9408 University Ave,,South Ogden,UT,84403,Sponsorship,203325,2024-08-02,Committed,"Sponsorship, South Ogden, UT",41.203276,-111.970362
+CI-00125,5302 Washington Blvd,,North Ogden,UT,84414,Financial Literacy Program,48630,2024-06-14,Completed,"Financial Literacy Program, North Ogden, UT",41.260839,-111.956438
+CI-00126,3251 State St,,Ogden,UT,84401,Sponsorship,30727,2026-04-07,Completed,"Sponsorship, Ogden, UT",41.230414,-111.958150
+CI-00127,3408 Washington Blvd,,Sandy,UT,84070,Small Business Support,20844,2024-10-11,Completed,"Small Business Support, Sandy, UT",40.595577,-111.875428
+CI-00128,4089 Riverdale Rd,,Logan,UT,84321,Grant,112173,2025-05-10,Completed,"Grant, Logan, UT",41.741641,-111.832872
+CI-00129,8682 Wall Ave,,Clearfield,UT,84015,Grant,97046,2024-09-26,Disbursed,"Grant, Clearfield, UT",41.069854,-112.035686
+CI-00130,4804 Harrison Blvd,,South Jordan,UT,84095,Small Business Support,196432,2025-06-22,Disbursed,"Small Business Support, South Jordan, UT",40.578118,-111.943393
+CI-00131,3872 Riverdale Rd,,West Valley City,UT,84119,Scholarship,232798,2025-04-08,Disbursed,"Scholarship, West Valley City, UT",40.687882,-112.000325
+CI-00132,9177 University Ave,,West Valley City,UT,84119,Financial Literacy Program,169139,2024-10-29,Committed,"Financial Literacy Program, West Valley City, UT",40.645119,-112.022151
+CI-00133,9941 Highland Dr,,West Valley City,UT,84119,Financial Literacy Program,22691,2024-08-28,Committed,"Financial Literacy Program, West Valley City, UT",40.650659,-112.017981
+CI-00134,2584 Riverdale Rd,,South Jordan,UT,84095,Scholarship,222244,2026-06-17,Disbursed,"Scholarship, South Jordan, UT",40.563584,-111.946944
+CI-00135,8888 University Ave,,Roy,UT,84067,Small Business Support,59754,2026-04-28,Completed,"Small Business Support, Roy, UT",41.282854,-112.268158
+CI-00136,5328 Harrison Blvd,,West Valley City,UT,84119,Small Business Support,200004,2026-04-06,Disbursed,"Small Business Support, West Valley City, UT",40.697556,-111.981174
+CI-00137,9920 Wall Ave,,Layton,UT,84040,Scholarship,141673,2024-02-12,Disbursed,"Scholarship, Layton, UT",41.095728,-111.975164
+CI-00138,1650 1200 East,,Kaysville,UT,84037,Grant,246215,2025-06-16,Disbursed,"Grant, Kaysville, UT",41.024448,-111.968043
+CI-00139,6798 Harrison Blvd,,Layton,UT,84040,Grant,43737,2026-06-18,Disbursed,"Grant, Layton, UT",41.086169,-111.977158
+CI-00140,1366 Main St,,Perry,UT,84302,Scholarship,190267,2026-07-02,Completed,"Scholarship, Perry, UT",41.396750,-112.537902
+CI-00141,870 Wall Ave,,Sandy,UT,84070,Financial Literacy Program,142606,2025-01-14,Committed,"Financial Literacy Program, Sandy, UT",40.567668,-111.860598
+CI-00142,4147 Harrison Blvd,,Salt Lake City,UT,84101,Scholarship,221284,2023-12-11,Committed,"Scholarship, Salt Lake City, UT",40.764853,-111.861551
+CI-00143,8928 Main St,,West Valley City,UT,84119,Scholarship,106600,2025-12-21,Disbursed,"Scholarship, West Valley City, UT",40.699449,-111.982261
+CI-00144,8429 Main St,,West Valley City,UT,84119,Sponsorship,156921,2024-10-08,Completed,"Sponsorship, West Valley City, UT",40.688376,-112.004095
+CI-00145,9839 State St,,North Ogden,UT,84414,Scholarship,166032,2024-05-14,Disbursed,"Scholarship, North Ogden, UT",41.350643,-111.980478
+CI-00146,7392 Riverdale Rd,,West Valley City,UT,84119,Scholarship,211226,2023-12-02,Completed,"Scholarship, West Valley City, UT",40.702845,-111.991651
+CI-00147,729 Highland Dr,,North Ogden,UT,84414,Scholarship,202898,2024-04-28,Completed,"Scholarship, North Ogden, UT",41.281926,-112.049512
+CI-00148,2955 200 South,,Tremonton,UT,84337,Sponsorship,206225,2025-10-02,Completed,"Sponsorship, Tremonton, UT",41.719372,-112.146085
+CI-00149,1895 1200 East,,South Jordan,UT,84095,Grant,219259,2023-12-31,Disbursed,"Grant, South Jordan, UT",40.578916,-111.905581
+CI-00150,6337 Harrison Blvd,,Murray,UT,84107,Grant,115197,2025-09-14,Committed,"Grant, Murray, UT",40.689741,-111.872663
+CI-00151,5863 Fort Union Blvd,,Bountiful,UT,84010,Scholarship,60256,2026-04-28,Completed,"Scholarship, Bountiful, UT",40.856897,-111.948065
+CI-00152,8877 Highland Dr,,Ogden,UT,84401,Grant,202502,2026-06-04,Committed,"Grant, Ogden, UT",41.232627,-111.956966
+CI-00153,5171 200 South,,Murray,UT,84107,Grant,171819,2024-10-29,Committed,"Grant, Murray, UT",40.648751,-111.854957
+CI-00154,954 Main St,,Salt Lake City,UT,84101,Small Business Support,92971,2024-12-04,Committed,"Small Business Support, Salt Lake City, UT",40.776100,-111.859866
+CI-00155,8973 Canyon Rd,,Salt Lake City,UT,84101,Grant,103349,2026-08-25,Completed,"Grant, Salt Lake City, UT",40.768978,-111.852359
+CI-00156,2634 Wall Ave,,Logan,UT,84321,Grant,74278,2026-07-13,Committed,"Grant, Logan, UT",41.708304,-111.828273
+CI-00157,6444 Main St,,Murray,UT,84107,Sponsorship,202326,2024-04-15,Completed,"Sponsorship, Murray, UT",40.647806,-111.861073
+CI-00158,8405 Redwood Rd,,Salt Lake City,UT,84101,Sponsorship,52086,2025-08-15,Disbursed,"Sponsorship, Salt Lake City, UT",40.773392,-111.862777
+CI-00159,5915 Bengal Blvd,,Ogden,UT,84401,Scholarship,38956,2024-10-31,Disbursed,"Scholarship, Ogden, UT",41.253325,-111.972796
+CI-00160,6359 Fort Union Blvd,,South Jordan,UT,84095,Scholarship,157512,2024-06-02,Disbursed,"Scholarship, South Jordan, UT",40.577152,-111.897255
+CI-00161,1238 Washington Blvd,,Salt Lake City,UT,84101,Scholarship,138695,2024-11-26,Disbursed,"Scholarship, Salt Lake City, UT",40.746666,-111.815253
+CI-00162,8978 Canyon Rd,,Salt Lake City,UT,84101,Small Business Support,160804,2024-02-07,Committed,"Small Business Support, Salt Lake City, UT",40.765132,-111.857861
+CI-00163,4861 Riverdale Rd,,West Valley City,UT,84119,Grant,237496,2026-01-04,Completed,"Grant, West Valley City, UT",40.615322,-112.130262
+CI-00164,1664 900 West,,Farmington,UT,84025,Financial Literacy Program,143440,2024-09-02,Disbursed,"Financial Literacy Program, Farmington, UT",40.967939,-111.933227
+CI-00165,6397 Redwood Rd,,Kaysville,UT,84037,Scholarship,29270,2026-09-07,Completed,"Scholarship, Kaysville, UT",41.044881,-111.957606
+CI-00166,6643 Fort Union Blvd,,Smithfield,UT,84335,Sponsorship,230375,2024-11-07,Committed,"Sponsorship, Smithfield, UT",41.950526,-111.781088
+CI-00167,1301 Washington Blvd,,Sandy,UT,84070,Sponsorship,238870,2024-02-04,Committed,"Sponsorship, Sandy, UT",40.571063,-111.856758
+CI-00168,6262 1200 East,,Murray,UT,84107,Financial Literacy Program,245134,2026-04-08,Committed,"Financial Literacy Program, Murray, UT",40.648505,-111.858280
+CI-00169,6133 Bengal Blvd,,Salt Lake City,UT,84101,Grant,141556,2025-11-11,Disbursed,"Grant, Salt Lake City, UT",40.746444,-111.805556
+CI-00170,8755 400 North,,Bountiful,UT,84010,Grant,8909,2023-11-14,Committed,"Grant, Bountiful, UT",40.853184,-111.948606
+CI-00171,1298 Main St,,South Jordan,UT,84095,Sponsorship,67340,2025-10-18,Committed,"Sponsorship, South Jordan, UT",40.559486,-111.907495
+CI-00172,1475 University Ave,,Sandy,UT,84070,Sponsorship,112810,2024-10-16,Completed,"Sponsorship, Sandy, UT",40.623145,-111.824175
+CI-00173,5753 200 South,,North Ogden,UT,84414,Grant,40006,2026-03-13,Disbursed,"Grant, North Ogden, UT",41.327091,-111.984111
+CI-00174,2891 Redwood Rd,,Sandy,UT,84070,Grant,198318,2025-04-27,Committed,"Grant, Sandy, UT",40.561069,-111.820433
+CI-00175,4063 Washington Blvd,,Salt Lake City,UT,84101,Small Business Support,129383,2026-06-27,Completed,"Small Business Support, Salt Lake City, UT",40.779762,-111.861474
+CI-00176,7642 University Ave,,Sandy,UT,84070,Grant,128112,2025-04-08,Completed,"Grant, Sandy, UT",40.579109,-111.862619
+CI-00177,5971 State St,,Draper,UT,84020,Small Business Support,238735,2026-02-19,Disbursed,"Small Business Support, Draper, UT",40.533750,-111.905076
+CI-00178,1198 Washington Blvd,,Sandy,UT,84070,Grant,245800,2026-01-10,Committed,"Grant, Sandy, UT",40.595561,-111.873487
+CI-00179,3515 Fort Union Blvd,,Layton,UT,84040,Small Business Support,86945,2026-06-14,Committed,"Small Business Support, Layton, UT",41.110979,-111.900733
+CI-00180,9371 Canyon Rd,,South Jordan,UT,84095,Financial Literacy Program,177353,2024-07-10,Committed,"Financial Literacy Program, South Jordan, UT",40.541804,-111.911904
+CI-00181,4118 University Ave,,North Ogden,UT,84414,Financial Literacy Program,9656,2026-08-20,Committed,"Financial Literacy Program, North Ogden, UT",41.327764,-111.958344
+CI-00182,462 Canyon Rd,,West Valley City,UT,84119,Small Business Support,5909,2026-04-01,Disbursed,"Small Business Support, West Valley City, UT",40.638710,-112.021296
+CI-00183,5943 State St,,Bountiful,UT,84010,Sponsorship,227265,2026-04-13,Completed,"Sponsorship, Bountiful, UT",40.940620,-111.838618
+CI-00184,1388 Riverdale Rd,,Layton,UT,84040,Sponsorship,215105,2024-05-17,Completed,"Sponsorship, Layton, UT",41.106063,-111.963919
+CI-00185,3076 200 South,,Salt Lake City,UT,84101,Scholarship,169830,2025-07-28,Disbursed,"Scholarship, Salt Lake City, UT",40.825130,-111.925398
+CI-00186,1643 900 West,,West Valley City,UT,84119,Scholarship,176530,2025-07-27,Committed,"Scholarship, West Valley City, UT",40.647401,-112.022387
+CI-00187,8671 Main St,,South Jordan,UT,84095,Small Business Support,107523,2025-11-17,Completed,"Small Business Support, South Jordan, UT",40.572705,-111.913585
+CI-00188,3059 Fort Union Blvd,,Kaysville,UT,84037,Financial Literacy Program,133657,2026-03-12,Committed,"Financial Literacy Program, Kaysville, UT",40.979485,-111.983611
+CI-00189,3210 Riverdale Rd,,Ogden,UT,84401,Grant,200930,2024-11-03,Disbursed,"Grant, Ogden, UT",41.212059,-111.958158
+CI-00190,8045 University Ave,,North Logan,UT,84341,Financial Literacy Program,46589,2026-09-02,Disbursed,"Financial Literacy Program, North Logan, UT",41.747573,-111.801191
+CI-00191,3518 Fort Union Blvd,,West Valley City,UT,84119,Scholarship,6875,2024-10-19,Committed,"Scholarship, West Valley City, UT",40.657669,-111.958873
+CI-00192,3758 University Ave,,West Valley City,UT,84119,Small Business Support,29663,2024-08-27,Committed,"Small Business Support, West Valley City, UT",40.639614,-112.019110
+CI-00193,3073 University Ave,,Clearfield,UT,84015,Sponsorship,25494,2025-04-19,Disbursed,"Sponsorship, Clearfield, UT",41.076168,-112.031921
+CI-00194,7647 Canyon Rd,,Tremonton,UT,84337,Scholarship,151436,2024-08-03,Disbursed,"Scholarship, Tremonton, UT",41.708311,-112.190653
+CI-00195,8064 Bengal Blvd,,Layton,UT,84040,Small Business Support,32885,2024-12-23,Committed,"Small Business Support, Layton, UT",41.123800,-111.904559
+CI-00196,8403 Harrison Blvd,,Logan,UT,84321,Financial Literacy Program,110428,2025-11-14,Disbursed,"Financial Literacy Program, Logan, UT",41.711521,-111.820810
+CI-00197,9337 Fort Union Blvd,,Farmington,UT,84025,Sponsorship,96751,2025-12-10,Completed,"Sponsorship, Farmington, UT",40.954706,-111.838497
+CI-00198,7068 State St,,South Jordan,UT,84095,Sponsorship,183121,2024-01-30,Disbursed,"Sponsorship, South Jordan, UT",40.564082,-111.942813
+CI-00199,9412 Washington Blvd,,North Logan,UT,84341,Sponsorship,215633,2024-10-10,Completed,"Sponsorship, North Logan, UT",41.757724,-111.801329
+CI-00200,1038 Wall Ave,,Salt Lake City,UT,84101,Scholarship,163213,2026-02-26,Committed,"Scholarship, Salt Lake City, UT",40.766432,-111.855374
+CI-00201,2558 Highland Dr,,Clearfield,UT,84015,Scholarship,190519,2024-04-11,Committed,"Scholarship, Clearfield, UT",41.073276,-112.043218
+CI-00202,9536 Bengal Blvd,,South Jordan,UT,84095,Grant,35091,2025-02-20,Completed,"Grant, South Jordan, UT",40.568167,-111.935431
+CI-00203,8006 900 West,,Sandy,UT,84070,Sponsorship,214985,2024-05-11,Committed,"Sponsorship, Sandy, UT",40.618108,-111.831093
+CI-00204,8656 Highland Dr,,South Jordan,UT,84095,Grant,4135,2026-05-26,Disbursed,"Grant, South Jordan, UT",40.574948,-111.948948
+CI-00205,2743 Bengal Blvd,,South Jordan,UT,84095,Financial Literacy Program,26468,2023-10-26,Disbursed,"Financial Literacy Program, South Jordan, UT",40.569751,-111.944302
+CI-00206,4031 Washington Blvd,,Salt Lake City,UT,84101,Grant,117673,2025-02-01,Disbursed,"Grant, Salt Lake City, UT",40.717758,-111.806703
+CI-00207,4680 Harrison Blvd,,Sandy,UT,84070,Scholarship,239685,2025-07-24,Committed,"Scholarship, Sandy, UT",40.598030,-111.880270
+CI-00208,2698 400 North,,Smithfield,UT,84335,Small Business Support,36596,2023-09-16,Committed,"Small Business Support, Smithfield, UT",41.918529,-112.005840
+CI-00209,556 Bengal Blvd,,Clearfield,UT,84015,Scholarship,60637,2025-02-25,Committed,"Scholarship, Clearfield, UT",41.064511,-112.039225
+CI-00210,8078 Main St,,North Logan,UT,84341,Scholarship,196370,2025-08-27,Committed,"Scholarship, North Logan, UT",41.788662,-111.877372
+CI-00211,2882 400 North,,Sandy,UT,84070,Financial Literacy Program,231402,2026-09-06,Completed,"Financial Literacy Program, Sandy, UT",40.565503,-111.858259
+CI-00212,5605 900 West,,South Jordan,UT,84095,Grant,164515,2026-08-05,Completed,"Grant, South Jordan, UT",40.571268,-111.891938
+CI-00213,6070 Bengal Blvd,,West Valley City,UT,84119,Small Business Support,61199,2024-06-01,Committed,"Small Business Support, West Valley City, UT",40.684505,-111.993033
+CI-00214,3023 Redwood Rd,,South Jordan,UT,84095,Scholarship,167387,2025-11-10,Completed,"Scholarship, South Jordan, UT",40.572478,-111.932655
+CI-00215,1326 Wall Ave,,West Valley City,UT,84119,Small Business Support,111132,2026-01-01,Committed,"Small Business Support, West Valley City, UT",40.666433,-111.959271
+CI-00216,6758 Wall Ave,,North Ogden,UT,84414,Small Business Support,196510,2025-09-09,Disbursed,"Small Business Support, North Ogden, UT",41.255696,-111.946437
+CI-00217,3573 Washington Blvd,,Layton,UT,84040,Small Business Support,198495,2024-07-11,Committed,"Small Business Support, Layton, UT",41.046438,-111.972274
+CI-00218,9241 900 West,,West Valley City,UT,84119,Financial Literacy Program,185092,2024-02-10,Disbursed,"Financial Literacy Program, West Valley City, UT",40.684778,-111.987888
+CI-00219,2415 University Ave,,West Valley City,UT,84119,Grant,244981,2024-04-30,Disbursed,"Grant, West Valley City, UT",40.657693,-111.962358
+CI-00220,9812 Bengal Blvd,,Kaysville,UT,84037,Grant,16184,2023-12-09,Disbursed,"Grant, Kaysville, UT",40.997548,-112.006140
+CI-00221,8672 Canyon Rd,,Sandy,UT,84070,Financial Literacy Program,2846,2023-11-30,Completed,"Financial Literacy Program, Sandy, UT",40.579049,-111.855051
+CI-00222,2488 Fort Union Blvd,,West Valley City,UT,84119,Scholarship,211525,2024-07-25,Disbursed,"Scholarship, West Valley City, UT",40.702257,-112.005728
+CI-00223,9210 Wall Ave,,Clearfield,UT,84015,Financial Literacy Program,196339,2026-04-26,Committed,"Financial Literacy Program, Clearfield, UT",41.082555,-112.009775
+CI-00224,5949 Main St,,Salt Lake City,UT,84101,Grant,173919,2025-06-26,Committed,"Grant, Salt Lake City, UT",40.730154,-111.799436
+CI-00225,5806 900 West,,West Valley City,UT,84119,Financial Literacy Program,165292,2025-01-30,Disbursed,"Financial Literacy Program, West Valley City, UT",40.623181,-112.118795
+CI-00226,1858 1200 East,,South Jordan,UT,84095,Financial Literacy Program,169922,2026-07-03,Completed,"Financial Literacy Program, South Jordan, UT",40.578683,-111.937373
+CI-00227,1560 State St,,West Valley City,UT,84119,Small Business Support,93704,2026-06-06,Disbursed,"Small Business Support, West Valley City, UT",40.653378,-111.966309
+CI-00228,3079 400 North,,Ogden,UT,84401,Scholarship,149420,2024-10-28,Completed,"Scholarship, Ogden, UT",41.258831,-111.975563
+CI-00229,6906 Canyon Rd,,Layton,UT,84040,Scholarship,74404,2025-03-11,Completed,"Scholarship, Layton, UT",41.083103,-111.982162
+CI-00230,3041 Washington Blvd,,Clearfield,UT,84015,Sponsorship,76329,2023-12-15,Completed,"Sponsorship, Clearfield, UT",41.080533,-112.027053
+CI-00231,5515 Highland Dr,,Clearfield,UT,84015,Scholarship,141314,2023-12-22,Completed,"Scholarship, Clearfield, UT",41.114561,-112.005896
+CI-00232,667 Riverdale Rd,,South Jordan,UT,84095,Scholarship,190635,2025-03-31,Disbursed,"Scholarship, South Jordan, UT",40.542269,-111.914459
+CI-00233,2974 Highland Dr,,Layton,UT,84040,Small Business Support,187965,2026-04-21,Disbursed,"Small Business Support, Layton, UT",41.088477,-111.985222
+CI-00234,7229 Harrison Blvd,,West Valley City,UT,84119,Financial Literacy Program,177480,2025-08-21,Disbursed,"Financial Literacy Program, West Valley City, UT",40.647286,-112.022295
+CI-00235,8307 University Ave,,Sandy,UT,84070,Financial Literacy Program,36982,2025-07-21,Completed,"Financial Literacy Program, Sandy, UT",40.571112,-111.811175
+CI-00236,7599 400 North,,West Valley City,UT,84119,Small Business Support,145976,2025-03-20,Disbursed,"Small Business Support, West Valley City, UT",40.688310,-112.005415
+CI-00237,8702 Main St,,West Valley City,UT,84119,Grant,22447,2025-01-18,Completed,"Grant, West Valley City, UT",40.629913,-112.188188
+CI-00238,5932 State St,,Sandy,UT,84070,Grant,97047,2024-03-30,Disbursed,"Grant, Sandy, UT",40.578207,-111.863619
+CI-00239,8811 Riverdale Rd,,Layton,UT,84040,Sponsorship,46336,2026-08-01,Disbursed,"Sponsorship, Layton, UT",41.089884,-111.978878
+CI-00240,6990 Highland Dr,,Sandy,UT,84070,Scholarship,60346,2023-09-15,Committed,"Scholarship, Sandy, UT",40.561454,-111.875408
+CI-00241,2534 University Ave,,Clearfield,UT,84015,Sponsorship,172844,2025-04-05,Completed,"Sponsorship, Clearfield, UT",41.115683,-112.010897
+CI-00242,4033 Bengal Blvd,,West Valley City,UT,84119,Financial Literacy Program,210838,2026-07-26,Completed,"Financial Literacy Program, West Valley City, UT",40.702707,-111.978942
+CI-00243,2859 Main St,,Logan,UT,84321,Scholarship,244545,2025-08-24,Completed,"Scholarship, Logan, UT",41.722491,-111.814121
+CI-00244,3524 Fort Union Blvd,,South Jordan,UT,84095,Grant,101822,2023-10-06,Committed,"Grant, South Jordan, UT",40.572424,-111.910711
+CI-00245,6551 Riverdale Rd,,Clearfield,UT,84015,Sponsorship,194088,2025-02-12,Completed,"Sponsorship, Clearfield, UT",41.103920,-111.991153
+CI-00246,2907 University Ave,,Bountiful,UT,84010,Sponsorship,119991,2025-01-05,Completed,"Sponsorship, Bountiful, UT",40.873713,-111.915417
+CI-00247,1260 Washington Blvd,,West Valley City,UT,84119,Small Business Support,116744,2024-12-10,Committed,"Small Business Support, West Valley City, UT",40.627031,-112.187674
+CI-00248,1467 1200 East,,South Ogden,UT,84403,Sponsorship,218332,2025-08-30,Committed,"Sponsorship, South Ogden, UT",41.209232,-111.972186
+CI-00249,6721 Canyon Rd,,Sandy,UT,84070,Grant,205632,2024-02-11,Completed,"Grant, Sandy, UT",40.594063,-111.885656
+CI-00250,4979 State St,,Logan,UT,84321,Sponsorship,158637,2024-08-11,Completed,"Sponsorship, Logan, UT",41.708753,-111.811405
+CI-00251,5583 Wall Ave,,Bountiful,UT,84010,Financial Literacy Program,116410,2025-09-26,Disbursed,"Financial Literacy Program, Bountiful, UT",40.932668,-111.965883
+CI-00252,4095 Highland Dr,,Hyrum,UT,84319,Grant,58325,2026-06-30,Completed,"Grant, Hyrum, UT",41.593951,-111.870192
+CI-00253,130 400 North,,Ogden,UT,84401,Sponsorship,142113,2026-03-12,Disbursed,"Sponsorship, Ogden, UT",41.213365,-111.968987
+CI-00254,4798 Bengal Blvd,,Bountiful,UT,84010,Small Business Support,206454,2026-07-17,Completed,"Small Business Support, Bountiful, UT",40.874588,-111.916958
+CI-00255,5525 Bengal Blvd,,North Logan,UT,84341,Grant,111612,2025-10-31,Disbursed,"Grant, North Logan, UT",41.762730,-111.823839
+CI-00256,4266 Bengal Blvd,,Sandy,UT,84070,Sponsorship,200479,2026-09-07,Committed,"Sponsorship, Sandy, UT",40.593687,-111.884464
+CI-00257,4047 Bengal Blvd,,South Jordan,UT,84095,Small Business Support,30580,2024-10-10,Committed,"Small Business Support, South Jordan, UT",40.566969,-111.940844
+CI-00258,7654 Bengal Blvd,,Murray,UT,84107,Grant,182528,2025-01-18,Completed,"Grant, Murray, UT",40.644688,-111.857665
+CI-00259,1096 400 North,,Salt Lake City,UT,84101,Grant,63666,2026-07-10,Committed,"Grant, Salt Lake City, UT",40.774657,-111.865288
+CI-00260,1253 Harrison Blvd,,North Logan,UT,84341,Scholarship,19021,2023-10-01,Disbursed,"Scholarship, North Logan, UT",41.751194,-111.803979
+CI-00261,4606 400 North,,Ogden,UT,84401,Financial Literacy Program,99768,2024-07-04,Committed,"Financial Literacy Program, Ogden, UT",41.209544,-111.969736
+CI-00262,2502 Redwood Rd,,Sandy,UT,84070,Grant,91463,2025-04-09,Disbursed,"Grant, Sandy, UT",40.563412,-111.832556
+CI-00263,3166 200 South,,West Valley City,UT,84119,Financial Literacy Program,47372,2025-09-09,Completed,"Financial Literacy Program, West Valley City, UT",40.645677,-112.087406
+CI-00264,7381 Main St,,Layton,UT,84040,Grant,213994,2025-08-22,Disbursed,"Grant, Layton, UT",41.044083,-111.974047
+CI-00265,5990 1200 East,,South Jordan,UT,84095,Scholarship,175916,2024-08-19,Completed,"Scholarship, South Jordan, UT",40.572369,-111.899821
+CI-00266,7783 Riverdale Rd,,Sandy,UT,84070,Grant,118417,2024-04-30,Disbursed,"Grant, Sandy, UT",40.569257,-111.873958
+CI-00267,6063 Harrison Blvd,,Sandy,UT,84070,Sponsorship,160106,2026-01-31,Committed,"Sponsorship, Sandy, UT",40.559988,-111.828388
+CI-00268,5505 Highland Dr,,West Valley City,UT,84119,Financial Literacy Program,15959,2024-10-04,Disbursed,"Financial Literacy Program, West Valley City, UT",40.682259,-111.987347
+CI-00269,6469 Redwood Rd,,South Jordan,UT,84095,Small Business Support,112283,2025-10-13,Disbursed,"Small Business Support, South Jordan, UT",40.594980,-111.887911
+CI-00270,7559 Main St,,West Valley City,UT,84119,Small Business Support,180769,2025-09-17,Disbursed,"Small Business Support, West Valley City, UT",40.645526,-112.020714
+CI-00271,9096 Riverdale Rd,,Logan,UT,84321,Sponsorship,186516,2023-12-19,Disbursed,"Sponsorship, Logan, UT",41.737058,-111.830593
+CI-00272,8948 Main St,,Salt Lake City,UT,84101,Grant,150838,2025-01-28,Committed,"Grant, Salt Lake City, UT",40.771305,-111.868242
+CI-00273,6094 400 North,,South Jordan,UT,84095,Small Business Support,158536,2025-01-26,Committed,"Small Business Support, South Jordan, UT",40.571995,-111.946657
+CI-00274,5293 Highland Dr,,Roy,UT,84067,Small Business Support,167854,2026-06-14,Committed,"Small Business Support, Roy, UT",41.163756,-112.164455
+CI-00275,5430 Washington Blvd,,Roy,UT,84067,Financial Literacy Program,238214,2024-10-28,Committed,"Financial Literacy Program, Roy, UT",41.198250,-112.119626
+CI-00276,8608 Redwood Rd,,West Valley City,UT,84119,Scholarship,22879,2025-09-19,Completed,"Scholarship, West Valley City, UT",40.703365,-111.978620
+CI-00277,2466 Wall Ave,,Sandy,UT,84070,Small Business Support,52837,2026-06-18,Committed,"Small Business Support, Sandy, UT",40.564552,-111.829584
+CI-00278,255 Wall Ave,,Sandy,UT,84070,Small Business Support,15746,2024-12-19,Disbursed,"Small Business Support, Sandy, UT",40.565038,-111.853856
+CI-00279,9252 400 North,,Bountiful,UT,84010,Grant,33722,2025-09-16,Completed,"Grant, Bountiful, UT",40.862904,-111.926378
+CI-00280,7507 Washington Blvd,,West Valley City,UT,84119,Small Business Support,196123,2026-02-23,Disbursed,"Small Business Support, West Valley City, UT",40.693790,-112.002839
+CI-00281,1846 Bengal Blvd,,Clearfield,UT,84015,Grant,186591,2023-12-30,Completed,"Grant, Clearfield, UT",41.079940,-112.030227
+CI-00282,6826 University Ave,,Sandy,UT,84070,Scholarship,200802,2026-01-04,Completed,"Scholarship, Sandy, UT",40.564144,-111.814889
+CI-00283,7457 State St,,South Ogden,UT,84403,Sponsorship,243454,2023-12-04,Committed,"Sponsorship, South Ogden, UT",41.205761,-111.983353
+CI-00284,3684 900 West,,Salt Lake City,UT,84101,Scholarship,198262,2026-05-22,Committed,"Scholarship, Salt Lake City, UT",40.743639,-111.812197
+CI-00285,8508 Harrison Blvd,,West Valley City,UT,84119,Scholarship,191074,2026-05-04,Completed,"Scholarship, West Valley City, UT",40.700581,-111.991980
+CI-00286,9610 University Ave,,Kaysville,UT,84037,Small Business Support,228067,2025-07-04,Completed,"Small Business Support, Kaysville, UT",41.025407,-111.979191
+CI-00287,106 400 North,,Sandy,UT,84070,Financial Literacy Program,201928,2024-01-06,Completed,"Financial Literacy Program, Sandy, UT",40.595984,-111.883744
+CI-00288,6425 Fort Union Blvd,,Layton,UT,84040,Scholarship,184551,2025-08-25,Disbursed,"Scholarship, Layton, UT",41.122000,-111.932480
+CI-00289,2528 Main St,,Kaysville,UT,84037,Grant,227117,2024-07-25,Disbursed,"Grant, Kaysville, UT",41.001813,-111.952696
+CI-00290,7458 Washington Blvd,,Clearfield,UT,84015,Small Business Support,83133,2026-05-22,Committed,"Small Business Support, Clearfield, UT",41.112709,-112.011574
+CI-00291,6463 State St,,West Valley City,UT,84119,Grant,67142,2025-06-30,Completed,"Grant, West Valley City, UT",40.644520,-112.019599
+CI-00292,2637 400 North,,South Jordan,UT,84095,Scholarship,106621,2024-03-02,Committed,"Scholarship, South Jordan, UT",40.549205,-111.904134
+CI-00293,2444 Harrison Blvd,,Layton,UT,84040,Financial Literacy Program,85393,2026-07-19,Committed,"Financial Literacy Program, Layton, UT",41.113216,-111.888648
+CI-00294,5240 1200 East,,Salt Lake City,UT,84101,Grant,205131,2026-05-17,Completed,"Grant, Salt Lake City, UT",40.745994,-111.822187
+CI-00295,1200 Riverdale Rd,,Sandy,UT,84070,Sponsorship,107238,2025-06-06,Disbursed,"Sponsorship, Sandy, UT",40.598574,-111.880631
+CI-00296,6327 Main St,,Hyrum,UT,84319,Scholarship,146622,2026-07-09,Completed,"Scholarship, Hyrum, UT",41.664240,-111.950733
+CI-00297,2949 1200 East,,South Jordan,UT,84095,Sponsorship,33780,2024-08-03,Completed,"Sponsorship, South Jordan, UT",40.548020,-111.908866
+CI-00298,1811 1200 East,,Sandy,UT,84070,Scholarship,135900,2024-11-27,Committed,"Scholarship, Sandy, UT",40.570209,-111.870795
+CI-00299,993 Redwood Rd,,Bountiful,UT,84010,Financial Literacy Program,2823,2023-10-09,Committed,"Financial Literacy Program, Bountiful, UT",40.864967,-111.912646
+CI-00300,7745 Fort Union Blvd,,Salt Lake City,UT,84101,Sponsorship,60595,2023-11-06,Completed,"Sponsorship, Salt Lake City, UT",40.768126,-111.857240

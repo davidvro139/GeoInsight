@@ -1,0 +1,71 @@
+services:
+  mysql:
+    image: mysql:8.0
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-changeme-root}
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-geoinsight}
+      MYSQL_USER: ${MYSQL_USER:-geoinsight}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-changeme}
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p${MYSQL_ROOT_PASSWORD:-changeme-root}"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  api:
+    build:
+      context: ./backend
+    restart: unless-stopped
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:8080
+      ConnectionStrings__Default: "Server=mysql;Port=3306;Database=${MYSQL_DATABASE:-geoinsight};User=${MYSQL_USER:-geoinsight};Password=${MYSQL_PASSWORD:-changeme};"
+      Jwt__Key: ${JWT_KEY:-GeoInsight-development-only-secret-change-me-before-production-1234567890}
+      Jwt__Issuer: ${JWT_ISSUER:-GeoInsight.Api}
+      Jwt__Audience: ${JWT_AUDIENCE:-GeoInsight.Client}
+      Cors__FrontendOrigin: ${FRONTEND_ORIGIN:-http://localhost:5173}
+      Database__AutoMigrate: "true"
+      Storage__UploadsRoot: /data/uploads
+    ports:
+      - "8080:8080"
+    volumes:
+      - api-uploads:/data/uploads
+
+  worker:
+    build:
+      context: ./backend
+      dockerfile: Worker.Dockerfile
+    restart: unless-stopped
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      DOTNET_ENVIRONMENT: Development
+      ConnectionStrings__Default: "Server=mysql;Port=3306;Database=${MYSQL_DATABASE:-geoinsight};User=${MYSQL_USER:-geoinsight};Password=${MYSQL_PASSWORD:-changeme};"
+
+  frontend:
+    build:
+      context: ./frontend
+    restart: unless-stopped
+    depends_on:
+      - api
+    environment:
+      VITE_API_URL: http://localhost:8080
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./frontend:/app
+      - frontend-node-modules:/app/node_modules
+
+volumes:
+  mysql-data:
+  frontend-node-modules:
+  api-uploads:

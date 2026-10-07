@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GeoInsight.Api/GeoInsight.Api.csproj" />
+    <Project Path="src/GeoInsight.Application/GeoInsight.Application.csproj" />
+    <Project Path="src/GeoInsight.Domain/GeoInsight.Domain.csproj" />
+    <Project Path="src/GeoInsight.Infrastructure/GeoInsight.Infrastructure.csproj" />
+    <Project Path="src/GeoInsight.Worker/GeoInsight.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GeoInsight.Tests/GeoInsight.Tests.csproj" />
+  </Folder>
+</Solution>

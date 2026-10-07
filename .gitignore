@@ -1,0 +1,39 @@
+# Environment
+.env
+
+# Local agent/editor state
+.claude/
+
+# Internal planning/source-prompt documents
+01_PROJECT_OVERVIEW.md
+02_PRODUCT_REQUIREMENTS.md
+03_TECHNICAL_ARCHITECTURE.md
+04_MYSQL_DATABASE_DESIGN.md
+05_IMPLEMENTATION_ROADMAP.md
+06_UI_PAGES.md
+07_CLAUDE_MASTER_PROMPT.md
+08_FIRST_CLAUDE_TASK.md
+TODO.md
+
+# --- .NET ---
+backend/**/bin/
+backend/**/obj/
+backend/src/GeoInsight.Api/uploads/
+*.user
+*.suo
+
+# --- Node / Vite ---
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# --- Logs ---
+*.log
+npm-debug.log*
+
+# --- Editor / OS ---
+.vs/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db

@@ -1,0 +1,751 @@
+external_id,address_line_1,address_line_2,city,state,postal_code,category,amount,date,status,description,latitude,longitude
+CM-00001,1144 200 South,,Kaysville,UT,84037,Billing Dispute,,2026-04-28,Escalated,"Customer complaint: Billing Dispute, Kaysville, UT",41.034827,-111.955441
+CM-00002,4388 Washington Blvd,,North Ogden,UT,84414,Billing Dispute,,2026-04-30,Escalated,"Customer complaint: Billing Dispute, North Ogden, UT",41.263501,-111.952214
+CM-00003,8396 Fort Union Blvd,,Roy,UT,84067,Billing Dispute,,2026-03-28,Closed,"Customer complaint: Billing Dispute, Roy, UT",41.140992,-112.174832
+CM-00004,3330 400 North,,South Ogden,UT,84403,Loan Servicing,,2024-06-06,Escalated,"Customer complaint: Loan Servicing, South Ogden, UT",41.167231,-111.921832
+CM-00005,3985 Main St,,Clearfield,UT,84015,Loan Servicing,,2025-05-12,Escalated,"Customer complaint: Loan Servicing, Clearfield, UT",41.116162,-112.006062
+CM-00006,140 Highland Dr,,South Jordan,UT,84095,Fraud Report,,2026-01-25,Resolved,"Customer complaint: Fraud Report, South Jordan, UT",40.575515,-111.954483
+CM-00007,7504 Bengal Blvd,,Layton,UT,84040,Loan Servicing,,2026-08-26,Escalated,"Customer complaint: Loan Servicing, Layton, UT",41.090785,-111.981596
+CM-00008,446 Wall Ave,,Clearfield,UT,84015,Fraud Report,,2024-04-05,Escalated,"Customer complaint: Fraud Report, Clearfield, UT",41.099182,-111.979380
+CM-00009,6148 Riverdale Rd,,South Jordan,UT,84095,Fees,,2025-11-18,Resolved,"Customer complaint: Fees, South Jordan, UT",40.566465,-111.888501
+CM-00010,573 Canyon Rd,,West Valley City,UT,84119,Other,,2025-01-27,Closed,"Customer complaint: Other, West Valley City, UT",40.683236,-111.986810
+CM-00011,1374 Washington Blvd,,Sandy,UT,84070,Billing Dispute,,2025-12-17,Closed,"Customer complaint: Billing Dispute, Sandy, UT",40.575054,-111.866803
+CM-00012,848 900 West,,Sandy,UT,84070,Other,,2025-05-04,Escalated,"Customer complaint: Other, Sandy, UT",40.594023,-111.881551
+CM-00013,1333 Fort Union Blvd,,West Valley City,UT,84119,Customer Service,,2024-01-18,Closed,"Customer complaint: Customer Service, West Valley City, UT",40.642870,-112.023400
+CM-00014,1141 Wall Ave,,Clearfield,UT,84015,Loan Servicing,,2026-08-29,Closed,"Customer complaint: Loan Servicing, Clearfield, UT",41.103099,-111.998258
+CM-00015,9967 Harrison Blvd,,Clearfield,UT,84015,Loan Servicing,,2024-03-22,Resolved,"Customer complaint: Loan Servicing, Clearfield, UT",41.101132,-111.997928
+CM-00016,5003 University Ave,,Ogden,UT,84401,Fraud Report,,2024-06-14,Open,"Customer complaint: Fraud Report, Ogden, UT",41.310468,-112.223747
+CM-00017,3983 Fort Union Blvd,,West Valley City,UT,84119,Fraud Report,,2024-06-09,Closed,"Customer complaint: Fraud Report, West Valley City, UT",40.702263,-112.004886
+CM-00018,1128 State St,,West Valley City,UT,84119,Billing Dispute,,2025-05-07,Resolved,"Customer complaint: Billing Dispute, West Valley City, UT",40.702920,-112.005188
+CM-00019,4737 Wall Ave,,Sandy,UT,84070,Customer Service,,2023-12-31,Closed,"Customer complaint: Customer Service, Sandy, UT",40.619089,-111.819256
+CM-00020,539 Riverdale Rd,,Kaysville,UT,84037,Customer Service,,2026-07-07,Closed,"Customer complaint: Customer Service, Kaysville, UT",41.018699,-111.979881
+CM-00021,5965 Highland Dr,,Sandy,UT,84070,Fraud Report,,2025-07-14,Resolved,"Customer complaint: Fraud Report, Sandy, UT",40.564832,-111.861568
+CM-00022,6260 900 West,,Sandy,UT,84070,Loan Servicing,,2026-06-27,Open,"Customer complaint: Loan Servicing, Sandy, UT",40.569719,-111.854986
+CM-00023,1187 Harrison Blvd,,West Valley City,UT,84119,Other,,2026-08-19,Resolved,"Customer complaint: Other, West Valley City, UT",40.656610,-111.961019
+CM-00024,8057 900 West,,Murray,UT,84107,Loan Servicing,,2025-03-04,Escalated,"Customer complaint: Loan Servicing, Murray, UT",40.701166,-111.874912
+CM-00025,8884 Main St,,Salt Lake City,UT,84101,Fraud Report,,2025-08-15,Closed,"Customer complaint: Fraud Report, Salt Lake City, UT",40.769237,-111.861833
+CM-00026,2272 400 North,,West Valley City,UT,84119,Other,,2026-02-26,Open,"Customer complaint: Other, West Valley City, UT",40.612160,-112.131916
+CM-00027,4644 Redwood Rd,,Murray,UT,84107,Other,,2024-11-15,Closed,"Customer complaint: Other, Murray, UT",40.640648,-111.859324
+CM-00028,8912 University Ave,,Ogden,UT,84401,Customer Service,,2024-08-23,Open,"Customer complaint: Customer Service, Ogden, UT",41.251689,-111.951135
+CM-00029,4878 Canyon Rd,,Sandy,UT,84070,Billing Dispute,,2025-04-25,Closed,"Customer complaint: Billing Dispute, Sandy, UT",40.616764,-111.828453
+CM-00030,2922 Harrison Blvd,,West Valley City,UT,84119,Loan Servicing,,2026-03-24,Open,"Customer complaint: Loan Servicing, West Valley City, UT",40.634629,-112.124191
+CM-00031,1352 Main St,,South Jordan,UT,84095,Customer Service,,2025-11-21,Closed,"Customer complaint: Customer Service, South Jordan, UT",40.574992,-111.947136
+CM-00032,4815 Highland Dr,,North Ogden,UT,84414,Other,,2024-05-17,Closed,"Customer complaint: Other, North Ogden, UT",41.286157,-112.030521
+CM-00033,3097 Fort Union Blvd,,West Valley City,UT,84119,Loan Servicing,,2024-08-14,Closed,"Customer complaint: Loan Servicing, West Valley City, UT",40.690043,-112.002819
+CM-00034,1256 200 South,,Salt Lake City,UT,84101,Fees,,2024-03-09,Escalated,"Customer complaint: Fees, Salt Lake City, UT",40.743077,-111.826547
+CM-00035,5858 Wall Ave,,Draper,UT,84020,Fraud Report,,2024-07-01,Escalated,"Customer complaint: Fraud Report, Draper, UT",40.530346,-111.907432
+CM-00036,530 Washington Blvd,,South Jordan,UT,84095,Fraud Report,,2023-09-09,Resolved,"Customer complaint: Fraud Report, South Jordan, UT",40.576449,-111.932441
+CM-00037,7253 Highland Dr,,Murray,UT,84107,Other,,2024-04-29,Escalated,"Customer complaint: Other, Murray, UT",40.631524,-111.857925
+CM-00038,6443 State St,,West Valley City,UT,84119,Fees,,2023-11-30,Escalated,"Customer complaint: Fees, West Valley City, UT",40.690287,-112.004162
+CM-00039,9718 Washington Blvd,,Brigham City,UT,84302,Fraud Report,,2024-06-21,Closed,"Customer complaint: Fraud Report, Brigham City, UT",41.562256,-112.019565
+CM-00040,2220 Highland Dr,,South Ogden,UT,84403,Billing Dispute,,2026-05-08,Closed,"Customer complaint: Billing Dispute, South Ogden, UT",41.207085,-111.979791
+CM-00041,3385 Washington Blvd,,Layton,UT,84040,Customer Service,,2024-07-12,Resolved,"Customer complaint: Customer Service, Layton, UT",41.076928,-112.008529
+CM-00042,4546 Riverdale Rd,,South Jordan,UT,84095,Customer Service,,2026-06-01,Escalated,"Customer complaint: Customer Service, South Jordan, UT",40.593601,-111.886209
+CM-00043,3302 Wall Ave,,South Jordan,UT,84095,Fees,,2025-08-25,Resolved,"Customer complaint: Fees, South Jordan, UT",40.530435,-111.912758
+CM-00044,1958 Highland Dr,,South Ogden,UT,84403,Loan Servicing,,2026-02-22,Closed,"Customer complaint: Loan Servicing, South Ogden, UT",41.189180,-111.973422
+CM-00045,5450 Bengal Blvd,,Sandy,UT,84070,Other,,2024-06-28,Resolved,"Customer complaint: Other, Sandy, UT",40.567483,-111.821140
+CM-00046,1110 State St,,West Valley City,UT,84119,Fees,,2024-03-16,Escalated,"Customer complaint: Fees, West Valley City, UT",40.688689,-112.003250
+CM-00047,3603 University Ave,,Clearfield,UT,84015,Customer Service,,2025-01-11,Resolved,"Customer complaint: Customer Service, Clearfield, UT",41.079578,-112.020249
+CM-00048,2839 Fort Union Blvd,,Salt Lake City,UT,84101,Loan Servicing,,2026-05-14,Escalated,"Customer complaint: Loan Servicing, Salt Lake City, UT",40.773546,-111.869937
+CM-00049,6481 1200 East,,Clearfield,UT,84015,Other,,2025-11-04,Escalated,"Customer complaint: Other, Clearfield, UT",41.076541,-112.038688
+CM-00050,7000 Bengal Blvd,,Layton,UT,84040,Billing Dispute,,2025-12-27,Open,"Customer complaint: Billing Dispute, Layton, UT",41.075661,-112.009895
+CM-00051,6021 Bengal Blvd,,West Valley City,UT,84119,Fraud Report,,2024-02-15,Open,"Customer complaint: Fraud Report, West Valley City, UT",40.693516,-111.990549
+CM-00052,1701 Canyon Rd,,South Ogden,UT,84403,Fraud Report,,2024-11-26,Closed,"Customer complaint: Fraud Report, South Ogden, UT",41.208238,-111.969966
+CM-00053,9722 200 South,,South Jordan,UT,84095,Customer Service,,2026-02-04,Closed,"Customer complaint: Customer Service, South Jordan, UT",40.580043,-111.956725
+CM-00054,6343 900 West,,Roy,UT,84067,Billing Dispute,,2026-07-30,Open,"Customer complaint: Billing Dispute, Roy, UT",41.178019,-112.149519
+CM-00055,4812 Harrison Blvd,,Murray,UT,84107,Fraud Report,,2026-04-09,Resolved,"Customer complaint: Fraud Report, Murray, UT",40.706622,-111.873321
+CM-00056,5755 Riverdale Rd,,North Ogden,UT,84414,Other,,2025-01-03,Open,"Customer complaint: Other, North Ogden, UT",41.276236,-111.964645
+CM-00057,4207 Bengal Blvd,,West Valley City,UT,84119,Billing Dispute,,2025-03-06,Open,"Customer complaint: Billing Dispute, West Valley City, UT",40.684490,-112.003400
+CM-00058,5021 400 North,,Clearfield,UT,84015,Fees,,2024-04-09,Resolved,"Customer complaint: Fees, Clearfield, UT",41.116521,-112.010308
+CM-00059,7965 Harrison Blvd,,Salt Lake City,UT,84101,Billing Dispute,,2024-04-20,Escalated,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.768896,-111.856117
+CM-00060,4818 Washington Blvd,,Sandy,UT,84070,Fraud Report,,2024-02-28,Escalated,"Customer complaint: Fraud Report, Sandy, UT",40.559956,-111.812133
+CM-00061,9147 Washington Blvd,,Roy,UT,84067,Fraud Report,,2023-09-18,Escalated,"Customer complaint: Fraud Report, Roy, UT",41.261369,-112.200177
+CM-00062,5784 Main St,,Salt Lake City,UT,84101,Loan Servicing,,2024-02-28,Closed,"Customer complaint: Loan Servicing, Salt Lake City, UT",40.730282,-111.804559
+CM-00063,2233 Wall Ave,,Sandy,UT,84070,Fraud Report,,2025-01-09,Escalated,"Customer complaint: Fraud Report, Sandy, UT",40.616411,-111.827970
+CM-00064,9658 Washington Blvd,,West Valley City,UT,84119,Loan Servicing,,2023-09-20,Closed,"Customer complaint: Loan Servicing, West Valley City, UT",40.649822,-112.016880
+CM-00065,5548 400 North,,Salt Lake City,UT,84101,Customer Service,,2023-11-23,Open,"Customer complaint: Customer Service, Salt Lake City, UT",40.763153,-111.861779
+CM-00066,2480 Canyon Rd,,Clearfield,UT,84015,Other,,2024-04-03,Resolved,"Customer complaint: Other, Clearfield, UT",41.116825,-112.009973
+CM-00067,8048 University Ave,,Brigham City,UT,84302,Fees,,2023-11-23,Escalated,"Customer complaint: Fees, Brigham City, UT",41.516104,-112.006844
+CM-00068,8404 University Ave,,West Valley City,UT,84119,Other,,2023-11-26,Open,"Customer complaint: Other, West Valley City, UT",40.637847,-112.173703
+CM-00069,5435 Bengal Blvd,,Clearfield,UT,84015,Fees,,2025-11-18,Closed,"Customer complaint: Fees, Clearfield, UT",41.113843,-111.961866
+CM-00070,3041 900 West,,Sandy,UT,84070,Fraud Report,,2026-07-11,Resolved,"Customer complaint: Fraud Report, Sandy, UT",40.564866,-111.818658
+CM-00071,3159 Fort Union Blvd,,Murray,UT,84107,Loan Servicing,,2025-09-24,Open,"Customer complaint: Loan Servicing, Murray, UT",40.633791,-111.859969
+CM-00072,5186 200 South,,Logan,UT,84321,Fees,,2024-11-16,Escalated,"Customer complaint: Fees, Logan, UT",41.708874,-111.801666
+CM-00073,5581 900 West,,Layton,UT,84040,Other,,2026-05-10,Closed,"Customer complaint: Other, Layton, UT",41.036427,-112.001743
+CM-00074,847 Harrison Blvd,,South Jordan,UT,84095,Fees,,2025-04-27,Open,"Customer complaint: Fees, South Jordan, UT",40.569362,-111.904015
+CM-00075,1626 Riverdale Rd,,West Valley City,UT,84119,Loan Servicing,,2025-11-15,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.698354,-111.997074
+CM-00076,281 Redwood Rd,,Salt Lake City,UT,84101,Billing Dispute,,2026-05-29,Open,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.761392,-111.858562
+CM-00077,5521 Highland Dr,,Bountiful,UT,84010,Other,,2023-10-27,Open,"Customer complaint: Other, Bountiful, UT",40.839908,-111.932407
+CM-00078,7813 200 South,,West Valley City,UT,84119,Loan Servicing,,2024-09-24,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.654329,-111.957994
+CM-00079,1804 Washington Blvd,,Ogden,UT,84401,Fraud Report,,2026-07-04,Open,"Customer complaint: Fraud Report, Ogden, UT",41.250887,-111.970822
+CM-00080,8249 Redwood Rd,,Roy,UT,84067,Loan Servicing,,2025-11-20,Closed,"Customer complaint: Loan Servicing, Roy, UT",41.141643,-112.083114
+CM-00081,2308 Highland Dr,,Salt Lake City,UT,84101,Customer Service,,2024-06-19,Closed,"Customer complaint: Customer Service, Salt Lake City, UT",40.770387,-111.855045
+CM-00082,5244 200 South,,Sandy,UT,84070,Fraud Report,,2025-03-05,Closed,"Customer complaint: Fraud Report, Sandy, UT",40.563831,-111.877773
+CM-00083,2644 Main St,,West Valley City,UT,84119,Fraud Report,,2024-01-22,Open,"Customer complaint: Fraud Report, West Valley City, UT",40.648519,-112.017993
+CM-00084,2054 University Ave,,Murray,UT,84107,Fees,,2025-08-30,Resolved,"Customer complaint: Fees, Murray, UT",40.703145,-111.873582
+CM-00085,1832 1200 East,,Sandy,UT,84070,Other,,2023-12-09,Open,"Customer complaint: Other, Sandy, UT",40.565864,-111.815669
+CM-00086,6142 Riverdale Rd,,Clearfield,UT,84015,Fees,,2025-03-04,Resolved,"Customer complaint: Fees, Clearfield, UT",41.085519,-112.020049
+CM-00087,5590 Bengal Blvd,,Layton,UT,84040,Fraud Report,,2024-05-20,Closed,"Customer complaint: Fraud Report, Layton, UT",41.032724,-111.997307
+CM-00088,3694 900 West,,Sandy,UT,84070,Fraud Report,,2025-08-29,Resolved,"Customer complaint: Fraud Report, Sandy, UT",40.564564,-111.860275
+CM-00089,6178 Canyon Rd,,North Ogden,UT,84414,Fees,,2024-01-14,Resolved,"Customer complaint: Fees, North Ogden, UT",41.358806,-111.972985
+CM-00090,4925 Bengal Blvd,,Murray,UT,84107,Fraud Report,,2023-11-14,Closed,"Customer complaint: Fraud Report, Murray, UT",40.700742,-111.882495
+CM-00091,2770 Fort Union Blvd,,South Ogden,UT,84403,Fraud Report,,2025-04-19,Escalated,"Customer complaint: Fraud Report, South Ogden, UT",41.132624,-111.904897
+CM-00092,1512 Washington Blvd,,Logan,UT,84321,Fraud Report,,2024-11-09,Closed,"Customer complaint: Fraud Report, Logan, UT",41.750216,-111.833878
+CM-00093,8263 Bengal Blvd,,West Valley City,UT,84119,Loan Servicing,,2025-05-31,Open,"Customer complaint: Loan Servicing, West Valley City, UT",40.693521,-111.988448
+CM-00094,8670 1200 East,,South Ogden,UT,84403,Billing Dispute,,2024-07-12,Open,"Customer complaint: Billing Dispute, South Ogden, UT",41.209609,-111.950816
+CM-00095,9351 Fort Union Blvd,,Roy,UT,84067,Loan Servicing,,2025-11-18,Open,"Customer complaint: Loan Servicing, Roy, UT",41.170300,-112.040894
+CM-00096,6150 400 North,,South Jordan,UT,84095,Fraud Report,,2025-06-07,Resolved,"Customer complaint: Fraud Report, South Jordan, UT",40.548910,-111.902585
+CM-00097,6586 Riverdale Rd,,Roy,UT,84067,Loan Servicing,,2025-07-23,Resolved,"Customer complaint: Loan Servicing, Roy, UT",41.192558,-112.302003
+CM-00098,9582 Main St,,West Valley City,UT,84119,Fraud Report,,2026-06-20,Escalated,"Customer complaint: Fraud Report, West Valley City, UT",40.688333,-111.988084
+CM-00099,2653 Main St,,West Valley City,UT,84119,Customer Service,,2024-12-17,Escalated,"Customer complaint: Customer Service, West Valley City, UT",40.702078,-111.984322
+CM-00100,7679 Canyon Rd,,Murray,UT,84107,Other,,2023-12-12,Open,"Customer complaint: Other, Murray, UT",40.691721,-111.873682
+CM-00101,1331 Bengal Blvd,,Sandy,UT,84070,Customer Service,,2024-01-20,Closed,"Customer complaint: Customer Service, Sandy, UT",40.583463,-111.880154
+CM-00102,278 Washington Blvd,,Clearfield,UT,84015,Customer Service,,2025-10-28,Resolved,"Customer complaint: Customer Service, Clearfield, UT",41.087143,-112.027509
+CM-00103,4096 Redwood Rd,,Murray,UT,84107,Loan Servicing,,2024-02-08,Resolved,"Customer complaint: Loan Servicing, Murray, UT",40.642725,-111.859642
+CM-00104,8174 Riverdale Rd,,South Ogden,UT,84403,Loan Servicing,,2025-11-16,Closed,"Customer complaint: Loan Servicing, South Ogden, UT",41.207595,-111.954760
+CM-00105,1561 Fort Union Blvd,,Murray,UT,84107,Loan Servicing,,2025-11-23,Resolved,"Customer complaint: Loan Servicing, Murray, UT",40.692622,-111.872289
+CM-00106,991 400 North,,West Valley City,UT,84119,Other,,2024-02-13,Closed,"Customer complaint: Other, West Valley City, UT",40.697085,-111.981680
+CM-00107,1679 Highland Dr,,Tremonton,UT,84337,Customer Service,,2025-04-29,Closed,"Customer complaint: Customer Service, Tremonton, UT",41.580971,-112.353776
+CM-00108,5145 Canyon Rd,,South Jordan,UT,84095,Fees,,2026-08-17,Open,"Customer complaint: Fees, South Jordan, UT",40.546244,-111.914341
+CM-00109,4088 Riverdale Rd,,West Valley City,UT,84119,Loan Servicing,,2025-01-09,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.682828,-111.988970
+CM-00110,6589 Bengal Blvd,,Clearfield,UT,84015,Fraud Report,,2025-08-04,Closed,"Customer complaint: Fraud Report, Clearfield, UT",41.082986,-112.043367
+CM-00111,997 Washington Blvd,,Logan,UT,84321,Customer Service,,2024-06-19,Closed,"Customer complaint: Customer Service, Logan, UT",41.744354,-111.856000
+CM-00112,8677 Bengal Blvd,,West Valley City,UT,84119,Fraud Report,,2025-02-23,Escalated,"Customer complaint: Fraud Report, West Valley City, UT",40.696646,-111.987146
+CM-00113,7608 Riverdale Rd,,South Jordan,UT,84095,Other,,2026-04-14,Escalated,"Customer complaint: Other, South Jordan, UT",40.566398,-111.940190
+CM-00114,310 Harrison Blvd,,Perry,UT,84302,Customer Service,,2026-05-25,Closed,"Customer complaint: Customer Service, Perry, UT",41.386747,-112.086222
+CM-00115,7137 Highland Dr,,North Ogden,UT,84414,Loan Servicing,,2024-01-14,Resolved,"Customer complaint: Loan Servicing, North Ogden, UT",41.329736,-111.971713
+CM-00116,3856 1200 East,,Kaysville,UT,84037,Customer Service,,2024-02-11,Closed,"Customer complaint: Customer Service, Kaysville, UT",41.003624,-111.987467
+CM-00117,7760 Main St,,West Valley City,UT,84119,Customer Service,,2024-06-22,Open,"Customer complaint: Customer Service, West Valley City, UT",40.688465,-112.173795
+CM-00118,8843 Main St,,West Valley City,UT,84119,Loan Servicing,,2023-09-25,Resolved,"Customer complaint: Loan Servicing, West Valley City, UT",40.700890,-111.977741
+CM-00119,5331 University Ave,,Murray,UT,84107,Customer Service,,2024-05-17,Open,"Customer complaint: Customer Service, Murray, UT",40.647744,-111.855030
+CM-00120,2017 Harrison Blvd,,Murray,UT,84107,Customer Service,,2024-02-09,Closed,"Customer complaint: Customer Service, Murray, UT",40.638561,-111.864425
+CM-00121,2214 900 West,,Sandy,UT,84070,Fraud Report,,2024-10-07,Open,"Customer complaint: Fraud Report, Sandy, UT",40.566432,-111.880273
+CM-00122,485 1200 East,,Bountiful,UT,84010,Fees,,2024-07-06,Open,"Customer complaint: Fees, Bountiful, UT",40.849432,-111.950229
+CM-00123,6640 Main St,,West Valley City,UT,84119,Fraud Report,,2025-03-20,Resolved,"Customer complaint: Fraud Report, West Valley City, UT",40.659349,-111.965852
+CM-00124,9547 900 West,,South Jordan,UT,84095,Other,,2024-05-18,Escalated,"Customer complaint: Other, South Jordan, UT",40.561812,-111.887152
+CM-00125,9696 Harrison Blvd,,West Valley City,UT,84119,Fees,,2025-01-25,Open,"Customer complaint: Fees, West Valley City, UT",40.643234,-112.019803
+CM-00126,1679 Riverdale Rd,,Farmington,UT,84025,Fees,,2026-06-29,Open,"Customer complaint: Fees, Farmington, UT",40.947684,-111.871620
+CM-00127,3199 1200 East,,Sandy,UT,84070,Fees,,2025-11-08,Closed,"Customer complaint: Fees, Sandy, UT",40.575579,-111.869596
+CM-00128,3732 1200 East,,Ogden,UT,84401,Other,,2025-03-31,Escalated,"Customer complaint: Other, Ogden, UT",41.219500,-111.951700
+CM-00129,2323 Redwood Rd,,West Valley City,UT,84119,Loan Servicing,,2024-02-06,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.646067,-112.116336
+CM-00130,4360 Harrison Blvd,,Sandy,UT,84070,Fraud Report,,2026-08-04,Closed,"Customer complaint: Fraud Report, Sandy, UT",40.564327,-111.854363
+CM-00131,1069 900 West,,Salt Lake City,UT,84101,Billing Dispute,,2026-01-01,Resolved,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.735732,-111.811200
+CM-00132,8788 State St,,Roy,UT,84067,Billing Dispute,,2026-03-23,Resolved,"Customer complaint: Billing Dispute, Roy, UT",41.183093,-112.124924
+CM-00133,6036 900 West,,Salt Lake City,UT,84101,Customer Service,,2024-04-26,Closed,"Customer complaint: Customer Service, Salt Lake City, UT",40.778059,-111.852304
+CM-00134,5555 400 North,,Clearfield,UT,84015,Fees,,2025-06-22,Open,"Customer complaint: Fees, Clearfield, UT",41.087763,-112.033299
+CM-00135,237 Riverdale Rd,,North Logan,UT,84341,Other,,2024-11-07,Escalated,"Customer complaint: Other, North Logan, UT",41.795278,-111.821472
+CM-00136,2462 Fort Union Blvd,,Logan,UT,84321,Loan Servicing,,2024-02-27,Escalated,"Customer complaint: Loan Servicing, Logan, UT",41.739852,-111.824376
+CM-00137,3516 Main St,,North Ogden,UT,84414,Other,,2026-08-08,Open,"Customer complaint: Other, North Ogden, UT",41.345823,-111.963079
+CM-00138,2423 Canyon Rd,,Sandy,UT,84070,Fraud Report,,2024-09-26,Closed,"Customer complaint: Fraud Report, Sandy, UT",40.562687,-111.861508
+CM-00139,2439 Highland Dr,,Clearfield,UT,84015,Fraud Report,,2025-06-20,Closed,"Customer complaint: Fraud Report, Clearfield, UT",41.099464,-112.126363
+CM-00140,2020 Main St,,West Valley City,UT,84119,Fees,,2024-10-01,Open,"Customer complaint: Fees, West Valley City, UT",40.641047,-112.020798
+CM-00141,9249 State St,,North Ogden,UT,84414,Billing Dispute,,2025-08-23,Closed,"Customer complaint: Billing Dispute, North Ogden, UT",41.329468,-112.060045
+CM-00142,6158 400 North,,South Jordan,UT,84095,Fees,,2024-11-03,Resolved,"Customer complaint: Fees, South Jordan, UT",40.547900,-111.906493
+CM-00143,9498 State St,,West Valley City,UT,84119,Billing Dispute,,2025-01-12,Resolved,"Customer complaint: Billing Dispute, West Valley City, UT",40.655899,-111.957768
+CM-00144,3645 Canyon Rd,,Sandy,UT,84070,Billing Dispute,,2025-06-21,Closed,"Customer complaint: Billing Dispute, Sandy, UT",40.595746,-111.880384
+CM-00145,1912 Riverdale Rd,,Layton,UT,84040,Customer Service,,2025-12-02,Escalated,"Customer complaint: Customer Service, Layton, UT",41.075091,-112.014331
+CM-00146,5821 Main St,,North Ogden,UT,84414,Customer Service,,2025-09-27,Open,"Customer complaint: Customer Service, North Ogden, UT",41.295365,-112.096113
+CM-00147,5144 900 West,,Bountiful,UT,84010,Loan Servicing,,2024-09-02,Open,"Customer complaint: Loan Servicing, Bountiful, UT",40.922286,-111.981499
+CM-00148,515 Highland Dr,,Sandy,UT,84070,Other,,2025-12-30,Resolved,"Customer complaint: Other, Sandy, UT",40.594680,-111.881113
+CM-00149,5792 Canyon Rd,,Logan,UT,84321,Loan Servicing,,2024-11-24,Open,"Customer complaint: Loan Servicing, Logan, UT",41.749683,-111.848458
+CM-00150,1043 Canyon Rd,,Sandy,UT,84070,Customer Service,,2026-03-11,Resolved,"Customer complaint: Customer Service, Sandy, UT",40.567291,-111.858603
+CM-00151,6738 University Ave,,Murray,UT,84107,Fraud Report,,2026-03-20,Closed,"Customer complaint: Fraud Report, Murray, UT",40.707289,-111.875822
+CM-00152,3427 Redwood Rd,,Murray,UT,84107,Loan Servicing,,2026-07-12,Escalated,"Customer complaint: Loan Servicing, Murray, UT",40.700691,-111.884215
+CM-00153,4065 University Ave,,Clearfield,UT,84015,Billing Dispute,,2026-05-13,Closed,"Customer complaint: Billing Dispute, Clearfield, UT",41.076970,-112.015669
+CM-00154,1194 Canyon Rd,,North Logan,UT,84341,Fees,,2024-11-05,Escalated,"Customer complaint: Fees, North Logan, UT",41.755548,-111.825762
+CM-00155,2100 Harrison Blvd,,Murray,UT,84107,Customer Service,,2025-08-22,Open,"Customer complaint: Customer Service, Murray, UT",40.644279,-111.854848
+CM-00156,6756 University Ave,,Clearfield,UT,84015,Loan Servicing,,2026-03-18,Open,"Customer complaint: Loan Servicing, Clearfield, UT",41.112810,-112.001135
+CM-00157,2862 Washington Blvd,,South Jordan,UT,84095,Other,,2025-01-04,Open,"Customer complaint: Other, South Jordan, UT",40.540539,-111.913078
+CM-00158,7938 200 South,,Sandy,UT,84070,Fees,,2024-10-13,Open,"Customer complaint: Fees, Sandy, UT",40.570512,-111.858775
+CM-00159,8952 Redwood Rd,,North Ogden,UT,84414,Customer Service,,2024-04-22,Resolved,"Customer complaint: Customer Service, North Ogden, UT",41.329910,-112.001987
+CM-00160,5726 200 South,,Sandy,UT,84070,Other,,2025-12-09,Closed,"Customer complaint: Other, Sandy, UT",40.621513,-111.819162
+CM-00161,7271 Wall Ave,,Sandy,UT,84070,Billing Dispute,,2024-10-31,Closed,"Customer complaint: Billing Dispute, Sandy, UT",40.589445,-111.880225
+CM-00162,4368 Fort Union Blvd,,West Valley City,UT,84119,Loan Servicing,,2025-02-25,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.667304,-111.966147
+CM-00163,9441 Bengal Blvd,,West Valley City,UT,84119,Loan Servicing,,2025-11-17,Open,"Customer complaint: Loan Servicing, West Valley City, UT",40.692351,-111.996742
+CM-00164,3250 Harrison Blvd,,Layton,UT,84040,Loan Servicing,,2024-04-18,Open,"Customer complaint: Loan Servicing, Layton, UT",41.089742,-111.986928
+CM-00165,8957 Riverdale Rd,,Sandy,UT,84070,Fees,,2025-10-26,Closed,"Customer complaint: Fees, Sandy, UT",40.581932,-111.874994
+CM-00166,8125 University Ave,,South Jordan,UT,84095,Customer Service,,2024-11-15,Closed,"Customer complaint: Customer Service, South Jordan, UT",40.566062,-111.941417
+CM-00167,5721 1200 East,,South Jordan,UT,84095,Fees,,2024-03-21,Escalated,"Customer complaint: Fees, South Jordan, UT",40.577562,-111.920192
+CM-00168,1475 Redwood Rd,,Brigham City,UT,84302,Other,,2026-06-24,Closed,"Customer complaint: Other, Brigham City, UT",41.554050,-111.940410
+CM-00169,2709 400 North,,Kaysville,UT,84037,Billing Dispute,,2024-01-15,Resolved,"Customer complaint: Billing Dispute, Kaysville, UT",41.022054,-111.957397
+CM-00170,2649 University Ave,,Clearfield,UT,84015,Loan Servicing,,2024-09-11,Closed,"Customer complaint: Loan Servicing, Clearfield, UT",41.080619,-112.036245
+CM-00171,7315 Harrison Blvd,,Sandy,UT,84070,Fees,,2024-03-23,Resolved,"Customer complaint: Fees, Sandy, UT",40.583844,-111.878845
+CM-00172,3709 State St,,Brigham City,UT,84302,Customer Service,,2024-02-03,Resolved,"Customer complaint: Customer Service, Brigham City, UT",41.497113,-112.013351
+CM-00173,4045 900 West,,Layton,UT,84040,Other,,2025-09-02,Resolved,"Customer complaint: Other, Layton, UT",41.032201,-111.994058
+CM-00174,8688 Canyon Rd,,Clearfield,UT,84015,Billing Dispute,,2024-11-29,Resolved,"Customer complaint: Billing Dispute, Clearfield, UT",41.114893,-112.008910
+CM-00175,6834 Riverdale Rd,,North Ogden,UT,84414,Billing Dispute,,2024-05-04,Escalated,"Customer complaint: Billing Dispute, North Ogden, UT",41.274420,-111.960388
+CM-00176,6273 Harrison Blvd,,South Ogden,UT,84403,Fees,,2023-11-25,Resolved,"Customer complaint: Fees, South Ogden, UT",41.196236,-111.975590
+CM-00177,3849 Highland Dr,,Murray,UT,84107,Billing Dispute,,2026-02-12,Open,"Customer complaint: Billing Dispute, Murray, UT",40.690667,-111.874126
+CM-00178,1050 Bengal Blvd,,Roy,UT,84067,Fraud Report,,2023-12-05,Open,"Customer complaint: Fraud Report, Roy, UT",41.143665,-112.064954
+CM-00179,9998 Highland Dr,,Layton,UT,84040,Fraud Report,,2025-04-08,Resolved,"Customer complaint: Fraud Report, Layton, UT",41.048050,-111.962665
+CM-00180,804 Redwood Rd,,South Ogden,UT,84403,Other,,2024-07-11,Escalated,"Customer complaint: Other, South Ogden, UT",41.156989,-111.898680
+CM-00181,8970 Bengal Blvd,,South Jordan,UT,84095,Customer Service,,2025-11-26,Resolved,"Customer complaint: Customer Service, South Jordan, UT",40.586440,-111.885508
+CM-00182,3496 University Ave,,Logan,UT,84321,Loan Servicing,,2024-04-28,Escalated,"Customer complaint: Loan Servicing, Logan, UT",41.731053,-111.882692
+CM-00183,2996 Riverdale Rd,,West Valley City,UT,84119,Loan Servicing,,2024-08-16,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.718642,-112.215564
+CM-00184,6290 400 North,,Ogden,UT,84401,Fraud Report,,2024-02-16,Closed,"Customer complaint: Fraud Report, Ogden, UT",41.212344,-111.978403
+CM-00185,1340 1200 East,,Clearfield,UT,84015,Loan Servicing,,2025-07-02,Escalated,"Customer complaint: Loan Servicing, Clearfield, UT",41.129529,-112.009008
+CM-00186,6859 Wall Ave,,Salt Lake City,UT,84101,Fraud Report,,2025-03-03,Resolved,"Customer complaint: Fraud Report, Salt Lake City, UT",40.774421,-111.871149
+CM-00187,2445 State St,,West Valley City,UT,84119,Billing Dispute,,2024-02-11,Closed,"Customer complaint: Billing Dispute, West Valley City, UT",40.691268,-112.005671
+CM-00188,7679 Bengal Blvd,,Kaysville,UT,84037,Fraud Report,,2025-06-05,Escalated,"Customer complaint: Fraud Report, Kaysville, UT",41.019724,-111.944477
+CM-00189,3826 Riverdale Rd,,Murray,UT,84107,Customer Service,,2024-07-02,Closed,"Customer complaint: Customer Service, Murray, UT",40.642697,-111.858877
+CM-00190,3212 Riverdale Rd,,Sandy,UT,84070,Fees,,2026-07-25,Escalated,"Customer complaint: Fees, Sandy, UT",40.567875,-111.836143
+CM-00191,2068 Wall Ave,,West Valley City,UT,84119,Billing Dispute,,2024-11-29,Escalated,"Customer complaint: Billing Dispute, West Valley City, UT",40.692319,-112.001567
+CM-00192,7910 Riverdale Rd,,Sandy,UT,84070,Billing Dispute,,2025-12-10,Resolved,"Customer complaint: Billing Dispute, Sandy, UT",40.570542,-111.860839
+CM-00193,1509 Riverdale Rd,,Murray,UT,84107,Billing Dispute,,2025-04-05,Open,"Customer complaint: Billing Dispute, Murray, UT",40.647343,-111.863620
+CM-00194,4649 900 West,,West Valley City,UT,84119,Billing Dispute,,2026-08-07,Resolved,"Customer complaint: Billing Dispute, West Valley City, UT",40.686827,-111.989991
+CM-00195,8077 Bengal Blvd,,Murray,UT,84107,Fees,,2026-08-20,Escalated,"Customer complaint: Fees, Murray, UT",40.639378,-111.856499
+CM-00196,1308 Fort Union Blvd,,Sandy,UT,84070,Fraud Report,,2023-11-26,Escalated,"Customer complaint: Fraud Report, Sandy, UT",40.562097,-111.867889
+CM-00197,1322 State St,,West Valley City,UT,84119,Other,,2024-04-08,Escalated,"Customer complaint: Other, West Valley City, UT",40.624627,-112.144111
+CM-00198,2477 200 South,,Roy,UT,84067,Customer Service,,2024-07-06,Closed,"Customer complaint: Customer Service, Roy, UT",41.144730,-112.076738
+CM-00199,230 State St,,West Valley City,UT,84119,Fraud Report,,2024-10-07,Escalated,"Customer complaint: Fraud Report, West Valley City, UT",40.646654,-112.020373
+CM-00200,1520 Wall Ave,,West Valley City,UT,84119,Billing Dispute,,2025-01-01,Escalated,"Customer complaint: Billing Dispute, West Valley City, UT",40.698346,-111.981813
+CM-00201,7857 Washington Blvd,,Sandy,UT,84070,Fraud Report,,2024-10-30,Escalated,"Customer complaint: Fraud Report, Sandy, UT",40.561329,-111.865146
+CM-00202,3004 Bengal Blvd,,South Jordan,UT,84095,Fraud Report,,2025-04-11,Resolved,"Customer complaint: Fraud Report, South Jordan, UT",40.562459,-111.907722
+CM-00203,1993 200 South,,South Ogden,UT,84403,Customer Service,,2023-11-07,Escalated,"Customer complaint: Customer Service, South Ogden, UT",41.134274,-111.862414
+CM-00204,3500 Redwood Rd,,West Valley City,UT,84119,Billing Dispute,,2024-05-01,Escalated,"Customer complaint: Billing Dispute, West Valley City, UT",40.683569,-111.989377
+CM-00205,9138 Highland Dr,,Ogden,UT,84401,Fraud Report,,2024-02-16,Escalated,"Customer complaint: Fraud Report, Ogden, UT",41.212410,-111.956568
+CM-00206,6790 Redwood Rd,,Sandy,UT,84070,Other,,2024-07-27,Closed,"Customer complaint: Other, Sandy, UT",40.566965,-111.826895
+CM-00207,4183 Canyon Rd,,West Valley City,UT,84119,Customer Service,,2024-08-05,Resolved,"Customer complaint: Customer Service, West Valley City, UT",40.659280,-111.967325
+CM-00208,6523 Canyon Rd,,Layton,UT,84040,Fees,,2026-04-21,Closed,"Customer complaint: Fees, Layton, UT",41.123417,-111.868587
+CM-00209,4486 400 North,,Clearfield,UT,84015,Other,,2025-11-03,Closed,"Customer complaint: Other, Clearfield, UT",41.114320,-112.002285
+CM-00210,6870 Canyon Rd,,Sandy,UT,84070,Fraud Report,,2025-03-25,Escalated,"Customer complaint: Fraud Report, Sandy, UT",40.559104,-111.864939
+CM-00211,8188 400 North,,South Ogden,UT,84403,Billing Dispute,,2026-02-13,Closed,"Customer complaint: Billing Dispute, South Ogden, UT",41.160143,-111.882882
+CM-00212,8460 Wall Ave,,Ogden,UT,84401,Customer Service,,2025-12-23,Escalated,"Customer complaint: Customer Service, Ogden, UT",41.254741,-111.980749
+CM-00213,4659 900 West,,South Jordan,UT,84095,Customer Service,,2025-09-11,Resolved,"Customer complaint: Customer Service, South Jordan, UT",40.582006,-111.893191
+CM-00214,9911 Harrison Blvd,,Clearfield,UT,84015,Customer Service,,2025-06-15,Open,"Customer complaint: Customer Service, Clearfield, UT",41.077245,-112.033482
+CM-00215,9357 Harrison Blvd,,North Ogden,UT,84414,Billing Dispute,,2025-06-18,Resolved,"Customer complaint: Billing Dispute, North Ogden, UT",41.360321,-111.961618
+CM-00216,3953 Harrison Blvd,,West Valley City,UT,84119,Loan Servicing,,2025-07-29,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.651963,-112.020303
+CM-00217,1599 Redwood Rd,,North Ogden,UT,84414,Fraud Report,,2025-10-10,Closed,"Customer complaint: Fraud Report, North Ogden, UT",41.337828,-111.988778
+CM-00218,8294 Riverdale Rd,,West Valley City,UT,84119,Billing Dispute,,2025-07-21,Closed,"Customer complaint: Billing Dispute, West Valley City, UT",40.686932,-112.004145
+CM-00219,5165 Wall Ave,,Sandy,UT,84070,Billing Dispute,,2024-08-27,Closed,"Customer complaint: Billing Dispute, Sandy, UT",40.585424,-111.883230
+CM-00220,7641 Bengal Blvd,,West Valley City,UT,84119,Loan Servicing,,2025-12-03,Open,"Customer complaint: Loan Servicing, West Valley City, UT",40.688248,-111.993186
+CM-00221,8078 Riverdale Rd,,Salt Lake City,UT,84101,Other,,2025-09-07,Resolved,"Customer complaint: Other, Salt Lake City, UT",40.732467,-111.796830
+CM-00222,3794 Highland Dr,,Ogden,UT,84401,Fraud Report,,2025-03-27,Open,"Customer complaint: Fraud Report, Ogden, UT",41.235872,-111.946670
+CM-00223,7243 Bengal Blvd,,Sandy,UT,84070,Fees,,2023-10-16,Closed,"Customer complaint: Fees, Sandy, UT",40.568677,-111.872012
+CM-00224,3866 Highland Dr,,Tremonton,UT,84337,Customer Service,,2026-07-12,Resolved,"Customer complaint: Customer Service, Tremonton, UT",41.191905,-113.962863
+CM-00225,1009 University Ave,,Sandy,UT,84070,Customer Service,,2025-08-19,Escalated,"Customer complaint: Customer Service, Sandy, UT",40.616541,-111.822091
+CM-00226,2295 Fort Union Blvd,,Ogden,UT,84401,Billing Dispute,,2024-03-31,Closed,"Customer complaint: Billing Dispute, Ogden, UT",41.225225,-111.952689
+CM-00227,6251 Canyon Rd,,Roy,UT,84067,Other,,2025-12-11,Open,"Customer complaint: Other, Roy, UT",41.247762,-112.209295
+CM-00228,1538 200 South,,Sandy,UT,84070,Customer Service,,2026-02-05,Escalated,"Customer complaint: Customer Service, Sandy, UT",40.559405,-111.874201
+CM-00229,5419 1200 East,,Logan,UT,84321,Fees,,2025-12-26,Closed,"Customer complaint: Fees, Logan, UT",41.709306,-111.812207
+CM-00230,8073 Riverdale Rd,,West Valley City,UT,84119,Fees,,2025-03-01,Open,"Customer complaint: Fees, West Valley City, UT",40.639728,-112.022604
+CM-00231,7138 University Ave,,Tremonton,UT,84337,Billing Dispute,,2025-09-07,Resolved,"Customer complaint: Billing Dispute, Tremonton, UT",41.824689,-112.122248
+CM-00232,9810 Main St,,Sandy,UT,84070,Fraud Report,,2025-12-22,Closed,"Customer complaint: Fraud Report, Sandy, UT",40.563282,-111.834828
+CM-00233,3794 Riverdale Rd,,North Ogden,UT,84414,Fraud Report,,2024-04-03,Closed,"Customer complaint: Fraud Report, North Ogden, UT",41.261956,-111.973021
+CM-00234,2597 Canyon Rd,,Ogden,UT,84401,Billing Dispute,,2026-06-30,Closed,"Customer complaint: Billing Dispute, Ogden, UT",41.283134,-112.087421
+CM-00235,2735 State St,,Clearfield,UT,84015,Fraud Report,,2025-08-08,Escalated,"Customer complaint: Fraud Report, Clearfield, UT",41.089387,-112.414290
+CM-00236,8807 400 North,,West Valley City,UT,84119,Customer Service,,2024-04-11,Resolved,"Customer complaint: Customer Service, West Valley City, UT",40.677065,-112.193982
+CM-00237,9101 Harrison Blvd,,Brigham City,UT,84302,Other,,2025-09-10,Closed,"Customer complaint: Other, Brigham City, UT",41.479194,-111.885795
+CM-00238,520 Fort Union Blvd,,North Ogden,UT,84414,Other,,2025-03-24,Open,"Customer complaint: Other, North Ogden, UT",41.292501,-112.050557
+CM-00239,334 Riverdale Rd,,South Jordan,UT,84095,Loan Servicing,,2025-11-29,Escalated,"Customer complaint: Loan Servicing, South Jordan, UT",40.586123,-111.899892
+CM-00240,9186 1200 East,,North Ogden,UT,84414,Fraud Report,,2026-06-28,Open,"Customer complaint: Fraud Report, North Ogden, UT",41.266887,-111.955389
+CM-00241,7691 Riverdale Rd,,Logan,UT,84321,Customer Service,,2023-09-28,Escalated,"Customer complaint: Customer Service, Logan, UT",41.739116,-111.809762
+CM-00242,8326 Bengal Blvd,,Sandy,UT,84070,Billing Dispute,,2024-11-26,Closed,"Customer complaint: Billing Dispute, Sandy, UT",40.562445,-111.863500
+CM-00243,9795 200 South,,Sandy,UT,84070,Customer Service,,2023-09-17,Closed,"Customer complaint: Customer Service, Sandy, UT",40.570823,-111.811274
+CM-00244,2946 Fort Union Blvd,,Sandy,UT,84070,Other,,2024-02-29,Resolved,"Customer complaint: Other, Sandy, UT",40.560885,-111.813455
+CM-00245,3810 200 South,,Salt Lake City,UT,84101,Billing Dispute,,2024-05-18,Resolved,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.774337,-111.855537
+CM-00246,4830 University Ave,,Sandy,UT,84070,Billing Dispute,,2024-10-28,Escalated,"Customer complaint: Billing Dispute, Sandy, UT",40.623122,-111.829106
+CM-00247,5823 Highland Dr,,North Ogden,UT,84414,Loan Servicing,,2025-04-01,Resolved,"Customer complaint: Loan Servicing, North Ogden, UT",41.310854,-112.177842
+CM-00248,4186 200 South,,Logan,UT,84321,Loan Servicing,,2026-08-28,Open,"Customer complaint: Loan Servicing, Logan, UT",41.710616,-111.816371
+CM-00249,104 Washington Blvd,,Logan,UT,84321,Fees,,2025-04-01,Escalated,"Customer complaint: Fees, Logan, UT",41.744095,-111.851432
+CM-00250,7253 400 North,,South Jordan,UT,84095,Other,,2024-03-15,Resolved,"Customer complaint: Other, South Jordan, UT",40.527555,-111.918206
+CM-00251,5855 900 West,,Clearfield,UT,84015,Customer Service,,2024-03-07,Open,"Customer complaint: Customer Service, Clearfield, UT",41.107544,-112.353307
+CM-00252,7874 900 West,,North Logan,UT,84341,Billing Dispute,,2026-08-07,Open,"Customer complaint: Billing Dispute, North Logan, UT",41.752638,-111.793289
+CM-00253,1050 900 West,,Sandy,UT,84070,Fraud Report,,2026-08-20,Resolved,"Customer complaint: Fraud Report, Sandy, UT",40.612532,-111.819475
+CM-00254,3997 Canyon Rd,,Sandy,UT,84070,Other,,2025-12-28,Resolved,"Customer complaint: Other, Sandy, UT",40.620325,-111.824058
+CM-00255,9129 Harrison Blvd,,Logan,UT,84321,Fraud Report,,2025-03-18,Open,"Customer complaint: Fraud Report, Logan, UT",41.727647,-111.816371
+CM-00256,2065 Wall Ave,,Sandy,UT,84070,Fraud Report,,2026-06-19,Open,"Customer complaint: Fraud Report, Sandy, UT",40.572434,-111.864978
+CM-00257,5467 200 South,,Murray,UT,84107,Other,,2023-10-21,Open,"Customer complaint: Other, Murray, UT",40.645027,-111.864853
+CM-00258,884 900 West,,Kaysville,UT,84037,Fraud Report,,2026-06-16,Closed,"Customer complaint: Fraud Report, Kaysville, UT",41.023508,-111.970792
+CM-00259,8447 Bengal Blvd,,South Jordan,UT,84095,Fraud Report,,2024-01-13,Escalated,"Customer complaint: Fraud Report, South Jordan, UT",40.548512,-111.903050
+CM-00260,6831 State St,,North Logan,UT,84341,Customer Service,,2025-04-16,Open,"Customer complaint: Customer Service, North Logan, UT",41.740687,-111.790887
+CM-00261,3628 1200 East,,West Valley City,UT,84119,Loan Servicing,,2025-09-22,Closed,"Customer complaint: Loan Servicing, West Valley City, UT",40.666839,-111.956125
+CM-00262,8792 Washington Blvd,,Salt Lake City,UT,84101,Fees,,2026-06-06,Closed,"Customer complaint: Fees, Salt Lake City, UT",40.777351,-111.864984
+CM-00263,9974 Bengal Blvd,,Clearfield,UT,84015,Fees,,2025-12-18,Resolved,"Customer complaint: Fees, Clearfield, UT",41.083887,-112.009368
+CM-00264,2470 Wall Ave,,Clearfield,UT,84015,Billing Dispute,,2025-03-21,Resolved,"Customer complaint: Billing Dispute, Clearfield, UT",41.092158,-112.185309
+CM-00265,4275 400 North,,Sandy,UT,84070,Customer Service,,2025-06-22,Closed,"Customer complaint: Customer Service, Sandy, UT",40.560514,-111.869402
+CM-00266,6173 Wall Ave,,South Jordan,UT,84095,Billing Dispute,,2023-11-18,Resolved,"Customer complaint: Billing Dispute, South Jordan, UT",40.530494,-111.920998
+CM-00267,3435 University Ave,,South Jordan,UT,84095,Billing Dispute,,2025-09-22,Open,"Customer complaint: Billing Dispute, South Jordan, UT",40.538627,-111.903916
+CM-00268,3177 Washington Blvd,,West Valley City,UT,84119,Loan Servicing,,2024-05-10,Open,"Customer complaint: Loan Servicing, West Valley City, UT",40.653878,-111.961820
+CM-00269,2912 1200 East,,Smithfield,UT,84335,Customer Service,,2025-02-15,Open,"Customer complaint: Customer Service, Smithfield, UT",41.948784,-111.638802
+CM-00270,2831 Redwood Rd,,Kaysville,UT,84037,Customer Service,,2024-12-04,Open,"Customer complaint: Customer Service, Kaysville, UT",41.012521,-111.992904
+CM-00271,5873 400 North,,Sandy,UT,84070,Loan Servicing,,2024-07-26,Resolved,"Customer complaint: Loan Servicing, Sandy, UT",40.565516,-111.877298
+CM-00272,1792 200 South,,Clearfield,UT,84015,Fees,,2025-10-05,Closed,"Customer complaint: Fees, Clearfield, UT",41.088989,-112.007083
+CM-00273,4084 900 West,,Layton,UT,84040,Fees,,2026-04-09,Resolved,"Customer complaint: Fees, Layton, UT",41.122140,-111.856955
+CM-00274,874 Harrison Blvd,,South Jordan,UT,84095,Billing Dispute,,2024-04-22,Open,"Customer complaint: Billing Dispute, South Jordan, UT",40.563538,-111.934774
+CM-00275,2887 Canyon Rd,,Sandy,UT,84070,Billing Dispute,,2024-11-16,Open,"Customer complaint: Billing Dispute, Sandy, UT",40.565554,-111.870598
+CM-00276,8101 Highland Dr,,West Valley City,UT,84119,Loan Servicing,,2024-12-04,Open,"Customer complaint: Loan Servicing, West Valley City, UT",40.651062,-112.021744
+CM-00277,6436 Redwood Rd,,West Valley City,UT,84119,Other,,2025-03-19,Resolved,"Customer complaint: Other, West Valley City, UT",40.657583,-111.955098
+CM-00278,6192 Bengal Blvd,,West Valley City,UT,84119,Customer Service,,2026-04-03,Open,"Customer complaint: Customer Service, West Valley City, UT",40.656816,-111.961112
+CM-00279,8337 900 West,,Sandy,UT,84070,Fees,,2025-10-23,Closed,"Customer complaint: Fees, Sandy, UT",40.572083,-111.863435
+CM-00280,5147 State St,,Logan,UT,84321,Fees,,2026-01-01,Escalated,"Customer complaint: Fees, Logan, UT",41.751048,-111.857915
+CM-00281,4391 State St,,Sandy,UT,84070,Customer Service,,2024-11-21,Closed,"Customer complaint: Customer Service, Sandy, UT",40.615692,-111.819471
+CM-00282,3462 400 North,,Layton,UT,84040,Loan Servicing,,2025-11-13,Resolved,"Customer complaint: Loan Servicing, Layton, UT",41.025487,-111.987335
+CM-00283,7454 Canyon Rd,,North Logan,UT,84341,Other,,2024-10-19,Resolved,"Customer complaint: Other, North Logan, UT",41.758594,-111.793514
+CM-00284,7097 Bengal Blvd,,Perry,UT,84302,Customer Service,,2025-01-05,Resolved,"Customer complaint: Customer Service, Perry, UT",41.479609,-112.326069
+CM-00285,3903 Bengal Blvd,,Bountiful,UT,84010,Other,,2024-04-18,Open,"Customer complaint: Other, Bountiful, UT",40.839382,-111.927426
+CM-00286,7195 200 South,,West Valley City,UT,84119,Customer Service,,2025-04-17,Escalated,"Customer complaint: Customer Service, West Valley City, UT",40.707270,-112.127924
+CM-00287,9701 Highland Dr,,West Valley City,UT,84119,Customer Service,,2025-08-04,Open,"Customer complaint: Customer Service, West Valley City, UT",40.634313,-112.163231
+CM-00288,3363 400 North,,Salt Lake City,UT,84101,Other,,2025-03-10,Resolved,"Customer complaint: Other, Salt Lake City, UT",40.767225,-111.860563
+CM-00289,4914 Fort Union Blvd,,Sandy,UT,84070,Other,,2024-04-11,Open,"Customer complaint: Other, Sandy, UT",40.562132,-111.825507
+CM-00290,3209 Canyon Rd,,South Ogden,UT,84403,Fees,,2023-11-18,Escalated,"Customer complaint: Fees, South Ogden, UT",41.193139,-111.948850
+CM-00291,2187 University Ave,,Layton,UT,84040,Customer Service,,2026-07-08,Escalated,"Customer complaint: Customer Service, Layton, UT",41.081384,-111.959787
+CM-00292,165 University Ave,,Sandy,UT,84070,Fraud Report,,2025-04-20,Resolved,"Customer complaint: Fraud Report, Sandy, UT",40.575611,-111.871219
+CM-00293,1380 Riverdale Rd,,Sandy,UT,84070,Customer Service,,2024-02-26,Escalated,"Customer complaint: Customer Service, Sandy, UT",40.563507,-111.816742
+CM-00294,8800 Bengal Blvd,,Salt Lake City,UT,84101,Other,,2024-04-22,Open,"Customer complaint: Other, Salt Lake City, UT",40.767533,-111.853191
+CM-00295,3434 Washington Blvd,,Salt Lake City,UT,84101,Loan Servicing,,2026-07-06,Closed,"Customer complaint: Loan Servicing, Salt Lake City, UT",40.766234,-111.855462
+CM-00296,8504 Washington Blvd,,Sandy,UT,84070,Customer Service,,2025-09-09,Closed,"Customer complaint: Customer Service, Sandy, UT",40.565298,-111.815702
+CM-00297,4701 200 South,,South Jordan,UT,84095,Billing Dispute,,2025-07-08,Open,"Customer complaint: Billing Dispute, South Jordan, UT",40.579696,-111.935146
+CM-00298,1718 Bengal Blvd,,Sandy,UT,84070,Billing Dispute,,2025-06-23,Open,"Customer complaint: Billing Dispute, Sandy, UT",40.560284,-111.811360
+CM-00299,2786 Bengal Blvd,,Ogden,UT,84401,Customer Service,,2024-04-22,Resolved,"Customer complaint: Customer Service, Ogden, UT",41.275054,-112.054636
+CM-00300,1874 Main St,,South Jordan,UT,84095,Billing Dispute,,2026-07-12,Closed,"Customer complaint: Billing Dispute, South Jordan, UT",40.536975,-111.912057
+CM-00301,1067 Highland Dr,,Sandy,UT,84070,Customer Service,,2026-05-07,Closed,"Customer complaint: Customer Service, Sandy, UT",40.559373,-111.817528
+CM-00302,8544 State St,,Smithfield,UT,84335,Fees,,2025-07-12,Closed,"Customer complaint: Fees, Smithfield, UT",41.982237,-111.834907
+CM-00303,7681 200 South,,West Valley City,UT,84119,Fees,,2024-02-02,Escalated,"Customer complaint: Fees, West Valley City, UT",40.700960,-112.005318
+CM-00304,4198 Canyon Rd,,South Jordan,UT,84095,Billing Dispute,,2026-05-09,Escalated,"Customer complaint: Billing Dispute, South Jordan, UT",40.570007,-111.903444
+CM-00305,4273 200 South,,Perry,UT,84302,Other,,2025-07-19,Closed,"Customer complaint: Other, Perry, UT",41.452610,-112.039466
+CM-00306,4524 State St,,South Jordan,UT,84095,Customer Service,,2026-04-14,Closed,"Customer complaint: Customer Service, South Jordan, UT",40.580144,-111.899847
+CM-00307,6259 Fort Union Blvd,,Ogden,UT,84401,Customer Service,,2024-02-02,Closed,"Customer complaint: Customer Service, Ogden, UT",41.262328,-112.066660
+CM-00308,6985 University Ave,,South Jordan,UT,84095,Loan Servicing,,2024-08-30,Escalated,"Customer complaint: Loan Servicing, South Jordan, UT",40.565253,-111.885477
+CM-00309,3983 Harrison Blvd,,Sandy,UT,84070,Fraud Report,,2024-10-02,Resolved,"Customer complaint: Fraud Report, Sandy, UT",40.560754,-111.835698
+CM-00310,6391 Wall Ave,,West Valley City,UT,84119,Fees,,2025-07-28,Resolved,"Customer complaint: Fees, West Valley City, UT",40.685346,-111.995534
+CM-00311,2101 1200 East,,Murray,UT,84107,Fraud Report,,2025-07-16,Closed,"Customer complaint: Fraud Report, Murray, UT",40.705308,-111.874077
+CM-00312,6172 900 West,,South Ogden,UT,84403,Billing Dispute,,2026-04-27,Closed,"Customer complaint: Billing Dispute, South Ogden, UT",41.195375,-111.952240
+CM-00313,9765 Main St,,Salt Lake City,UT,84101,Fraud Report,,2025-07-07,Closed,"Customer complaint: Fraud Report, Salt Lake City, UT",40.761080,-111.862106
+CM-00314,2357 Harrison Blvd,,Sandy,UT,84070,Billing Dispute,,2026-02-18,Closed,"Customer complaint: Billing Dispute, Sandy, UT",40.567746,-111.856309
+CM-00315,5120 400 North,,Bountiful,UT,84010,Fraud Report,,2025-03-09,Closed,"Customer complaint: Fraud Report, Bountiful, UT",40.940256,-111.859362
+CM-00316,6607 University Ave,,Layton,UT,84040,Fraud Report,,2025-09-16,Resolved,"Customer complaint: Fraud Report, Layton, UT",41.115302,-111.912220
+CM-00317,3053 Main St,,West Valley City,UT,84119,Customer Service,,2023-09-23,Escalated,"Customer complaint: Customer Service, West Valley City, UT",40.687084,-111.994688
+CM-00318,6933 Fort Union Blvd,,South Ogden,UT,84403,Loan Servicing,,2025-07-31,Closed,"Customer complaint: Loan Servicing, South Ogden, UT",41.199980,-111.970589
+CM-00319,5805 Washington Blvd,,Sandy,UT,84070,Other,,2024-08-16,Open,"Customer complaint: Other, Sandy, UT",40.619193,-111.816671
+CM-00320,635 400 North,,West Valley City,UT,84119,Other,,2024-05-24,Resolved,"Customer complaint: Other, West Valley City, UT",40.690706,-111.995042
+CM-00321,5111 Canyon Rd,,Sandy,UT,84070,Fees,,2026-06-24,Open,"Customer complaint: Fees, Sandy, UT",40.559734,-111.855722
+CM-00322,6092 Canyon Rd,,Murray,UT,84107,Billing Dispute,,2023-11-22,Open,"Customer complaint: Billing Dispute, Murray, UT",40.639374,-111.856815
+CM-00323,5967 Wall Ave,,Sandy,UT,84070,Customer Service,,2026-06-17,Open,"Customer complaint: Customer Service, Sandy, UT",40.566189,-111.876430
+CM-00324,1630 Harrison Blvd,,Hyrum,UT,84319,Customer Service,,2026-07-05,Escalated,"Customer complaint: Customer Service, Hyrum, UT",41.677089,-111.911869
+CM-00325,4243 Redwood Rd,,Salt Lake City,UT,84101,Customer Service,,2026-08-12,Open,"Customer complaint: Customer Service, Salt Lake City, UT",40.774368,-111.857480
+CM-00326,1921 Fort Union Blvd,,South Jordan,UT,84095,Fraud Report,,2025-12-02,Escalated,"Customer complaint: Fraud Report, South Jordan, UT",40.577824,-111.897638
+CM-00327,2024 Main St,,West Valley City,UT,84119,Fraud Report,,2025-06-14,Closed,"Customer complaint: Fraud Report, West Valley City, UT",40.638917,-112.180473
+CM-00328,776 Bengal Blvd,,West Valley City,UT,84119,Other,,2025-02-10,Closed,"Customer complaint: Other, West Valley City, UT",40.689760,-111.990592
+CM-00329,2462 Riverdale Rd,,Murray,UT,84107,Fees,,2025-07-01,Escalated,"Customer complaint: Fees, Murray, UT",40.644116,-111.856451
+CM-00330,9862 900 West,,Sandy,UT,84070,Loan Servicing,,2025-03-22,Escalated,"Customer complaint: Loan Servicing, Sandy, UT",40.568208,-111.810283
+CM-00331,1441 Bengal Blvd,,Logan,UT,84321,Other,,2025-05-06,Closed,"Customer complaint: Other, Logan, UT",41.736321,-111.836154
+CM-00332,3494 Wall Ave,,North Ogden,UT,84414,Fraud Report,,2024-10-08,Closed,"Customer complaint: Fraud Report, North Ogden, UT",41.319476,-111.963391
+CM-00333,6032 Canyon Rd,,Salt Lake City,UT,84101,Loan Servicing,,2025-11-11,Open,"Customer complaint: Loan Servicing, Salt Lake City, UT",40.772055,-111.861522
+CM-00334,6393 900 West,,Layton,UT,84040,Billing Dispute,,2025-09-10,Open,"Customer complaint: Billing Dispute, Layton, UT",41.123228,-111.878628
+CM-00335,7538 University Ave,,West Valley City,UT,84119,Other,,2025-09-02,Closed,"Customer complaint: Other, West Valley City, UT",40.698794,-112.001829
+CM-00336,4722 900 West,,Roy,UT,84067,Billing Dispute,,2024-03-05,Open,"Customer complaint: Billing Dispute, Roy, UT",41.169351,-112.035873
+CM-00337,1490 Main St,,Salt Lake City,UT,84101,Other,,2025-11-30,Escalated,"Customer complaint: Other, Salt Lake City, UT",40.747936,-111.811614
+CM-00338,8892 1200 East,,North Logan,UT,84341,Fraud Report,,2025-02-28,Open,"Customer complaint: Fraud Report, North Logan, UT",41.751424,-111.822287
+CM-00339,4648 Redwood Rd,,Salt Lake City,UT,84101,Fees,,2025-04-21,Resolved,"Customer complaint: Fees, Salt Lake City, UT",40.762146,-111.858918
+CM-00340,983 Bengal Blvd,,Salt Lake City,UT,84101,Fees,,2026-06-21,Escalated,"Customer complaint: Fees, Salt Lake City, UT",40.774436,-111.861354
+CM-00341,3021 University Ave,,Clearfield,UT,84015,Billing Dispute,,2023-12-12,Closed,"Customer complaint: Billing Dispute, Clearfield, UT",41.088626,-112.038197
+CM-00342,7091 400 North,,Sandy,UT,84070,Other,,2025-09-04,Open,"Customer complaint: Other, Sandy, UT",40.593305,-111.877725
+CM-00343,1980 Redwood Rd,,Murray,UT,84107,Fees,,2026-07-24,Escalated,"Customer complaint: Fees, Murray, UT",40.692119,-111.872022
+CM-00344,8272 Fort Union Blvd,,West Valley City,UT,84119,Loan Servicing,,2026-05-04,Closed,"Customer complaint: Loan Servicing, West Valley City, UT",40.665513,-111.965574
+CM-00345,5483 400 North,,South Jordan,UT,84095,Fraud Report,,2025-06-09,Closed,"Customer complaint: Fraud Report, South Jordan, UT",40.573755,-111.938447
+CM-00346,8681 Highland Dr,,North Ogden,UT,84414,Billing Dispute,,2025-07-14,Closed,"Customer complaint: Billing Dispute, North Ogden, UT",41.269969,-111.945973
+CM-00347,2117 Harrison Blvd,,Roy,UT,84067,Other,,2024-01-16,Open,"Customer complaint: Other, Roy, UT",41.150136,-112.073735
+CM-00348,7260 Wall Ave,,Salt Lake City,UT,84101,Billing Dispute,,2026-06-06,Escalated,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.721104,-111.806308
+CM-00349,2108 400 North,,Murray,UT,84107,Billing Dispute,,2024-10-09,Resolved,"Customer complaint: Billing Dispute, Murray, UT",40.646369,-111.864662
+CM-00350,1201 900 West,,West Valley City,UT,84119,Billing Dispute,,2024-05-13,Escalated,"Customer complaint: Billing Dispute, West Valley City, UT",40.696843,-111.996786
+CM-00351,6480 Harrison Blvd,,Kaysville,UT,84037,Loan Servicing,,2026-02-02,Open,"Customer complaint: Loan Servicing, Kaysville, UT",41.021315,-111.971666
+CM-00352,913 State St,,Sandy,UT,84070,Fees,,2025-08-17,Escalated,"Customer complaint: Fees, Sandy, UT",40.563391,-111.856256
+CM-00353,1578 200 South,,Ogden,UT,84401,Loan Servicing,,2023-10-23,Closed,"Customer complaint: Loan Servicing, Ogden, UT",41.257008,-112.038179
+CM-00354,5136 Riverdale Rd,,Logan,UT,84321,Loan Servicing,,2023-11-16,Resolved,"Customer complaint: Loan Servicing, Logan, UT",41.747753,-111.830073
+CM-00355,3100 Canyon Rd,,Murray,UT,84107,Customer Service,,2024-10-05,Closed,"Customer complaint: Customer Service, Murray, UT",40.705433,-111.879500
+CM-00356,3655 Wall Ave,,Tremonton,UT,84337,Fraud Report,,2025-02-05,Resolved,"Customer complaint: Fraud Report, Tremonton, UT",41.719689,-112.126641
+CM-00357,9635 Redwood Rd,,Murray,UT,84107,Fraud Report,,2026-01-14,Escalated,"Customer complaint: Fraud Report, Murray, UT",40.630400,-111.861046
+CM-00358,1533 400 North,,Clearfield,UT,84015,Fees,,2025-10-20,Escalated,"Customer complaint: Fees, Clearfield, UT",41.069508,-112.041180
+CM-00359,8130 Main St,,Sandy,UT,84070,Fees,,2025-05-01,Open,"Customer complaint: Fees, Sandy, UT",40.621913,-111.815914
+CM-00360,8317 University Ave,,Smithfield,UT,84335,Fees,,2026-03-02,Closed,"Customer complaint: Fees, Smithfield, UT",41.809652,-111.827950
+CM-00361,9611 Redwood Rd,,South Jordan,UT,84095,Customer Service,,2024-12-01,Open,"Customer complaint: Customer Service, South Jordan, UT",40.587875,-111.890767
+CM-00362,3657 Canyon Rd,,Sandy,UT,84070,Billing Dispute,,2026-05-27,Escalated,"Customer complaint: Billing Dispute, Sandy, UT",40.559161,-111.832196
+CM-00363,921 Fort Union Blvd,,Sandy,UT,84070,Billing Dispute,,2025-03-06,Closed,"Customer complaint: Billing Dispute, Sandy, UT",40.595080,-111.883693
+CM-00364,8606 Bengal Blvd,,West Valley City,UT,84119,Loan Servicing,,2024-04-23,Open,"Customer complaint: Loan Servicing, West Valley City, UT",40.703465,-112.163515
+CM-00365,7225 Main St,,West Valley City,UT,84119,Customer Service,,2024-02-01,Closed,"Customer complaint: Customer Service, West Valley City, UT",40.618472,-112.158421
+CM-00366,5263 Washington Blvd,,Riverdale,UT,84405,Other,,2025-12-26,Closed,"Customer complaint: Other, Riverdale, UT",41.193718,-112.024058
+CM-00367,4594 Canyon Rd,,South Ogden,UT,84403,Customer Service,,2025-08-30,Resolved,"Customer complaint: Customer Service, South Ogden, UT",41.207750,-111.949822
+CM-00368,2062 Washington Blvd,,Sandy,UT,84070,Loan Servicing,,2024-06-23,Resolved,"Customer complaint: Loan Servicing, Sandy, UT",40.567733,-111.881082
+CM-00369,9452 Bengal Blvd,,West Valley City,UT,84119,Fraud Report,,2024-10-27,Closed,"Customer complaint: Fraud Report, West Valley City, UT",40.653388,-111.962681
+CM-00370,1323 200 South,,Clearfield,UT,84015,Customer Service,,2023-09-17,Resolved,"Customer complaint: Customer Service, Clearfield, UT",41.100291,-112.440716
+CM-00371,4872 University Ave,,Clearfield,UT,84015,Fraud Report,,2024-02-15,Escalated,"Customer complaint: Fraud Report, Clearfield, UT",41.127984,-112.236760
+CM-00372,8519 Highland Dr,,Roy,UT,84067,Loan Servicing,,2024-01-12,Escalated,"Customer complaint: Loan Servicing, Roy, UT",41.173120,-112.268644
+CM-00373,925 Washington Blvd,,Riverdale,UT,84405,Billing Dispute,,2025-07-18,Open,"Customer complaint: Billing Dispute, Riverdale, UT",41.198473,-112.028106
+CM-00374,3890 1200 East,,Sandy,UT,84070,Customer Service,,2023-11-09,Closed,"Customer complaint: Customer Service, Sandy, UT",40.561013,-111.878210
+CM-00375,9292 Fort Union Blvd,,Sandy,UT,84070,Loan Servicing,,2026-07-24,Closed,"Customer complaint: Loan Servicing, Sandy, UT",40.562929,-111.816821
+CM-00376,8547 State St,,Sandy,UT,84070,Loan Servicing,,2026-06-02,Open,"Customer complaint: Loan Servicing, Sandy, UT",40.615252,-111.828875
+CM-00377,2561 Redwood Rd,,West Valley City,UT,84119,Fees,,2023-11-16,Closed,"Customer complaint: Fees, West Valley City, UT",40.605040,-112.168745
+CM-00378,2290 University Ave,,Clearfield,UT,84015,Billing Dispute,,2025-07-22,Closed,"Customer complaint: Billing Dispute, Clearfield, UT",41.081854,-112.033610
+CM-00379,7524 Main St,,Bountiful,UT,84010,Billing Dispute,,2025-06-27,Closed,"Customer complaint: Billing Dispute, Bountiful, UT",40.869022,-111.924622
+CM-00380,9200 Riverdale Rd,,Layton,UT,84040,Fraud Report,,2023-09-19,Open,"Customer complaint: Fraud Report, Layton, UT",41.075037,-112.015856
+CM-00381,3444 Wall Ave,,Farmington,UT,84025,Fraud Report,,2026-08-11,Closed,"Customer complaint: Fraud Report, Farmington, UT",40.975756,-111.947228
+CM-00382,6427 400 North,,Sandy,UT,84070,Loan Servicing,,2025-01-26,Closed,"Customer complaint: Loan Servicing, Sandy, UT",40.563212,-111.838504
+CM-00383,2970 Canyon Rd,,Salt Lake City,UT,84101,Billing Dispute,,2026-06-03,Escalated,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.769737,-111.867400
+CM-00384,6686 Bengal Blvd,,West Valley City,UT,84119,Loan Servicing,,2024-08-23,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.622434,-112.106640
+CM-00385,6582 Fort Union Blvd,,Sandy,UT,84070,Fraud Report,,2024-02-05,Resolved,"Customer complaint: Fraud Report, Sandy, UT",40.567297,-111.876929
+CM-00386,5455 Bengal Blvd,,Hyrum,UT,84319,Fees,,2023-10-31,Closed,"Customer complaint: Fees, Hyrum, UT",41.630434,-111.911324
+CM-00387,7625 200 South,,Ogden,UT,84401,Loan Servicing,,2025-01-26,Closed,"Customer complaint: Loan Servicing, Ogden, UT",41.212665,-111.978726
+CM-00388,7718 Canyon Rd,,Sandy,UT,84070,Fraud Report,,2025-08-14,Escalated,"Customer complaint: Fraud Report, Sandy, UT",40.562143,-111.859913
+CM-00389,441 State St,,Sandy,UT,84070,Billing Dispute,,2025-05-13,Escalated,"Customer complaint: Billing Dispute, Sandy, UT",40.595811,-111.873222
+CM-00390,8536 400 North,,West Valley City,UT,84119,Billing Dispute,,2026-04-02,Closed,"Customer complaint: Billing Dispute, West Valley City, UT",40.684854,-112.108940
+CM-00391,6541 200 South,,Murray,UT,84107,Other,,2025-02-28,Open,"Customer complaint: Other, Murray, UT",40.635192,-111.861538
+CM-00392,3502 400 North,,West Valley City,UT,84119,Customer Service,,2024-06-13,Open,"Customer complaint: Customer Service, West Valley City, UT",40.695102,-111.999801
+CM-00393,5825 900 West,,West Valley City,UT,84119,Other,,2024-12-11,Escalated,"Customer complaint: Other, West Valley City, UT",40.724191,-112.177205
+CM-00394,9535 200 South,,Salt Lake City,UT,84101,Fraud Report,,2025-06-21,Closed,"Customer complaint: Fraud Report, Salt Lake City, UT",40.731945,-111.798069
+CM-00395,9196 Canyon Rd,,West Valley City,UT,84119,Customer Service,,2023-09-23,Closed,"Customer complaint: Customer Service, West Valley City, UT",40.689364,-111.994687
+CM-00396,5210 Fort Union Blvd,,Salt Lake City,UT,84101,Customer Service,,2026-01-24,Escalated,"Customer complaint: Customer Service, Salt Lake City, UT",40.725499,-111.812587
+CM-00397,3149 Main St,,Salt Lake City,UT,84101,Fees,,2026-05-02,Open,"Customer complaint: Fees, Salt Lake City, UT",40.745824,-111.818418
+CM-00398,8955 Highland Dr,,Salt Lake City,UT,84101,Loan Servicing,,2024-11-16,Escalated,"Customer complaint: Loan Servicing, Salt Lake City, UT",40.770255,-111.854623
+CM-00399,4981 Main St,,Sandy,UT,84070,Billing Dispute,,2024-03-11,Escalated,"Customer complaint: Billing Dispute, Sandy, UT",40.565297,-111.877016
+CM-00400,7369 State St,,Murray,UT,84107,Fees,,2024-11-18,Closed,"Customer complaint: Fees, Murray, UT",40.691433,-111.875084
+CM-00401,4879 Redwood Rd,,Sandy,UT,84070,Fees,,2025-11-03,Closed,"Customer complaint: Fees, Sandy, UT",40.562494,-111.832413
+CM-00402,4794 Wall Ave,,Riverdale,UT,84405,Fees,,2023-11-19,Closed,"Customer complaint: Fees, Riverdale, UT",41.199129,-112.026103
+CM-00403,4671 200 South,,South Jordan,UT,84095,Fees,,2026-08-12,Resolved,"Customer complaint: Fees, South Jordan, UT",40.569799,-111.892567
+CM-00404,5649 900 West,,Bountiful,UT,84010,Billing Dispute,,2024-10-06,Resolved,"Customer complaint: Billing Dispute, Bountiful, UT",40.942805,-111.847796
+CM-00405,1534 1200 East,,Salt Lake City,UT,84101,Loan Servicing,,2024-03-01,Escalated,"Customer complaint: Loan Servicing, Salt Lake City, UT",40.741852,-111.826370
+CM-00406,1305 Redwood Rd,,Murray,UT,84107,Fees,,2024-06-30,Open,"Customer complaint: Fees, Murray, UT",40.703284,-111.877731
+CM-00407,8556 University Ave,,Roy,UT,84067,Other,,2025-03-02,Escalated,"Customer complaint: Other, Roy, UT",41.140778,-112.083586
+CM-00408,6936 900 West,,South Ogden,UT,84403,Customer Service,,2024-09-20,Resolved,"Customer complaint: Customer Service, South Ogden, UT",41.192184,-111.967784
+CM-00409,1486 200 South,,North Ogden,UT,84414,Customer Service,,2025-08-30,Closed,"Customer complaint: Customer Service, North Ogden, UT",41.287281,-112.080348
+CM-00410,3591 Riverdale Rd,,North Logan,UT,84341,Fraud Report,,2026-02-11,Closed,"Customer complaint: Fraud Report, North Logan, UT",41.780138,-111.835310
+CM-00411,5693 400 North,,Clearfield,UT,84015,Other,,2025-11-14,Closed,"Customer complaint: Other, Clearfield, UT",41.117705,-111.972871
+CM-00412,768 Riverdale Rd,,Smithfield,UT,84335,Customer Service,,2025-11-17,Closed,"Customer complaint: Customer Service, Smithfield, UT",41.930168,-111.835947
+CM-00413,8645 Wall Ave,,Salt Lake City,UT,84101,Other,,2025-04-15,Resolved,"Customer complaint: Other, Salt Lake City, UT",40.741153,-111.811586
+CM-00414,7910 1200 East,,Clearfield,UT,84015,Customer Service,,2026-03-01,Closed,"Customer complaint: Customer Service, Clearfield, UT",41.094062,-111.986174
+CM-00415,5962 Washington Blvd,,Clearfield,UT,84015,Billing Dispute,,2023-10-05,Resolved,"Customer complaint: Billing Dispute, Clearfield, UT",41.091375,-111.991005
+CM-00416,4923 400 North,,Tremonton,UT,84337,Fraud Report,,2026-08-23,Resolved,"Customer complaint: Fraud Report, Tremonton, UT",41.607963,-112.259022
+CM-00417,3254 Harrison Blvd,,West Valley City,UT,84119,Other,,2025-05-11,Open,"Customer complaint: Other, West Valley City, UT",40.683653,-111.994842
+CM-00418,4654 University Ave,,West Valley City,UT,84119,Customer Service,,2024-05-09,Closed,"Customer complaint: Customer Service, West Valley City, UT",40.654713,-111.964043
+CM-00419,6377 Wall Ave,,Murray,UT,84107,Billing Dispute,,2026-07-12,Resolved,"Customer complaint: Billing Dispute, Murray, UT",40.700604,-111.875293
+CM-00420,9825 Bengal Blvd,,South Jordan,UT,84095,Loan Servicing,,2024-12-20,Closed,"Customer complaint: Loan Servicing, South Jordan, UT",40.565306,-111.890314
+CM-00421,4727 Riverdale Rd,,Kaysville,UT,84037,Loan Servicing,,2025-10-31,Closed,"Customer complaint: Loan Servicing, Kaysville, UT",40.972592,-111.994169
+CM-00422,4321 Washington Blvd,,Sandy,UT,84070,Fees,,2024-07-22,Resolved,"Customer complaint: Fees, Sandy, UT",40.592912,-111.877014
+CM-00423,655 200 South,,West Valley City,UT,84119,Billing Dispute,,2024-02-07,Resolved,"Customer complaint: Billing Dispute, West Valley City, UT",40.651082,-112.021045
+CM-00424,4341 Fort Union Blvd,,South Jordan,UT,84095,Loan Servicing,,2026-05-08,Closed,"Customer complaint: Loan Servicing, South Jordan, UT",40.576881,-111.941608
+CM-00425,6930 Washington Blvd,,Roy,UT,84067,Fees,,2026-04-03,Open,"Customer complaint: Fees, Roy, UT",41.162797,-112.145928
+CM-00426,3752 University Ave,,Sandy,UT,84070,Billing Dispute,,2025-10-14,Escalated,"Customer complaint: Billing Dispute, Sandy, UT",40.574938,-111.854544
+CM-00427,9457 400 North,,West Valley City,UT,84119,Loan Servicing,,2025-08-09,Resolved,"Customer complaint: Loan Servicing, West Valley City, UT",40.688149,-111.995772
+CM-00428,427 Highland Dr,,West Valley City,UT,84119,Fraud Report,,2024-12-08,Closed,"Customer complaint: Fraud Report, West Valley City, UT",40.703347,-111.977965
+CM-00429,2409 State St,,West Valley City,UT,84119,Customer Service,,2025-02-12,Closed,"Customer complaint: Customer Service, West Valley City, UT",40.683706,-111.990423
+CM-00430,4752 Highland Dr,,Sandy,UT,84070,Billing Dispute,,2025-01-02,Closed,"Customer complaint: Billing Dispute, Sandy, UT",40.586039,-111.880254
+CM-00431,3051 Wall Ave,,Hyrum,UT,84319,Fees,,2025-11-03,Closed,"Customer complaint: Fees, Hyrum, UT",41.522242,-111.801747
+CM-00432,8516 Washington Blvd,,West Valley City,UT,84119,Other,,2026-02-19,Resolved,"Customer complaint: Other, West Valley City, UT",40.624236,-112.119718
+CM-00433,5180 Main St,,South Ogden,UT,84403,Customer Service,,2026-03-04,Open,"Customer complaint: Customer Service, South Ogden, UT",41.192806,-111.977494
+CM-00434,6953 1200 East,,Sandy,UT,84070,Fraud Report,,2026-01-28,Resolved,"Customer complaint: Fraud Report, Sandy, UT",40.562193,-111.866049
+CM-00435,6964 Wall Ave,,Ogden,UT,84401,Fraud Report,,2025-12-21,Closed,"Customer complaint: Fraud Report, Ogden, UT",41.209509,-111.978681
+CM-00436,1578 Wall Ave,,Salt Lake City,UT,84101,Fees,,2024-06-24,Closed,"Customer complaint: Fees, Salt Lake City, UT",40.761051,-111.855397
+CM-00437,9635 Bengal Blvd,,Murray,UT,84107,Other,,2025-11-20,Open,"Customer complaint: Other, Murray, UT",40.702947,-111.885479
+CM-00438,346 400 North,,Sandy,UT,84070,Fees,,2024-07-24,Escalated,"Customer complaint: Fees, Sandy, UT",40.560830,-111.878544
+CM-00439,8004 400 North,,North Ogden,UT,84414,Fraud Report,,2024-12-21,Escalated,"Customer complaint: Fraud Report, North Ogden, UT",41.335071,-111.981746
+CM-00440,5081 Canyon Rd,,North Ogden,UT,84414,Billing Dispute,,2023-10-02,Resolved,"Customer complaint: Billing Dispute, North Ogden, UT",41.258456,-111.946883
+CM-00441,1161 200 South,,Clearfield,UT,84015,Other,,2024-09-26,Escalated,"Customer complaint: Other, Clearfield, UT",41.097851,-111.990966
+CM-00442,9192 Riverdale Rd,,North Ogden,UT,84414,Fees,,2026-01-14,Escalated,"Customer complaint: Fees, North Ogden, UT",41.254507,-111.943428
+CM-00443,6860 Bengal Blvd,,West Valley City,UT,84119,Fees,,2024-06-24,Closed,"Customer complaint: Fees, West Valley City, UT",40.643661,-112.021354
+CM-00444,1467 200 South,,South Ogden,UT,84403,Customer Service,,2024-04-07,Resolved,"Customer complaint: Customer Service, South Ogden, UT",41.189628,-111.954559
+CM-00445,1886 Riverdale Rd,,West Valley City,UT,84119,Other,,2024-07-17,Escalated,"Customer complaint: Other, West Valley City, UT",40.699985,-111.990830
+CM-00446,8569 Wall Ave,,West Valley City,UT,84119,Loan Servicing,,2025-03-18,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.657592,-111.965174
+CM-00447,3797 Fort Union Blvd,,Farmington,UT,84025,Customer Service,,2024-05-07,Closed,"Customer complaint: Customer Service, Farmington, UT",40.953823,-111.889511
+CM-00448,2500 1200 East,,Sandy,UT,84070,Other,,2024-03-27,Closed,"Customer complaint: Other, Sandy, UT",40.618382,-111.821988
+CM-00449,7318 400 North,,North Ogden,UT,84414,Fees,,2026-01-03,Open,"Customer complaint: Fees, North Ogden, UT",41.277513,-111.948131
+CM-00450,9098 Redwood Rd,,South Jordan,UT,84095,Other,,2024-04-27,Escalated,"Customer complaint: Other, South Jordan, UT",40.576811,-111.957168
+CM-00451,7554 400 North,,Kaysville,UT,84037,Fees,,2024-12-05,Escalated,"Customer complaint: Fees, Kaysville, UT",41.040694,-111.953698
+CM-00452,7854 200 South,,Layton,UT,84040,Fraud Report,,2025-02-16,Closed,"Customer complaint: Fraud Report, Layton, UT",41.090577,-111.988324
+CM-00453,126 University Ave,,South Jordan,UT,84095,Billing Dispute,,2024-08-19,Escalated,"Customer complaint: Billing Dispute, South Jordan, UT",40.569381,-111.950829
+CM-00454,4060 1200 East,,West Valley City,UT,84119,Fraud Report,,2026-02-05,Resolved,"Customer complaint: Fraud Report, West Valley City, UT",40.686042,-111.998471
+CM-00455,6171 University Ave,,Sandy,UT,84070,Loan Servicing,,2025-12-27,Resolved,"Customer complaint: Loan Servicing, Sandy, UT",40.567761,-111.819801
+CM-00456,609 University Ave,,West Valley City,UT,84119,Fees,,2024-06-07,Open,"Customer complaint: Fees, West Valley City, UT",40.665801,-111.959382
+CM-00457,7240 400 North,,Riverdale,UT,84405,Fees,,2025-07-24,Open,"Customer complaint: Fees, Riverdale, UT",41.183187,-112.015818
+CM-00458,1226 900 West,,Ogden,UT,84401,Fees,,2026-03-14,Open,"Customer complaint: Fees, Ogden, UT",41.226160,-111.950021
+CM-00459,9367 Bengal Blvd,,Kaysville,UT,84037,Customer Service,,2025-01-14,Resolved,"Customer complaint: Customer Service, Kaysville, UT",41.022653,-111.960571
+CM-00460,183 400 North,,Murray,UT,84107,Customer Service,,2023-11-08,Escalated,"Customer complaint: Customer Service, Murray, UT",40.698130,-111.875498
+CM-00461,4198 Wall Ave,,Clearfield,UT,84015,Fees,,2024-02-08,Resolved,"Customer complaint: Fees, Clearfield, UT",41.121292,-111.959413
+CM-00462,2846 University Ave,,Bountiful,UT,84010,Billing Dispute,,2025-02-07,Resolved,"Customer complaint: Billing Dispute, Bountiful, UT",40.874539,-111.927850
+CM-00463,4224 Washington Blvd,,Sandy,UT,84070,Loan Servicing,,2025-10-20,Open,"Customer complaint: Loan Servicing, Sandy, UT",40.562282,-111.817452
+CM-00464,8614 Canyon Rd,,Bountiful,UT,84010,Customer Service,,2024-07-05,Open,"Customer complaint: Customer Service, Bountiful, UT",40.852772,-111.909121
+CM-00465,9467 Fort Union Blvd,,Salt Lake City,UT,84101,Billing Dispute,,2026-05-26,Resolved,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.773110,-111.853937
+CM-00466,8312 Canyon Rd,,Salt Lake City,UT,84101,Customer Service,,2023-10-13,Escalated,"Customer complaint: Customer Service, Salt Lake City, UT",40.768336,-111.860029
+CM-00467,9706 900 West,,Ogden,UT,84401,Customer Service,,2024-06-09,Closed,"Customer complaint: Customer Service, Ogden, UT",41.223791,-111.957344
+CM-00468,4772 1200 East,,Murray,UT,84107,Fraud Report,,2026-05-20,Open,"Customer complaint: Fraud Report, Murray, UT",40.636180,-111.855061
+CM-00469,269 400 North,,Bountiful,UT,84010,Customer Service,,2024-08-22,Escalated,"Customer complaint: Customer Service, Bountiful, UT",40.851541,-111.938226
+CM-00470,8969 Washington Blvd,,Roy,UT,84067,Other,,2026-03-13,Escalated,"Customer complaint: Other, Roy, UT",41.185508,-112.036386
+CM-00471,1280 Washington Blvd,,Ogden,UT,84401,Fees,,2025-03-17,Open,"Customer complaint: Fees, Ogden, UT",41.259032,-111.982953
+CM-00472,1665 State St,,Sandy,UT,84070,Fees,,2024-06-10,Closed,"Customer complaint: Fees, Sandy, UT",40.592608,-111.878213
+CM-00473,430 Redwood Rd,,South Jordan,UT,84095,Other,,2023-10-01,Escalated,"Customer complaint: Other, South Jordan, UT",40.540918,-111.912294
+CM-00474,478 Riverdale Rd,,North Logan,UT,84341,Fraud Report,,2024-09-29,Closed,"Customer complaint: Fraud Report, North Logan, UT",41.759925,-111.775708
+CM-00475,1135 Wall Ave,,South Jordan,UT,84095,Fees,,2024-01-23,Resolved,"Customer complaint: Fees, South Jordan, UT",40.575090,-111.909883
+CM-00476,9518 Bengal Blvd,,Salt Lake City,UT,84101,Fraud Report,,2026-07-22,Escalated,"Customer complaint: Fraud Report, Salt Lake City, UT",40.767356,-111.861966
+CM-00477,698 Main St,,Sandy,UT,84070,Customer Service,,2025-09-12,Open,"Customer complaint: Customer Service, Sandy, UT",40.578330,-111.858023
+CM-00478,1550 State St,,South Jordan,UT,84095,Billing Dispute,,2023-11-14,Closed,"Customer complaint: Billing Dispute, South Jordan, UT",40.550531,-111.913373
+CM-00479,7606 200 South,,North Logan,UT,84341,Fraud Report,,2024-09-06,Open,"Customer complaint: Fraud Report, North Logan, UT",41.761372,-111.835171
+CM-00480,2317 Canyon Rd,,Clearfield,UT,84015,Other,,2024-03-18,Open,"Customer complaint: Other, Clearfield, UT",41.123736,-111.981031
+CM-00481,2089 Canyon Rd,,Sandy,UT,84070,Customer Service,,2024-11-17,Escalated,"Customer complaint: Customer Service, Sandy, UT",40.592998,-111.881888
+CM-00482,2111 Main St,,Salt Lake City,UT,84101,Customer Service,,2025-07-07,Escalated,"Customer complaint: Customer Service, Salt Lake City, UT",40.767841,-111.855274
+CM-00483,6735 Riverdale Rd,,Sandy,UT,84070,Fraud Report,,2024-01-23,Closed,"Customer complaint: Fraud Report, Sandy, UT",40.569964,-111.865610
+CM-00484,233 Highland Dr,,Murray,UT,84107,Other,,2024-09-07,Open,"Customer complaint: Other, Murray, UT",40.695730,-111.874042
+CM-00485,6215 200 South,,Sandy,UT,84070,Loan Servicing,,2025-04-28,Escalated,"Customer complaint: Loan Servicing, Sandy, UT",40.561999,-111.855149
+CM-00486,3285 State St,,Logan,UT,84321,Customer Service,,2023-10-28,Open,"Customer complaint: Customer Service, Logan, UT",41.746502,-111.835979
+CM-00487,453 Main St,,Roy,UT,84067,Fees,,2023-09-12,Resolved,"Customer complaint: Fees, Roy, UT",41.166336,-112.033056
+CM-00488,4041 University Ave,,Kaysville,UT,84037,Other,,2024-08-16,Closed,"Customer complaint: Other, Kaysville, UT",41.014888,-111.996165
+CM-00489,4528 Canyon Rd,,Layton,UT,84040,Fees,,2025-09-20,Resolved,"Customer complaint: Fees, Layton, UT",41.117042,-111.905801
+CM-00490,4223 Bengal Blvd,,Sandy,UT,84070,Customer Service,,2025-11-25,Closed,"Customer complaint: Customer Service, Sandy, UT",40.574586,-111.857377
+CM-00491,4587 Fort Union Blvd,,Salt Lake City,UT,84101,Loan Servicing,,2025-04-22,Escalated,"Customer complaint: Loan Servicing, Salt Lake City, UT",40.773766,-111.852469
+CM-00492,9810 Bengal Blvd,,Salt Lake City,UT,84101,Fraud Report,,2026-03-18,Resolved,"Customer complaint: Fraud Report, Salt Lake City, UT",40.717523,-111.809014
+CM-00493,1679 University Ave,,West Valley City,UT,84119,Loan Servicing,,2026-08-01,Open,"Customer complaint: Loan Servicing, West Valley City, UT",40.652658,-112.017985
+CM-00494,3749 Highland Dr,,Clearfield,UT,84015,Other,,2025-07-17,Resolved,"Customer complaint: Other, Clearfield, UT",41.118482,-112.206206
+CM-00495,2786 400 North,,Kaysville,UT,84037,Other,,2025-01-24,Closed,"Customer complaint: Other, Kaysville, UT",41.032697,-111.957055
+CM-00496,7871 Main St,,South Ogden,UT,84403,Loan Servicing,,2025-09-13,Open,"Customer complaint: Loan Servicing, South Ogden, UT",41.131568,-111.882041
+CM-00497,9229 Main St,,North Ogden,UT,84414,Other,,2023-12-31,Closed,"Customer complaint: Other, North Ogden, UT",41.264885,-111.980107
+CM-00498,1812 State St,,Sandy,UT,84070,Billing Dispute,,2025-02-28,Closed,"Customer complaint: Billing Dispute, Sandy, UT",40.565380,-111.861595
+CM-00499,3259 Highland Dr,,Roy,UT,84067,Customer Service,,2025-08-23,Escalated,"Customer complaint: Customer Service, Roy, UT",41.182777,-112.118960
+CM-00500,826 Fort Union Blvd,,North Logan,UT,84341,Billing Dispute,,2024-12-10,Escalated,"Customer complaint: Billing Dispute, North Logan, UT",41.757348,-111.831010
+CM-00501,7798 Fort Union Blvd,,Salt Lake City,UT,84101,Fraud Report,,2026-02-15,Open,"Customer complaint: Fraud Report, Salt Lake City, UT",40.748428,-111.809637
+CM-00502,9110 Harrison Blvd,,West Valley City,UT,84119,Other,,2024-09-01,Resolved,"Customer complaint: Other, West Valley City, UT",40.690847,-111.995171
+CM-00503,3111 Highland Dr,,North Ogden,UT,84414,Fraud Report,,2024-05-31,Resolved,"Customer complaint: Fraud Report, North Ogden, UT",41.277085,-111.965897
+CM-00504,9523 Canyon Rd,,North Ogden,UT,84414,Billing Dispute,,2024-08-05,Closed,"Customer complaint: Billing Dispute, North Ogden, UT",41.287314,-112.029492
+CM-00505,3325 Wall Ave,,West Valley City,UT,84119,Customer Service,,2026-05-01,Open,"Customer complaint: Customer Service, West Valley City, UT",40.677196,-112.118771
+CM-00506,7796 State St,,Sandy,UT,84070,Other,,2025-06-06,Resolved,"Customer complaint: Other, Sandy, UT",40.589695,-111.881119
+CM-00507,8197 State St,,South Jordan,UT,84095,Fees,,2023-09-21,Open,"Customer complaint: Fees, South Jordan, UT",40.539842,-111.917695
+CM-00508,8329 Fort Union Blvd,,Layton,UT,84040,Loan Servicing,,2025-03-24,Closed,"Customer complaint: Loan Servicing, Layton, UT",41.097617,-111.977971
+CM-00509,3610 Fort Union Blvd,,Sandy,UT,84070,Fraud Report,,2024-09-16,Closed,"Customer complaint: Fraud Report, Sandy, UT",40.565923,-111.872274
+CM-00510,8660 Bengal Blvd,,Murray,UT,84107,Loan Servicing,,2025-06-24,Resolved,"Customer complaint: Loan Servicing, Murray, UT",40.698924,-111.874853
+CM-00511,1633 Riverdale Rd,,Murray,UT,84107,Other,,2026-04-23,Escalated,"Customer complaint: Other, Murray, UT",40.707890,-111.876052
+CM-00512,6582 Wall Ave,,Sandy,UT,84070,Fees,,2024-04-04,Closed,"Customer complaint: Fees, Sandy, UT",40.560330,-111.868648
+CM-00513,3682 1200 East,,Clearfield,UT,84015,Fees,,2024-03-19,Open,"Customer complaint: Fees, Clearfield, UT",41.069732,-112.031100
+CM-00514,8435 400 North,,North Ogden,UT,84414,Loan Servicing,,2026-05-11,Open,"Customer complaint: Loan Servicing, North Ogden, UT",41.267053,-111.955981
+CM-00515,8482 200 South,,Ogden,UT,84401,Other,,2023-09-27,Closed,"Customer complaint: Other, Ogden, UT",41.258388,-111.984403
+CM-00516,787 400 North,,South Jordan,UT,84095,Billing Dispute,,2024-10-11,Open,"Customer complaint: Billing Dispute, South Jordan, UT",40.557457,-111.906522
+CM-00517,6051 Washington Blvd,,West Valley City,UT,84119,Billing Dispute,,2024-07-02,Escalated,"Customer complaint: Billing Dispute, West Valley City, UT",40.663053,-111.963363
+CM-00518,9538 Riverdale Rd,,Sandy,UT,84070,Fees,,2025-06-17,Closed,"Customer complaint: Fees, Sandy, UT",40.561507,-111.825160
+CM-00519,5591 Riverdale Rd,,Ogden,UT,84401,Billing Dispute,,2026-04-23,Open,"Customer complaint: Billing Dispute, Ogden, UT",41.264179,-112.047782
+CM-00520,3525 Canyon Rd,,North Logan,UT,84341,Fraud Report,,2025-11-22,Resolved,"Customer complaint: Fraud Report, North Logan, UT",41.765817,-111.835530
+CM-00521,1253 Bengal Blvd,,Salt Lake City,UT,84101,Billing Dispute,,2025-01-03,Closed,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.767580,-111.860830
+CM-00522,8476 Main St,,North Ogden,UT,84414,Billing Dispute,,2024-03-16,Closed,"Customer complaint: Billing Dispute, North Ogden, UT",41.276966,-111.950478
+CM-00523,2768 400 North,,South Jordan,UT,84095,Billing Dispute,,2025-12-13,Open,"Customer complaint: Billing Dispute, South Jordan, UT",40.572545,-111.904600
+CM-00524,9975 Canyon Rd,,Logan,UT,84321,Other,,2026-08-04,Resolved,"Customer complaint: Other, Logan, UT",41.748812,-111.826342
+CM-00525,9085 Highland Dr,,Sandy,UT,84070,Other,,2025-08-25,Escalated,"Customer complaint: Other, Sandy, UT",40.563249,-111.815570
+CM-00526,1144 University Ave,,South Jordan,UT,84095,Other,,2024-12-22,Closed,"Customer complaint: Other, South Jordan, UT",40.579938,-111.914146
+CM-00527,2325 400 North,,Layton,UT,84040,Fees,,2026-01-17,Open,"Customer complaint: Fees, Layton, UT",41.077489,-111.975881
+CM-00528,6145 Canyon Rd,,West Valley City,UT,84119,Fraud Report,,2025-10-30,Escalated,"Customer complaint: Fraud Report, West Valley City, UT",40.654899,-111.965939
+CM-00529,3935 Harrison Blvd,,South Jordan,UT,84095,Other,,2024-09-07,Resolved,"Customer complaint: Other, South Jordan, UT",40.580036,-111.911533
+CM-00530,9592 900 West,,South Jordan,UT,84095,Customer Service,,2024-08-11,Escalated,"Customer complaint: Customer Service, South Jordan, UT",40.541062,-111.915913
+CM-00531,9932 Main St,,Kaysville,UT,84037,Other,,2024-05-20,Escalated,"Customer complaint: Other, Kaysville, UT",41.017667,-111.943466
+CM-00532,9740 900 West,,Bountiful,UT,84010,Loan Servicing,,2025-09-20,Escalated,"Customer complaint: Loan Servicing, Bountiful, UT",40.865609,-111.915055
+CM-00533,2448 Fort Union Blvd,,Logan,UT,84321,Fraud Report,,2025-03-08,Escalated,"Customer complaint: Fraud Report, Logan, UT",41.705809,-111.799483
+CM-00534,7782 Highland Dr,,South Jordan,UT,84095,Customer Service,,2024-09-18,Escalated,"Customer complaint: Customer Service, South Jordan, UT",40.588033,-111.888817
+CM-00535,4589 Main St,,North Ogden,UT,84414,Customer Service,,2025-05-17,Closed,"Customer complaint: Customer Service, North Ogden, UT",41.332746,-112.061742
+CM-00536,8691 Canyon Rd,,Tremonton,UT,84337,Fraud Report,,2024-03-09,Resolved,"Customer complaint: Fraud Report, Tremonton, UT",41.761189,-112.019263
+CM-00537,6185 Wall Ave,,West Valley City,UT,84119,Fees,,2026-08-05,Escalated,"Customer complaint: Fees, West Valley City, UT",40.699830,-111.983816
+CM-00538,2459 Fort Union Blvd,,Salt Lake City,UT,84101,Fraud Report,,2026-06-08,Escalated,"Customer complaint: Fraud Report, Salt Lake City, UT",40.760951,-111.855607
+CM-00539,263 State St,,Perry,UT,84302,Loan Servicing,,2026-01-02,Resolved,"Customer complaint: Loan Servicing, Perry, UT",41.413628,-112.449269
+CM-00540,8730 1200 East,,South Jordan,UT,84095,Fees,,2024-03-27,Escalated,"Customer complaint: Fees, South Jordan, UT",40.569480,-111.940393
+CM-00541,1850 900 West,,West Valley City,UT,84119,Loan Servicing,,2025-05-22,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.660040,-111.965308
+CM-00542,5128 Washington Blvd,,Perry,UT,84302,Customer Service,,2024-04-14,Closed,"Customer complaint: Customer Service, Perry, UT",41.461840,-112.015336
+CM-00543,4500 Canyon Rd,,North Ogden,UT,84414,Customer Service,,2025-12-25,Closed,"Customer complaint: Customer Service, North Ogden, UT",41.336470,-112.063645
+CM-00544,3668 Harrison Blvd,,Salt Lake City,UT,84101,Billing Dispute,,2026-05-20,Resolved,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.775656,-111.852621
+CM-00545,2235 Canyon Rd,,South Ogden,UT,84403,Fraud Report,,2024-03-03,Resolved,"Customer complaint: Fraud Report, South Ogden, UT",41.196861,-111.951680
+CM-00546,9284 900 West,,Salt Lake City,UT,84101,Customer Service,,2024-06-12,Open,"Customer complaint: Customer Service, Salt Lake City, UT",40.779503,-111.861045
+CM-00547,5824 Fort Union Blvd,,West Valley City,UT,84119,Billing Dispute,,2025-05-05,Resolved,"Customer complaint: Billing Dispute, West Valley City, UT",40.698146,-111.994492
+CM-00548,5324 Redwood Rd,,Clearfield,UT,84015,Customer Service,,2025-07-21,Open,"Customer complaint: Customer Service, Clearfield, UT",41.111758,-112.003951
+CM-00549,5989 Riverdale Rd,,Sandy,UT,84070,Billing Dispute,,2023-09-23,Closed,"Customer complaint: Billing Dispute, Sandy, UT",40.574375,-111.861411
+CM-00550,4247 Wall Ave,,South Jordan,UT,84095,Billing Dispute,,2023-11-11,Escalated,"Customer complaint: Billing Dispute, South Jordan, UT",40.560862,-111.886906
+CM-00551,245 1200 East,,West Valley City,UT,84119,Loan Servicing,,2026-04-02,Resolved,"Customer complaint: Loan Servicing, West Valley City, UT",40.688799,-112.185038
+CM-00552,357 Washington Blvd,,South Jordan,UT,84095,Fraud Report,,2024-07-17,Resolved,"Customer complaint: Fraud Report, South Jordan, UT",40.583226,-111.913120
+CM-00553,470 Wall Ave,,West Valley City,UT,84119,Other,,2025-07-02,Open,"Customer complaint: Other, West Valley City, UT",40.642121,-112.019044
+CM-00554,5360 Wall Ave,,Clearfield,UT,84015,Other,,2025-08-05,Resolved,"Customer complaint: Other, Clearfield, UT",41.108604,-111.977738
+CM-00555,7078 400 North,,West Valley City,UT,84119,Fees,,2025-10-06,Open,"Customer complaint: Fees, West Valley City, UT",40.700431,-111.984324
+CM-00556,6453 Harrison Blvd,,Salt Lake City,UT,84101,Billing Dispute,,2025-08-04,Open,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.766726,-111.860826
+CM-00557,2138 University Ave,,Draper,UT,84020,Billing Dispute,,2026-05-12,Closed,"Customer complaint: Billing Dispute, Draper, UT",40.528736,-111.908247
+CM-00558,8520 Main St,,Tremonton,UT,84337,Billing Dispute,,2023-12-07,Escalated,"Customer complaint: Billing Dispute, Tremonton, UT",41.578949,-112.171898
+CM-00559,997 Riverdale Rd,,Clearfield,UT,84015,Fees,,2026-09-01,Resolved,"Customer complaint: Fees, Clearfield, UT",41.083756,-112.030421
+CM-00560,3180 Washington Blvd,,West Valley City,UT,84119,Fraud Report,,2026-02-08,Resolved,"Customer complaint: Fraud Report, West Valley City, UT",40.650151,-112.020039
+CM-00561,270 1200 East,,West Valley City,UT,84119,Loan Servicing,,2025-07-12,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.648537,-112.022089
+CM-00562,9721 1200 East,,Sandy,UT,84070,Billing Dispute,,2024-07-17,Resolved,"Customer complaint: Billing Dispute, Sandy, UT",40.614528,-111.816344
+CM-00563,9728 Wall Ave,,South Ogden,UT,84403,Fees,,2025-06-07,Resolved,"Customer complaint: Fees, South Ogden, UT",41.193194,-111.978211
+CM-00564,2919 State St,,Salt Lake City,UT,84101,Billing Dispute,,2024-01-25,Closed,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.765805,-111.854971
+CM-00565,8617 State St,,Riverdale,UT,84405,Fees,,2025-12-29,Escalated,"Customer complaint: Fees, Riverdale, UT",41.183242,-112.017736
+CM-00566,272 Washington Blvd,,Roy,UT,84067,Customer Service,,2025-08-23,Escalated,"Customer complaint: Customer Service, Roy, UT",41.181460,-112.035604
+CM-00567,440 Canyon Rd,,West Valley City,UT,84119,Fraud Report,,2026-06-25,Open,"Customer complaint: Fraud Report, West Valley City, UT",40.699889,-111.979542
+CM-00568,7593 400 North,,Salt Lake City,UT,84101,Other,,2025-06-16,Open,"Customer complaint: Other, Salt Lake City, UT",40.763674,-111.856882
+CM-00569,7503 Riverdale Rd,,Sandy,UT,84070,Other,,2026-08-23,Escalated,"Customer complaint: Other, Sandy, UT",40.619356,-111.831001
+CM-00570,6506 400 North,,Murray,UT,84107,Billing Dispute,,2025-04-16,Resolved,"Customer complaint: Billing Dispute, Murray, UT",40.640732,-111.864681
+CM-00571,3753 Wall Ave,,Sandy,UT,84070,Billing Dispute,,2023-11-19,Resolved,"Customer complaint: Billing Dispute, Sandy, UT",40.563686,-111.867299
+CM-00572,9117 Highland Dr,,West Valley City,UT,84119,Billing Dispute,,2026-06-23,Closed,"Customer complaint: Billing Dispute, West Valley City, UT",40.639037,-112.024140
+CM-00573,5665 State St,,Roy,UT,84067,Fraud Report,,2023-12-11,Resolved,"Customer complaint: Fraud Report, Roy, UT",41.141588,-112.069791
+CM-00574,1708 400 North,,Roy,UT,84067,Loan Servicing,,2026-02-28,Closed,"Customer complaint: Loan Servicing, Roy, UT",41.190608,-112.030069
+CM-00575,8282 200 South,,West Valley City,UT,84119,Other,,2026-02-26,Escalated,"Customer complaint: Other, West Valley City, UT",40.687643,-112.137036
+CM-00576,2721 1200 East,,Sandy,UT,84070,Fees,,2024-08-17,Open,"Customer complaint: Fees, Sandy, UT",40.561475,-111.829178
+CM-00577,8837 Washington Blvd,,West Valley City,UT,84119,Billing Dispute,,2026-03-30,Escalated,"Customer complaint: Billing Dispute, West Valley City, UT",40.654760,-111.962866
+CM-00578,8909 Bengal Blvd,,Bountiful,UT,84010,Fraud Report,,2025-12-20,Open,"Customer complaint: Fraud Report, Bountiful, UT",40.832659,-111.941555
+CM-00579,7415 Fort Union Blvd,,Layton,UT,84040,Customer Service,,2024-05-17,Escalated,"Customer complaint: Customer Service, Layton, UT",41.097377,-111.974674
+CM-00580,6003 Bengal Blvd,,South Jordan,UT,84095,Fees,,2025-11-02,Resolved,"Customer complaint: Fees, South Jordan, UT",40.567072,-111.946041
+CM-00581,7582 Main St,,Salt Lake City,UT,84101,Fraud Report,,2025-11-15,Resolved,"Customer complaint: Fraud Report, Salt Lake City, UT",40.731734,-111.812877
+CM-00582,3786 Fort Union Blvd,,Smithfield,UT,84335,Loan Servicing,,2024-05-08,Resolved,"Customer complaint: Loan Servicing, Smithfield, UT",41.993339,-111.928663
+CM-00583,1187 Redwood Rd,,Roy,UT,84067,Billing Dispute,,2026-04-18,Open,"Customer complaint: Billing Dispute, Roy, UT",41.182737,-112.037244
+CM-00584,7503 Harrison Blvd,,South Jordan,UT,84095,Fees,,2024-01-10,Open,"Customer complaint: Fees, South Jordan, UT",40.566565,-111.887778
+CM-00585,7389 900 West,,Farmington,UT,84025,Billing Dispute,,2024-03-10,Escalated,"Customer complaint: Billing Dispute, Farmington, UT",40.948305,-111.830493
+CM-00586,9616 Riverdale Rd,,Clearfield,UT,84015,Other,,2026-06-27,Open,"Customer complaint: Other, Clearfield, UT",41.077596,-112.034948
+CM-00587,4859 Wall Ave,,Farmington,UT,84025,Fees,,2024-06-28,Open,"Customer complaint: Fees, Farmington, UT",40.942391,-111.962974
+CM-00588,238 Redwood Rd,,Sandy,UT,84070,Other,,2026-01-31,Closed,"Customer complaint: Other, Sandy, UT",40.621172,-111.828809
+CM-00589,5936 400 North,,South Ogden,UT,84403,Customer Service,,2025-07-12,Closed,"Customer complaint: Customer Service, South Ogden, UT",41.200574,-111.982504
+CM-00590,9752 Main St,,South Ogden,UT,84403,Billing Dispute,,2024-11-25,Escalated,"Customer complaint: Billing Dispute, South Ogden, UT",41.191302,-111.964406
+CM-00591,8414 Canyon Rd,,South Ogden,UT,84403,Fees,,2024-01-15,Open,"Customer complaint: Fees, South Ogden, UT",41.197029,-111.951790
+CM-00592,9520 Wall Ave,,West Valley City,UT,84119,Customer Service,,2026-05-12,Open,"Customer complaint: Customer Service, West Valley City, UT",40.658829,-112.117148
+CM-00593,5991 Wall Ave,,Layton,UT,84040,Other,,2024-12-18,Resolved,"Customer complaint: Other, Layton, UT",41.076098,-112.013217
+CM-00594,9143 University Ave,,Layton,UT,84040,Customer Service,,2024-12-19,Resolved,"Customer complaint: Customer Service, Layton, UT",41.091623,-111.988251
+CM-00595,3777 900 West,,West Valley City,UT,84119,Billing Dispute,,2023-12-23,Escalated,"Customer complaint: Billing Dispute, West Valley City, UT",40.693809,-111.997824
+CM-00596,9190 Redwood Rd,,Sandy,UT,84070,Customer Service,,2025-01-30,Resolved,"Customer complaint: Customer Service, Sandy, UT",40.573046,-111.859269
+CM-00597,9013 Bengal Blvd,,Ogden,UT,84401,Fraud Report,,2026-03-05,Open,"Customer complaint: Fraud Report, Ogden, UT",41.213921,-111.974885
+CM-00598,2533 Washington Blvd,,Ogden,UT,84401,Other,,2024-05-10,Open,"Customer complaint: Other, Ogden, UT",41.213949,-111.963138
+CM-00599,3163 200 South,,Sandy,UT,84070,Fees,,2024-10-29,Escalated,"Customer complaint: Fees, Sandy, UT",40.558745,-111.859795
+CM-00600,9531 Fort Union Blvd,,West Valley City,UT,84119,Other,,2024-09-26,Open,"Customer complaint: Other, West Valley City, UT",40.656285,-112.134056
+CM-00601,6216 400 North,,West Valley City,UT,84119,Fees,,2025-02-28,Resolved,"Customer complaint: Fees, West Valley City, UT",40.644173,-112.018422
+CM-00602,690 Harrison Blvd,,South Jordan,UT,84095,Other,,2025-03-29,Resolved,"Customer complaint: Other, South Jordan, UT",40.575185,-111.886102
+CM-00603,6940 900 West,,South Ogden,UT,84403,Billing Dispute,,2024-06-14,Open,"Customer complaint: Billing Dispute, South Ogden, UT",41.189495,-111.952476
+CM-00604,5494 Harrison Blvd,,South Jordan,UT,84095,Loan Servicing,,2023-10-06,Closed,"Customer complaint: Loan Servicing, South Jordan, UT",40.534627,-111.908455
+CM-00605,9247 Bengal Blvd,,North Ogden,UT,84414,Customer Service,,2024-05-23,Closed,"Customer complaint: Customer Service, North Ogden, UT",41.309156,-112.071410
+CM-00606,7739 Highland Dr,,Salt Lake City,UT,84101,Fraud Report,,2023-10-26,Closed,"Customer complaint: Fraud Report, Salt Lake City, UT",40.775889,-111.862036
+CM-00607,1156 State St,,Salt Lake City,UT,84101,Fees,,2025-09-28,Open,"Customer complaint: Fees, Salt Lake City, UT",40.765872,-111.856237
+CM-00608,549 Bengal Blvd,,Salt Lake City,UT,84101,Other,,2024-10-06,Closed,"Customer complaint: Other, Salt Lake City, UT",40.740731,-111.821898
+CM-00609,2464 University Ave,,Clearfield,UT,84015,Loan Servicing,,2026-03-03,Closed,"Customer complaint: Loan Servicing, Clearfield, UT",41.103281,-111.981752
+CM-00610,8016 Redwood Rd,,Ogden,UT,84401,Billing Dispute,,2026-05-25,Escalated,"Customer complaint: Billing Dispute, Ogden, UT",41.260023,-111.988982
+CM-00611,8842 Highland Dr,,South Jordan,UT,84095,Billing Dispute,,2026-06-27,Open,"Customer complaint: Billing Dispute, South Jordan, UT",40.576671,-111.936581
+CM-00612,3530 Washington Blvd,,Brigham City,UT,84302,Other,,2025-05-21,Open,"Customer complaint: Other, Brigham City, UT",41.518935,-112.010155
+CM-00613,1995 Highland Dr,,Murray,UT,84107,Fraud Report,,2026-05-27,Resolved,"Customer complaint: Fraud Report, Murray, UT",40.637340,-111.859427
+CM-00614,9612 Riverdale Rd,,Bountiful,UT,84010,Fraud Report,,2024-04-15,Closed,"Customer complaint: Fraud Report, Bountiful, UT",40.880968,-111.913347
+CM-00615,1602 Redwood Rd,,South Jordan,UT,84095,Customer Service,,2025-03-01,Resolved,"Customer complaint: Customer Service, South Jordan, UT",40.569478,-111.911027
+CM-00616,8657 State St,,Tremonton,UT,84337,Other,,2024-02-08,Open,"Customer complaint: Other, Tremonton, UT",41.704199,-112.173612
+CM-00617,378 Redwood Rd,,Logan,UT,84321,Loan Servicing,,2025-08-08,Escalated,"Customer complaint: Loan Servicing, Logan, UT",41.754246,-111.832896
+CM-00618,6050 State St,,South Jordan,UT,84095,Loan Servicing,,2026-05-03,Closed,"Customer complaint: Loan Servicing, South Jordan, UT",40.578054,-111.954371
+CM-00619,5479 State St,,Salt Lake City,UT,84101,Other,,2025-05-26,Open,"Customer complaint: Other, Salt Lake City, UT",40.761992,-111.857080
+CM-00620,5560 Redwood Rd,,Sandy,UT,84070,Loan Servicing,,2024-03-12,Open,"Customer complaint: Loan Servicing, Sandy, UT",40.565418,-111.871062
+CM-00621,6081 Harrison Blvd,,West Valley City,UT,84119,Loan Servicing,,2024-09-01,Escalated,"Customer complaint: Loan Servicing, West Valley City, UT",40.682526,-112.003800
+CM-00622,4272 1200 East,,West Valley City,UT,84119,Fraud Report,,2024-12-18,Resolved,"Customer complaint: Fraud Report, West Valley City, UT",40.644686,-112.015784
+CM-00623,8909 Bengal Blvd,,Sandy,UT,84070,Loan Servicing,,2026-02-07,Closed,"Customer complaint: Loan Servicing, Sandy, UT",40.573403,-111.869205
+CM-00624,3805 Highland Dr,,Roy,UT,84067,Billing Dispute,,2026-07-22,Escalated,"Customer complaint: Billing Dispute, Roy, UT",41.146551,-112.065437
+CM-00625,6236 Harrison Blvd,,South Jordan,UT,84095,Loan Servicing,,2024-03-15,Open,"Customer complaint: Loan Servicing, South Jordan, UT",40.533230,-111.908953
+CM-00626,2007 Fort Union Blvd,,Clearfield,UT,84015,Other,,2023-10-16,Closed,"Customer complaint: Other, Clearfield, UT",41.100773,-111.981738
+CM-00627,7093 900 West,,Clearfield,UT,84015,Fraud Report,,2024-11-11,Closed,"Customer complaint: Fraud Report, Clearfield, UT",41.111170,-112.129567
+CM-00628,2219 University Ave,,South Jordan,UT,84095,Fraud Report,,2024-11-08,Open,"Customer complaint: Fraud Report, South Jordan, UT",40.564939,-111.938626
+CM-00629,2187 400 North,,West Valley City,UT,84119,Billing Dispute,,2026-07-25,Open,"Customer complaint: Billing Dispute, West Valley City, UT",40.697914,-111.988222
+CM-00630,3964 Bengal Blvd,,South Jordan,UT,84095,Billing Dispute,,2024-11-10,Resolved,"Customer complaint: Billing Dispute, South Jordan, UT",40.572750,-111.932013
+CM-00631,1767 Main St,,Logan,UT,84321,Fees,,2024-03-29,Escalated,"Customer complaint: Fees, Logan, UT",41.732111,-111.810866
+CM-00632,3299 Harrison Blvd,,South Jordan,UT,84095,Loan Servicing,,2024-02-27,Escalated,"Customer complaint: Loan Servicing, South Jordan, UT",40.583865,-111.891773
+CM-00633,5901 Riverdale Rd,,Roy,UT,84067,Billing Dispute,,2025-12-02,Resolved,"Customer complaint: Billing Dispute, Roy, UT",41.178684,-112.033745
+CM-00634,1135 Washington Blvd,,Clearfield,UT,84015,Fraud Report,,2025-10-28,Resolved,"Customer complaint: Fraud Report, Clearfield, UT",41.104711,-111.975653
+CM-00635,4067 400 North,,South Jordan,UT,84095,Loan Servicing,,2024-11-16,Escalated,"Customer complaint: Loan Servicing, South Jordan, UT",40.585585,-111.889721
+CM-00636,1690 Riverdale Rd,,Sandy,UT,84070,Billing Dispute,,2024-06-16,Resolved,"Customer complaint: Billing Dispute, Sandy, UT",40.614691,-111.822888
+CM-00637,3463 State St,,Ogden,UT,84401,Loan Servicing,,2023-11-19,Open,"Customer complaint: Loan Servicing, Ogden, UT",41.210512,-111.983137
+CM-00638,7052 University Ave,,Kaysville,UT,84037,Billing Dispute,,2026-07-07,Escalated,"Customer complaint: Billing Dispute, Kaysville, UT",40.973549,-112.003397
+CM-00639,2488 Harrison Blvd,,South Ogden,UT,84403,Fees,,2025-12-03,Closed,"Customer complaint: Fees, South Ogden, UT",41.165523,-111.876368
+CM-00640,6823 Washington Blvd,,Bountiful,UT,84010,Other,,2025-04-01,Resolved,"Customer complaint: Other, Bountiful, UT",40.939723,-111.836654
+CM-00641,6975 Washington Blvd,,Kaysville,UT,84037,Fraud Report,,2025-09-15,Resolved,"Customer complaint: Fraud Report, Kaysville, UT",40.976078,-111.995602
+CM-00642,7169 Wall Ave,,Salt Lake City,UT,84101,Loan Servicing,,2026-06-25,Escalated,"Customer complaint: Loan Servicing, Salt Lake City, UT",40.745717,-111.808521
+CM-00643,6825 Main St,,North Ogden,UT,84414,Other,,2024-12-09,Open,"Customer complaint: Other, North Ogden, UT",41.273133,-111.949448
+CM-00644,9526 Main St,,Ogden,UT,84401,Other,,2024-07-21,Resolved,"Customer complaint: Other, Ogden, UT",41.213927,-111.972754
+CM-00645,1829 Bengal Blvd,,Layton,UT,84040,Loan Servicing,,2025-12-07,Resolved,"Customer complaint: Loan Servicing, Layton, UT",41.090095,-111.987925
+CM-00646,1151 400 North,,Smithfield,UT,84335,Loan Servicing,,2026-01-31,Resolved,"Customer complaint: Loan Servicing, Smithfield, UT",41.846289,-111.871083
+CM-00647,8530 Highland Dr,,Kaysville,UT,84037,Other,,2025-06-14,Open,"Customer complaint: Other, Kaysville, UT",41.042943,-111.959942
+CM-00648,8376 Redwood Rd,,Sandy,UT,84070,Billing Dispute,,2024-05-13,Resolved,"Customer complaint: Billing Dispute, Sandy, UT",40.581727,-111.874667
+CM-00649,5947 200 South,,Logan,UT,84321,Fees,,2026-01-28,Closed,"Customer complaint: Fees, Logan, UT",41.707075,-111.794574
+CM-00650,7035 Wall Ave,,West Valley City,UT,84119,Fees,,2024-11-10,Resolved,"Customer complaint: Fees, West Valley City, UT",40.665675,-111.953864
+CM-00651,6209 Redwood Rd,,South Jordan,UT,84095,Billing Dispute,,2025-03-20,Closed,"Customer complaint: Billing Dispute, South Jordan, UT",40.572316,-111.901389
+CM-00652,4088 200 South,,West Valley City,UT,84119,Other,,2026-05-22,Escalated,"Customer complaint: Other, West Valley City, UT",40.660022,-111.963012
+CM-00653,5303 900 West,,West Valley City,UT,84119,Customer Service,,2025-02-10,Escalated,"Customer complaint: Customer Service, West Valley City, UT",40.684891,-112.002429
+CM-00654,1291 1200 East,,West Valley City,UT,84119,Loan Servicing,,2026-05-04,Closed,"Customer complaint: Loan Servicing, West Valley City, UT",40.643839,-112.168521
+CM-00655,5331 Bengal Blvd,,Bountiful,UT,84010,Customer Service,,2023-10-28,Closed,"Customer complaint: Customer Service, Bountiful, UT",40.945114,-111.822482
+CM-00656,7412 Bengal Blvd,,West Valley City,UT,84119,Fraud Report,,2026-02-13,Escalated,"Customer complaint: Fraud Report, West Valley City, UT",40.688706,-111.995842
+CM-00657,547 Wall Ave,,Ogden,UT,84401,Other,,2025-07-30,Open,"Customer complaint: Other, Ogden, UT",41.213062,-111.958773
+CM-00658,2736 Main St,,North Ogden,UT,84414,Loan Servicing,,2025-10-15,Resolved,"Customer complaint: Loan Servicing, North Ogden, UT",41.350793,-111.980010
+CM-00659,5240 Highland Dr,,Clearfield,UT,84015,Fraud Report,,2024-11-16,Escalated,"Customer complaint: Fraud Report, Clearfield, UT",41.116002,-111.972861
+CM-00660,4070 State St,,Murray,UT,84107,Fees,,2024-03-31,Open,"Customer complaint: Fees, Murray, UT",40.648536,-111.856849
+CM-00661,1780 Fort Union Blvd,,Sandy,UT,84070,Customer Service,,2023-11-21,Open,"Customer complaint: Customer Service, Sandy, UT",40.617845,-111.825264
+CM-00662,5836 Main St,,South Jordan,UT,84095,Fees,,2023-09-23,Open,"Customer complaint: Fees, South Jordan, UT",40.586937,-111.894567
+CM-00663,8125 State St,,South Jordan,UT,84095,Other,,2026-06-11,Resolved,"Customer complaint: Other, South Jordan, UT",40.542560,-111.905979
+CM-00664,1935 200 South,,South Ogden,UT,84403,Fraud Report,,2025-08-19,Closed,"Customer complaint: Fraud Report, South Ogden, UT",41.203341,-111.975224
+CM-00665,4248 University Ave,,Sandy,UT,84070,Fees,,2023-09-20,Closed,"Customer complaint: Fees, Sandy, UT",40.614756,-111.828155
+CM-00666,6530 Fort Union Blvd,,Sandy,UT,84070,Fraud Report,,2025-09-21,Escalated,"Customer complaint: Fraud Report, Sandy, UT",40.585304,-111.876974
+CM-00667,5509 Harrison Blvd,,West Valley City,UT,84119,Billing Dispute,,2026-01-27,Closed,"Customer complaint: Billing Dispute, West Valley City, UT",40.663223,-111.956362
+CM-00668,1995 Redwood Rd,,Sandy,UT,84070,Fraud Report,,2024-08-18,Closed,"Customer complaint: Fraud Report, Sandy, UT",40.578063,-111.854596
+CM-00669,8587 900 West,,Sandy,UT,84070,Loan Servicing,,2026-04-04,Resolved,"Customer complaint: Loan Servicing, Sandy, UT",40.560487,-111.875118
+CM-00670,7813 200 South,,Sandy,UT,84070,Loan Servicing,,2026-02-27,Open,"Customer complaint: Loan Servicing, Sandy, UT",40.563314,-111.860744
+CM-00671,2174 University Ave,,Salt Lake City,UT,84101,Fees,,2025-04-18,Closed,"Customer complaint: Fees, Salt Lake City, UT",40.741362,-111.823333
+CM-00672,2171 1200 East,,Clearfield,UT,84015,Billing Dispute,,2023-10-22,Resolved,"Customer complaint: Billing Dispute, Clearfield, UT",41.097836,-111.987703
+CM-00673,2513 Highland Dr,,South Jordan,UT,84095,Loan Servicing,,2026-02-25,Resolved,"Customer complaint: Loan Servicing, South Jordan, UT",40.563680,-111.950134
+CM-00674,740 400 North,,South Ogden,UT,84403,Fraud Report,,2025-12-10,Escalated,"Customer complaint: Fraud Report, South Ogden, UT",41.196514,-111.956424
+CM-00675,6036 900 West,,West Valley City,UT,84119,Billing Dispute,,2024-05-17,Open,"Customer complaint: Billing Dispute, West Valley City, UT",40.640289,-112.015843
+CM-00676,2162 900 West,,North Ogden,UT,84414,Customer Service,,2025-11-23,Open,"Customer complaint: Customer Service, North Ogden, UT",41.334017,-111.968933
+CM-00677,2867 200 South,,Bountiful,UT,84010,Customer Service,,2024-02-22,Closed,"Customer complaint: Customer Service, Bountiful, UT",40.883910,-111.917466
+CM-00678,3882 Bengal Blvd,,Salt Lake City,UT,84101,Fraud Report,,2024-01-27,Open,"Customer complaint: Fraud Report, Salt Lake City, UT",40.774944,-111.853657
+CM-00679,618 Main St,,South Jordan,UT,84095,Billing Dispute,,2024-11-06,Escalated,"Customer complaint: Billing Dispute, South Jordan, UT",40.578126,-111.950655
+CM-00680,7063 Wall Ave,,North Ogden,UT,84414,Customer Service,,2023-11-08,Open,"Customer complaint: Customer Service, North Ogden, UT",41.268175,-111.950445
+CM-00681,3330 Highland Dr,,Ogden,UT,84401,Loan Servicing,,2025-01-25,Open,"Customer complaint: Loan Servicing, Ogden, UT",41.253539,-111.981011
+CM-00682,3648 Canyon Rd,,Bountiful,UT,84010,Fraud Report,,2025-03-23,Closed,"Customer complaint: Fraud Report, Bountiful, UT",40.923131,-112.000912
+CM-00683,182 900 West,,Layton,UT,84040,Billing Dispute,,2026-03-19,Open,"Customer complaint: Billing Dispute, Layton, UT",41.076407,-111.973716
+CM-00684,1780 State St,,South Ogden,UT,84403,Billing Dispute,,2023-09-30,Open,"Customer complaint: Billing Dispute, South Ogden, UT",41.147268,-111.922453
+CM-00685,719 Harrison Blvd,,Ogden,UT,84401,Fraud Report,,2025-04-09,Closed,"Customer complaint: Fraud Report, Ogden, UT",41.230253,-111.952147
+CM-00686,1851 Washington Blvd,,West Valley City,UT,84119,Other,,2024-02-10,Resolved,"Customer complaint: Other, West Valley City, UT",40.689252,-111.999731
+CM-00687,6512 Main St,,Murray,UT,84107,Other,,2025-09-12,Resolved,"Customer complaint: Other, Murray, UT",40.705497,-111.884842
+CM-00688,5471 900 West,,Murray,UT,84107,Other,,2025-10-08,Open,"Customer complaint: Other, Murray, UT",40.631758,-111.862881
+CM-00689,9414 Main St,,West Valley City,UT,84119,Other,,2025-04-12,Resolved,"Customer complaint: Other, West Valley City, UT",40.701483,-111.981240
+CM-00690,3021 1200 East,,Sandy,UT,84070,Other,,2025-09-21,Escalated,"Customer complaint: Other, Sandy, UT",40.570715,-111.813258
+CM-00691,1211 Fort Union Blvd,,West Valley City,UT,84119,Fees,,2025-06-11,Closed,"Customer complaint: Fees, West Valley City, UT",40.642716,-112.019007
+CM-00692,6361 400 North,,Sandy,UT,84070,Fees,,2024-10-21,Open,"Customer complaint: Fees, Sandy, UT",40.577335,-111.870634
+CM-00693,2375 Highland Dr,,West Valley City,UT,84119,Customer Service,,2026-01-25,Closed,"Customer complaint: Customer Service, West Valley City, UT",40.689965,-112.002845
+CM-00694,2717 400 North,,Roy,UT,84067,Other,,2025-04-20,Escalated,"Customer complaint: Other, Roy, UT",41.154953,-112.193114
+CM-00695,485 Main St,,South Jordan,UT,84095,Customer Service,,2023-10-22,Closed,"Customer complaint: Customer Service, South Jordan, UT",40.582028,-111.895282
+CM-00696,4347 200 South,,Sandy,UT,84070,Customer Service,,2026-01-01,Escalated,"Customer complaint: Customer Service, Sandy, UT",40.563835,-111.838138
+CM-00697,4884 200 South,,West Valley City,UT,84119,Fraud Report,,2023-12-25,Escalated,"Customer complaint: Fraud Report, West Valley City, UT",40.620897,-112.192229
+CM-00698,6417 Bengal Blvd,,Salt Lake City,UT,84101,Billing Dispute,,2026-02-12,Open,"Customer complaint: Billing Dispute, Salt Lake City, UT",40.777915,-111.858667
+CM-00699,6570 Highland Dr,,Tremonton,UT,84337,Loan Servicing,,2024-07-11,Resolved,"Customer complaint: Loan Servicing, Tremonton, UT",41.668890,-112.125391
+CM-00700,5876 Harrison Blvd,,South Jordan,UT,84095,Fraud Report,,2024-02-21,Open,"Customer complaint: Fraud Report, South Jordan, UT",40.579259,-111.913009
+CM-00701,1047 200 South,,Sandy,UT,84070,Loan Servicing,,2026-07-23,Resolved,"Customer complaint: Loan Servicing, Sandy, UT",40.584520,-111.879563
+CM-00702,9238 400 North,,Layton,UT,84040,Loan Servicing,,2026-03-03,Resolved,"Customer complaint: Loan Servicing, Layton, UT",41.118501,-111.913124
+CM-00703,6866 900 West,,Bountiful,UT,84010,Loan Servicing,,2025-05-28,Resolved,"Customer complaint: Loan Servicing, Bountiful, UT",40.882644,-111.922017
+CM-00704,4299 Canyon Rd,,North Logan,UT,84341,Fees,,2024-08-07,Escalated,"Customer complaint: Fees, North Logan, UT",41.754540,-111.824399
+CM-00705,6596 Fort Union Blvd,,Perry,UT,84302,Billing Dispute,,2023-11-03,Closed,"Customer complaint: Billing Dispute, Perry, UT",41.445689,-112.118706
+CM-00706,2313 Washington Blvd,,South Jordan,UT,84095,Customer Service,,2024-03-03,Escalated,"Customer complaint: Customer Service, South Jordan, UT",40.582858,-111.914298
+CM-00707,9283 Canyon Rd,,Logan,UT,84321,Other,,2026-08-07,Open,"Customer complaint: Other, Logan, UT",41.742779,-111.839505
+CM-00708,2665 Wall Ave,,Logan,UT,84321,Billing Dispute,,2024-06-15,Resolved,"Customer complaint: Billing Dispute, Logan, UT",41.726365,-111.989712
+CM-00709,3878 Harrison Blvd,,Murray,UT,84107,Billing Dispute,,2023-10-07,Escalated,"Customer complaint: Billing Dispute, Murray, UT",40.697527,-111.876146
+CM-00710,4204 Harrison Blvd,,West Valley City,UT,84119,Loan Servicing,,2025-06-08,Closed,"Customer complaint: Loan Servicing, West Valley City, UT",40.635755,-112.114810
+CM-00711,6711 Fort Union Blvd,,West Valley City,UT,84119,Billing Dispute,,2024-08-18,Open,"Customer complaint: Billing Dispute, West Valley City, UT",40.602254,-112.091259
+CM-00712,4884 Highland Dr,,North Ogden,UT,84414,Fraud Report,,2025-12-30,Resolved,"Customer complaint: Fraud Report, North Ogden, UT",41.318150,-111.956393
+CM-00713,8148 1200 East,,Murray,UT,84107,Fees,,2024-10-27,Closed,"Customer complaint: Fees, Murray, UT",40.701278,-111.872409
+CM-00714,2374 University Ave,,Sandy,UT,84070,Loan Servicing,,2025-07-24,Resolved,"Customer complaint: Loan Servicing, Sandy, UT",40.568038,-111.871644
+CM-00715,3070 State St,,West Valley City,UT,84119,Loan Servicing,,2025-01-20,Closed,"Customer complaint: Loan Servicing, West Valley City, UT",40.642938,-112.023084
+CM-00716,825 Redwood Rd,,South Ogden,UT,84403,Other,,2024-09-19,Resolved,"Customer complaint: Other, South Ogden, UT",41.204680,-111.983325
+CM-00717,8882 Canyon Rd,,Sandy,UT,84070,Customer Service,,2024-07-07,Closed,"Customer complaint: Customer Service, Sandy, UT",40.583156,-111.873042
+CM-00718,496 400 North,,Layton,UT,84040,Fraud Report,,2026-01-06,Open,"Customer complaint: Fraud Report, Layton, UT",41.086230,-111.966490
+CM-00719,9622 Riverdale Rd,,Tremonton,UT,84337,Other,,2026-02-01,Resolved,"Customer complaint: Other, Tremonton, UT",41.787319,-112.159462
+CM-00720,1618 200 South,,Sandy,UT,84070,Fraud Report,,2025-04-24,Escalated,"Customer complaint: Fraud Report, Sandy, UT",40.619221,-111.829099
+CM-00721,6041 Washington Blvd,,South Jordan,UT,84095,Billing Dispute,,2025-10-14,Closed,"Customer complaint: Billing Dispute, South Jordan, UT",40.575940,-111.906489
+CM-00722,4049 Main St,,South Jordan,UT,84095,Fees,,2025-01-23,Closed,"Customer complaint: Fees, South Jordan, UT",40.579370,-111.956770
+CM-00723,2441 400 North,,Brigham City,UT,84302,Other,,2025-04-28,Resolved,"Customer complaint: Other, Brigham City, UT",41.519849,-112.012590
+CM-00724,7311 Bengal Blvd,,Sandy,UT,84070,Other,,2026-05-08,Resolved,"Customer complaint: Other, Sandy, UT",40.578864,-111.854762
+CM-00725,8190 Harrison Blvd,,Sandy,UT,84070,Other,,2026-07-15,Closed,"Customer complaint: Other, Sandy, UT",40.568612,-111.863549
+CM-00726,6773 Wall Ave,,Sandy,UT,84070,Other,,2026-02-10,Escalated,"Customer complaint: Other, Sandy, UT",40.567314,-111.822191
+CM-00727,2046 Main St,,Sandy,UT,84070,Loan Servicing,,2026-06-01,Escalated,"Customer complaint: Loan Servicing, Sandy, UT",40.578995,-111.854624
+CM-00728,4065 200 South,,Clearfield,UT,84015,Other,,2024-04-10,Open,"Customer complaint: Other, Clearfield, UT",41.069849,-112.029473
+CM-00729,4223 1200 East,,Murray,UT,84107,Customer Service,,2026-09-07,Open,"Customer complaint: Customer Service, Murray, UT",40.702727,-111.884707
+CM-00730,8482 University Ave,,Sandy,UT,84070,Fraud Report,,2024-01-21,Open,"Customer complaint: Fraud Report, Sandy, UT",40.567369,-111.814591
+CM-00731,3850 Washington Blvd,,Murray,UT,84107,Other,,2025-08-29,Escalated,"Customer complaint: Other, Murray, UT",40.642588,-111.856681
+CM-00732,4299 200 South,,Sandy,UT,84070,Fraud Report,,2026-03-05,Open,"Customer complaint: Fraud Report, Sandy, UT",40.587627,-111.878431
+CM-00733,4052 Harrison Blvd,,Sandy,UT,84070,Customer Service,,2026-03-10,Escalated,"Customer complaint: Customer Service, Sandy, UT",40.581636,-111.884951
+CM-00734,7092 Harrison Blvd,,South Jordan,UT,84095,Customer Service,,2026-07-19,Closed,"Customer complaint: Customer Service, South Jordan, UT",40.551631,-111.902811
+CM-00735,9809 University Ave,,Logan,UT,84321,Fees,,2026-04-01,Closed,"Customer complaint: Fees, Logan, UT",41.737400,-111.823606
+CM-00736,5136 Wall Ave,,Salt Lake City,UT,84101,Other,,2024-04-30,Escalated,"Customer complaint: Other, Salt Lake City, UT",40.761655,-111.859189
+CM-00737,6438 Wall Ave,,Sandy,UT,84070,Fraud Report,,2026-08-14,Closed,"Customer complaint: Fraud Report, Sandy, UT",40.561000,-111.838149
+CM-00738,188 Highland Dr,,South Jordan,UT,84095,Fraud Report,,2026-04-15,Closed,"Customer complaint: Fraud Report, South Jordan, UT",40.570946,-111.941132
+CM-00739,9280 Washington Blvd,,South Jordan,UT,84095,Billing Dispute,,2025-08-05,Escalated,"Customer complaint: Billing Dispute, South Jordan, UT",40.579532,-111.946584
+CM-00740,6603 200 South,,Salt Lake City,UT,84101,Loan Servicing,,2025-09-25,Escalated,"Customer complaint: Loan Servicing, Salt Lake City, UT",40.736233,-111.812034
+CM-00741,5019 Washington Blvd,,South Jordan,UT,84095,Other,,2023-10-01,Open,"Customer complaint: Other, South Jordan, UT",40.580038,-111.917030
+CM-00742,1324 Main St,,South Jordan,UT,84095,Customer Service,,2024-04-13,Resolved,"Customer complaint: Customer Service, South Jordan, UT",40.527522,-111.918701
+CM-00743,798 Harrison Blvd,,West Valley City,UT,84119,Loan Servicing,,2024-03-23,Resolved,"Customer complaint: Loan Servicing, West Valley City, UT",40.688643,-112.005002
+CM-00744,5185 Redwood Rd,,Smithfield,UT,84335,Loan Servicing,,2025-04-10,Escalated,"Customer complaint: Loan Servicing, Smithfield, UT",41.995226,-111.829637
+CM-00745,2843 Wall Ave,,Clearfield,UT,84015,Fees,,2026-02-27,Closed,"Customer complaint: Fees, Clearfield, UT",41.098896,-111.991218
+CM-00746,5437 Main St,,Smithfield,UT,84335,Billing Dispute,,2024-02-28,Resolved,"Customer complaint: Billing Dispute, Smithfield, UT",41.976508,-111.793464
+CM-00747,2222 University Ave,,Logan,UT,84321,Other,,2024-08-22,Open,"Customer complaint: Other, Logan, UT",41.718583,-111.796329
+CM-00748,7199 Main St,,South Jordan,UT,84095,Fraud Report,,2025-03-06,Open,"Customer complaint: Fraud Report, South Jordan, UT",40.592815,-111.889327
+CM-00749,1738 Washington Blvd,,Roy,UT,84067,Customer Service,,2026-07-02,Escalated,"Customer complaint: Customer Service, Roy, UT",41.176115,-112.149318
+CM-00750,5016 Bengal Blvd,,South Jordan,UT,84095,Loan Servicing,,2024-02-29,Closed,"Customer complaint: Loan Servicing, South Jordan, UT",40.558982,-111.884326

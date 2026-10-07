@@ -1,0 +1,31 @@
+external_id,address_line_1,address_line_2,city,state,postal_code,category,amount,date,status,description,latitude,longitude
+BR-00001,5237 200 South,,Clearfield,UT,84015,Branch,,2025-11-18,Active,"Full-service branch, Clearfield, UT",41.118746,-112.011855
+BR-00002,8701 Main St,,North Logan,UT,84341,Branch,,2024-06-23,Active,"Full-service branch, North Logan, UT",41.756451,-111.815638
+BR-00003,532 200 South,,South Jordan,UT,84095,Branch,,2026-08-28,Active,"Full-service branch, South Jordan, UT",40.569975,-111.898222
+BR-00004,1375 200 South,,Perry,UT,84302,Branch,,2026-03-30,Active,"Full-service branch, Perry, UT",41.464853,-112.028224
+BR-00005,4785 Bengal Blvd,,Ogden,UT,84401,Branch,,2026-05-21,Active,"Full-service branch, Ogden, UT",41.211495,-111.962001
+BR-00006,2324 Fort Union Blvd,,Roy,UT,84067,Branch,,2023-12-25,Active,"Full-service branch, Roy, UT",41.183016,-112.031202
+BR-00007,2618 State St,,South Jordan,UT,84095,Branch,,2026-02-04,Active,"Full-service branch, South Jordan, UT",40.573054,-111.909933
+BR-00008,5211 University Ave,,South Jordan,UT,84095,Branch,,2026-06-13,Active,"Full-service branch, South Jordan, UT",40.569354,-111.904682
+BR-00009,6832 200 South,,Murray,UT,84107,Branch,,2026-06-12,Active,"Full-service branch, Murray, UT",40.630281,-111.860438
+BR-00010,1265 400 North,,Hyrum,UT,84319,Branch,,2025-10-29,Planned,"Full-service branch, Hyrum, UT",41.551072,-111.790602
+BR-00011,467 Highland Dr,,Salt Lake City,UT,84101,Branch,,2025-07-07,Active,"Full-service branch, Salt Lake City, UT",40.762316,-111.858074
+BR-00012,3216 Bengal Blvd,,Salt Lake City,UT,84101,Branch,,2026-08-02,Active,"Full-service branch, Salt Lake City, UT",40.723771,-111.808915
+BR-00013,165 900 West,,South Ogden,UT,84403,Branch,,2024-07-06,Active,"Full-service branch, South Ogden, UT",41.199508,-111.975746
+BR-00014,4422 Washington Blvd,,Clearfield,UT,84015,Branch,,2026-08-07,Planned,"Full-service branch, Clearfield, UT",41.082410,-112.035365
+BR-00015,179 Redwood Rd,,Layton,UT,84040,Branch,,2023-11-13,Active,"Full-service branch, Layton, UT",41.086638,-111.973525
+BR-00016,8532 Redwood Rd,,West Valley City,UT,84119,Branch,,2024-03-08,Active,"Full-service branch, West Valley City, UT",40.703240,-111.995025
+BR-00017,8922 Washington Blvd,,South Ogden,UT,84403,Branch,,2024-11-24,Active,"Full-service branch, South Ogden, UT",41.160494,-111.869187
+BR-00018,2838 Redwood Rd,,South Jordan,UT,84095,Branch,,2025-11-08,Planned,"Full-service branch, South Jordan, UT",40.594706,-111.886781
+BR-00019,9514 Washington Blvd,,Salt Lake City,UT,84101,Branch,,2026-07-22,Active,"Full-service branch, Salt Lake City, UT",40.761481,-111.852681
+BR-00020,7496 University Ave,,South Jordan,UT,84095,Branch,,2023-11-21,Planned,"Full-service branch, South Jordan, UT",40.535043,-111.916974
+BR-00021,9647 Canyon Rd,,North Ogden,UT,84414,Branch,,2025-07-21,Active,"Full-service branch, North Ogden, UT",41.333261,-112.064980
+BR-00022,9511 Canyon Rd,,South Ogden,UT,84403,Branch,,2025-07-23,Active,"Full-service branch, South Ogden, UT",41.210514,-111.950428
+BR-00023,3238 1200 East,,West Valley City,UT,84119,Branch,,2026-08-19,Active,"Full-service branch, West Valley City, UT",40.701953,-111.981394
+BR-00024,5246 Canyon Rd,,Roy,UT,84067,Branch,,2024-03-24,Planned,"Full-service branch, Roy, UT",41.175478,-112.024776
+BR-00025,6019 1200 East,,Salt Lake City,UT,84101,Branch,,2024-02-14,Active,"Full-service branch, Salt Lake City, UT",40.761189,-111.853665
+BR-00026,2934 Main St,,West Valley City,UT,84119,Branch,,2025-09-09,Active,"Full-service branch, West Valley City, UT",40.699783,-111.985866
+BR-00027,3554 Bengal Blvd,,Layton,UT,84040,Branch,,2025-10-31,Active,"Full-service branch, Layton, UT",41.120228,-111.866935
+BR-00028,1828 Harrison Blvd,,Sandy,UT,84070,Branch,,2026-06-08,Active,"Full-service branch, Sandy, UT",40.592707,-111.884978
+BR-00029,7615 1200 East,,Sandy,UT,84070,Branch,,2024-03-01,Active,"Full-service branch, Sandy, UT",40.577975,-111.863023
+BR-00030,6962 Canyon Rd,,Sandy,UT,84070,Branch,,2025-07-29,Active,"Full-service branch, Sandy, UT",40.562940,-111.827269

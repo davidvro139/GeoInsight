@@ -1,0 +1,21 @@
+external_id,address_line_1,address_line_2,city,state,postal_code,category,amount,date,status,description,latitude,longitude
+LN-20001,1245 Washington Blvd,,Ogden,UT,84404,Purchase,285000,2026-01-14,Active,First-time homebuyer,41.2260,-111.9750
+LN-20002,876 24th St,Apt 3,Ogden,UT,84401,Refinance,192500,2026-01-22,Active,Rate and term refinance,41.2195,-111.9700
+LN-20003,410 N Main St,,Layton,UT,84041,Purchase,342000,2026-02-03,Active,New construction,41.0625,-111.9715
+LN-20004,2200 Antelope Dr,,Layton,UT,84041,Home Equity,65000,2026-02-11,Active,Home improvement,41.0580,-111.9740
+LN-20005,150 S 200 E,,Kaysville,UT,84037,Purchase,398500,2026-02-18,Active,Move-up buyer,41.0353,-111.9391
+LN-20006,720 W 400 N,,Logan,UT,84321,Purchase,265000,2026-02-25,Active,First-time homebuyer,41.7390,-111.8360
+LN-20007,55 E 1400 N,Unit B,Logan,UT,84341,Refinance,221000,2026-03-02,Closed,Cash-out refinance,41.7450,-111.8300
+LN-20008,300 S Main St,,Smithfield,UT,84335,Purchase,247500,2026-03-09,Active,First-time homebuyer,41.8354,-111.8327
+LN-20009,89 W Forest St,,Brigham City,UT,84302,Purchase,229000,2026-03-14,Active,Relocation,41.5100,-112.0155
+LN-20010,1500 S 500 W,,Brigham City,UT,84302,Home Equity,42000,2026-03-20,Active,Debt consolidation,41.5050,-112.0190
+LN-20011,455 S State St,,Salt Lake City,UT,84111,Purchase,512000,2026-03-27,Active,Move-up buyer,40.7608,-111.8910
+LN-20012,2100 S 1300 E,Apt 12,Salt Lake City,UT,84106,Refinance,375000,2026-04-02,Active,Rate and term refinance,40.7280,-111.8590
+LN-20013,3550 W 3500 S,,West Valley City,UT,84119,Purchase,318000,2026-04-08,Delinquent,First-time homebuyer,40.6916,-112.0011
+LN-20014,9450 S State St,,Sandy,UT,84070,Purchase,405500,2026-04-15,Active,Move-up buyer,40.5649,-111.8389
+LN-20015,890 E 9400 S,,Sandy,UT,84094,Home Equity,58000,2026-04-21,Active,Home improvement,40.5700,-111.8320
+LN-20016,610 W 700 S,,Ogden,UT,84401,Purchase,276000,2026-04-28,Active,First-time homebuyer,41.2150,-111.9820
+LN-20017,1180 N Fairfield Rd,,Layton,UT,84041,Purchase,311000,2026-05-05,Active,New construction,41.0700,-111.9650
+LN-20018,940 S Depot St,,Woods Cross,UT,84087,Purchase,289000,2026-05-12,Active,Relocation,40.8730,-111.8983
+LN-20019,3300 S Highland Dr,,Salt Lake City,UT,84106,Purchase,289500,2026-05-19,Active,Move-up buyer,40.7180,-111.8480
+LN-20020,220 N Center St,,Bountiful,UT,84010,Purchase,331000,2026-05-27,Active,First-time homebuyer,40.8894,-111.8808

@@ -1,0 +1,501 @@
+external_id,address_line_1,address_line_2,city,state,postal_code,category,amount,date,status,description,latitude,longitude
+SB-00001,5686 State St,,South Jordan,UT,84095,Line of Credit,293952,2026-05-21,Approved,"Line of Credit small business loan, South Jordan, UT",40.578167,-111.945684
+SB-00002,6658 Harrison Blvd,,North Logan,UT,84341,SBA 7(a),267949,2023-12-25,Pending,"SBA 7(a) small business loan, North Logan, UT",41.750434,-111.792030
+SB-00003,289 Redwood Rd,,North Logan,UT,84341,Line of Credit,375256,2024-02-25,Closed,"Line of Credit small business loan, North Logan, UT",41.755151,-111.799190
+SB-00004,777 Washington Blvd,,Roy,UT,84067,Line of Credit,31273,2026-01-15,Denied,"Line of Credit small business loan, Roy, UT",41.156737,-112.140228
+SB-00005,4564 Main St,,South Jordan,UT,84095,SBA 7(a),65197,2025-01-09,Approved,"SBA 7(a) small business loan, South Jordan, UT",40.577710,-111.892592
+SB-00006,3336 200 South,,Salt Lake City,UT,84101,SBA 7(a),245855,2025-06-17,Under Review,"SBA 7(a) small business loan, Salt Lake City, UT",40.743103,-111.808635
+SB-00007,1522 Bengal Blvd,,Layton,UT,84040,Working Capital,178894,2025-05-04,Denied,"Working Capital small business loan, Layton, UT",41.113923,-111.920299
+SB-00008,8498 Canyon Rd,,Salt Lake City,UT,84101,Line of Credit,83244,2023-12-06,Denied,"Line of Credit small business loan, Salt Lake City, UT",40.766834,-111.860090
+SB-00009,9305 Fort Union Blvd,,Sandy,UT,84070,SBA 7(a),399682,2025-05-12,Approved,"SBA 7(a) small business loan, Sandy, UT",40.593391,-111.872285
+SB-00010,9434 Harrison Blvd,,South Jordan,UT,84095,Line of Credit,259893,2023-11-26,Closed,"Line of Credit small business loan, South Jordan, UT",40.545398,-111.915507
+SB-00011,6069 Highland Dr,,Tremonton,UT,84337,Working Capital,406791,2024-03-20,Approved,"Working Capital small business loan, Tremonton, UT",41.779035,-112.105586
+SB-00012,2952 Main St,,North Ogden,UT,84414,Working Capital,255681,2025-06-01,Pending,"Working Capital small business loan, North Ogden, UT",41.280487,-112.066008
+SB-00013,1189 Main St,,Bountiful,UT,84010,SBA 7(a),304439,2024-01-03,Under Review,"SBA 7(a) small business loan, Bountiful, UT",40.936294,-111.950253
+SB-00014,2704 Wall Ave,,Salt Lake City,UT,84101,SBA 7(a),104141,2024-09-25,Closed,"SBA 7(a) small business loan, Salt Lake City, UT",40.777595,-111.862526
+SB-00015,5171 Redwood Rd,,Salt Lake City,UT,84101,Line of Credit,203247,2026-05-19,Closed,"Line of Credit small business loan, Salt Lake City, UT",40.769965,-111.861341
+SB-00016,4315 Harrison Blvd,,West Valley City,UT,84119,Expansion,492598,2024-08-10,Closed,"Expansion small business loan, West Valley City, UT",40.658414,-111.965743
+SB-00017,6981 Redwood Rd,,Sandy,UT,84070,Expansion,304685,2026-04-04,Denied,"Expansion small business loan, Sandy, UT",40.618711,-111.824649
+SB-00018,7748 Redwood Rd,,South Jordan,UT,84095,Expansion,85480,2024-09-05,Denied,"Expansion small business loan, South Jordan, UT",40.528306,-111.914710
+SB-00019,1260 200 South,,South Jordan,UT,84095,Working Capital,211789,2024-01-17,Under Review,"Working Capital small business loan, South Jordan, UT",40.568749,-111.944793
+SB-00020,9224 Canyon Rd,,Sandy,UT,84070,Working Capital,92930,2025-01-10,Pending,"Working Capital small business loan, Sandy, UT",40.576614,-111.855800
+SB-00021,2402 Riverdale Rd,,Logan,UT,84321,Expansion,307473,2024-12-23,Under Review,"Expansion small business loan, Logan, UT",41.749164,-111.839805
+SB-00022,1188 State St,,Sandy,UT,84070,Line of Credit,138162,2023-10-24,Denied,"Line of Credit small business loan, Sandy, UT",40.623171,-111.819732
+SB-00023,3897 Main St,,North Ogden,UT,84414,Equipment Financing,121109,2024-07-20,Under Review,"Equipment Financing small business loan, North Ogden, UT",41.275268,-111.950891
+SB-00024,4011 400 North,,West Valley City,UT,84119,Expansion,280978,2026-01-31,Approved,"Expansion small business loan, West Valley City, UT",40.621441,-112.111005
+SB-00025,9351 1200 East,,Farmington,UT,84025,Equipment Financing,490475,2026-04-26,Closed,"Equipment Financing small business loan, Farmington, UT",40.964724,-111.929277
+SB-00026,4302 Main St,,West Valley City,UT,84119,Expansion,386693,2025-09-10,Under Review,"Expansion small business loan, West Valley City, UT",40.645896,-112.017618
+SB-00027,9147 Riverdale Rd,,Layton,UT,84040,Expansion,159926,2026-03-11,Approved,"Expansion small business loan, Layton, UT",41.079000,-111.972157
+SB-00028,9997 Bengal Blvd,,Draper,UT,84020,SBA 7(a),371397,2023-12-10,Closed,"SBA 7(a) small business loan, Draper, UT",40.529136,-111.907672
+SB-00029,9965 State St,,South Jordan,UT,84095,Line of Credit,39712,2025-05-29,Closed,"Line of Credit small business loan, South Jordan, UT",40.546841,-111.915047
+SB-00030,2329 Redwood Rd,,Bountiful,UT,84010,Line of Credit,103300,2025-04-04,Under Review,"Line of Credit small business loan, Bountiful, UT",40.868069,-111.914499
+SB-00031,9529 University Ave,,South Jordan,UT,84095,Equipment Financing,460936,2024-08-10,Denied,"Equipment Financing small business loan, South Jordan, UT",40.579822,-111.937290
+SB-00032,3864 State St,,West Valley City,UT,84119,Equipment Financing,446458,2026-07-22,Pending,"Equipment Financing small business loan, West Valley City, UT",40.645008,-112.017808
+SB-00033,2644 University Ave,,Salt Lake City,UT,84101,Expansion,142132,2024-10-26,Approved,"Expansion small business loan, Salt Lake City, UT",40.749505,-111.827222
+SB-00034,4316 University Ave,,West Valley City,UT,84119,Equipment Financing,415716,2024-02-04,Pending,"Equipment Financing small business loan, West Valley City, UT",40.639499,-112.020068
+SB-00035,661 1200 East,,Farmington,UT,84025,Expansion,169007,2025-03-29,Approved,"Expansion small business loan, Farmington, UT",40.968163,-111.917845
+SB-00036,1013 400 North,,Layton,UT,84040,Working Capital,248598,2025-03-05,Closed,"Working Capital small business loan, Layton, UT",41.126567,-111.874857
+SB-00037,8169 Washington Blvd,,West Valley City,UT,84119,Expansion,27179,2026-02-19,Denied,"Expansion small business loan, West Valley City, UT",40.692856,-111.988688
+SB-00038,2834 Canyon Rd,,South Jordan,UT,84095,SBA 7(a),53627,2026-06-25,Approved,"SBA 7(a) small business loan, South Jordan, UT",40.573522,-111.954742
+SB-00039,611 Main St,,North Ogden,UT,84414,Expansion,189232,2024-05-05,Denied,"Expansion small business loan, North Ogden, UT",41.334916,-112.058245
+SB-00040,4251 400 North,,Kaysville,UT,84037,Working Capital,173822,2024-07-16,Pending,"Working Capital small business loan, Kaysville, UT",41.009708,-111.940520
+SB-00041,4396 200 South,,Perry,UT,84302,Expansion,27434,2025-07-08,Pending,"Expansion small business loan, Perry, UT",41.478910,-112.043726
+SB-00042,2781 Riverdale Rd,,Sandy,UT,84070,Line of Credit,477881,2024-09-15,Pending,"Line of Credit small business loan, Sandy, UT",40.562283,-111.863213
+SB-00043,7283 Main St,,Salt Lake City,UT,84101,Expansion,172130,2025-12-06,Approved,"Expansion small business loan, Salt Lake City, UT",40.767567,-111.855537
+SB-00044,7819 Washington Blvd,,South Jordan,UT,84095,Expansion,489763,2026-06-12,Closed,"Expansion small business loan, South Jordan, UT",40.585044,-111.906443
+SB-00045,2213 400 North,,West Valley City,UT,84119,SBA 7(a),466975,2023-11-09,Closed,"SBA 7(a) small business loan, West Valley City, UT",40.650847,-112.122147
+SB-00046,7249 University Ave,,Salt Lake City,UT,84101,Line of Credit,457947,2024-04-14,Under Review,"Line of Credit small business loan, Salt Lake City, UT",40.765529,-111.858347
+SB-00047,7533 Highland Dr,,Sandy,UT,84070,SBA 7(a),426263,2024-01-08,Denied,"SBA 7(a) small business loan, Sandy, UT",40.561880,-111.814284
+SB-00048,2587 Bengal Blvd,,South Jordan,UT,84095,Line of Credit,450486,2024-03-18,Pending,"Line of Credit small business loan, South Jordan, UT",40.543005,-111.911666
+SB-00049,2380 State St,,West Valley City,UT,84119,Expansion,313193,2024-09-29,Pending,"Expansion small business loan, West Valley City, UT",40.624597,-112.088051
+SB-00050,8870 Redwood Rd,,Logan,UT,84321,Expansion,284909,2023-10-01,Approved,"Expansion small business loan, Logan, UT",41.742457,-111.829134
+SB-00051,5866 Redwood Rd,,Ogden,UT,84401,Working Capital,193207,2025-01-26,Approved,"Working Capital small business loan, Ogden, UT",41.213396,-111.971531
+SB-00052,8788 University Ave,,West Valley City,UT,84119,Expansion,285396,2023-10-13,Pending,"Expansion small business loan, West Valley City, UT",40.655858,-111.955200
+SB-00053,9246 University Ave,,Bountiful,UT,84010,Working Capital,437719,2024-03-05,Denied,"Working Capital small business loan, Bountiful, UT",40.939771,-111.842549
+SB-00054,703 Canyon Rd,,South Jordan,UT,84095,Line of Credit,320966,2025-03-28,Approved,"Line of Credit small business loan, South Jordan, UT",40.580895,-111.887159
+SB-00055,2619 University Ave,,Salt Lake City,UT,84101,Expansion,297029,2025-10-14,Denied,"Expansion small business loan, Salt Lake City, UT",40.741873,-111.811458
+SB-00056,8864 1200 East,,Murray,UT,84107,Equipment Financing,126501,2023-11-10,Pending,"Equipment Financing small business loan, Murray, UT",40.636770,-111.856860
+SB-00057,3661 Main St,,Brigham City,UT,84302,Line of Credit,267638,2026-03-05,Approved,"Line of Credit small business loan, Brigham City, UT",41.492510,-112.002849
+SB-00058,8647 Canyon Rd,,West Valley City,UT,84119,Equipment Financing,110558,2024-08-03,Denied,"Equipment Financing small business loan, West Valley City, UT",40.678719,-112.107108
+SB-00059,7344 Bengal Blvd,,West Valley City,UT,84119,SBA 7(a),415245,2023-09-29,Pending,"SBA 7(a) small business loan, West Valley City, UT",40.649386,-112.022653
+SB-00060,1948 Main St,,Brigham City,UT,84302,Equipment Financing,20789,2025-01-08,Denied,"Equipment Financing small business loan, Brigham City, UT",41.501321,-112.002068
+SB-00061,8461 Redwood Rd,,West Valley City,UT,84119,SBA 7(a),253656,2024-10-21,Closed,"SBA 7(a) small business loan, West Valley City, UT",40.652835,-112.019685
+SB-00062,1609 Canyon Rd,,Sandy,UT,84070,Equipment Financing,177752,2026-04-08,Closed,"Equipment Financing small business loan, Sandy, UT",40.596487,-111.874339
+SB-00063,4212 Redwood Rd,,Layton,UT,84040,Working Capital,234913,2023-12-04,Closed,"Working Capital small business loan, Layton, UT",41.127257,-111.855338
+SB-00064,9518 1200 East,,Salt Lake City,UT,84101,Line of Credit,73918,2025-04-06,Under Review,"Line of Credit small business loan, Salt Lake City, UT",40.768363,-111.860079
+SB-00065,7069 Main St,,Salt Lake City,UT,84101,Line of Credit,478824,2025-11-11,Approved,"Line of Credit small business loan, Salt Lake City, UT",40.761769,-111.859127
+SB-00066,2103 Fort Union Blvd,,Sandy,UT,84070,Equipment Financing,493437,2025-03-07,Denied,"Equipment Financing small business loan, Sandy, UT",40.567178,-111.882440
+SB-00067,5258 1200 East,,South Jordan,UT,84095,Working Capital,224470,2025-11-06,Under Review,"Working Capital small business loan, South Jordan, UT",40.576803,-111.891893
+SB-00068,2685 900 West,,Brigham City,UT,84302,Line of Credit,194656,2025-01-05,Denied,"Line of Credit small business loan, Brigham City, UT",41.515559,-112.008445
+SB-00069,1227 Wall Ave,,Clearfield,UT,84015,Line of Credit,33213,2023-11-03,Approved,"Line of Credit small business loan, Clearfield, UT",41.107386,-112.429324
+SB-00070,309 400 North,,South Jordan,UT,84095,Equipment Financing,117188,2025-11-03,Pending,"Equipment Financing small business loan, South Jordan, UT",40.567676,-111.936035
+SB-00071,4192 Redwood Rd,,Clearfield,UT,84015,Working Capital,132815,2025-11-19,Under Review,"Working Capital small business loan, Clearfield, UT",41.098348,-111.987193
+SB-00072,6151 Wall Ave,,Roy,UT,84067,Expansion,129156,2024-01-21,Approved,"Expansion small business loan, Roy, UT",41.145470,-112.161655
+SB-00073,6469 Harrison Blvd,,West Valley City,UT,84119,Working Capital,487628,2024-12-14,Closed,"Working Capital small business loan, West Valley City, UT",40.689756,-111.990937
+SB-00074,9249 Harrison Blvd,,South Ogden,UT,84403,Expansion,121456,2026-03-12,Pending,"Expansion small business loan, South Ogden, UT",41.177176,-111.879246
+SB-00075,3047 900 West,,Bountiful,UT,84010,SBA 7(a),214526,2024-06-12,Approved,"SBA 7(a) small business loan, Bountiful, UT",40.832235,-111.918214
+SB-00076,2245 900 West,,Clearfield,UT,84015,Expansion,257712,2025-01-23,Approved,"Expansion small business loan, Clearfield, UT",41.103669,-111.992792
+SB-00077,2670 Harrison Blvd,,Salt Lake City,UT,84101,Line of Credit,231395,2026-09-04,Closed,"Line of Credit small business loan, Salt Lake City, UT",40.766856,-111.855161
+SB-00078,594 1200 East,,Kaysville,UT,84037,Working Capital,415688,2026-02-15,Pending,"Working Capital small business loan, Kaysville, UT",41.029537,-111.963932
+SB-00079,7462 State St,,Smithfield,UT,84335,Line of Credit,118033,2024-03-05,Under Review,"Line of Credit small business loan, Smithfield, UT",41.805401,-111.888634
+SB-00080,6961 Wall Ave,,Salt Lake City,UT,84101,SBA 7(a),50331,2023-10-21,Closed,"SBA 7(a) small business loan, Salt Lake City, UT",40.776784,-111.862138
+SB-00081,6225 Bengal Blvd,,Salt Lake City,UT,84101,Working Capital,353748,2026-03-13,Pending,"Working Capital small business loan, Salt Lake City, UT",40.773179,-111.857977
+SB-00082,193 Washington Blvd,,Tremonton,UT,84337,Line of Credit,73327,2026-02-25,Closed,"Line of Credit small business loan, Tremonton, UT",41.685219,-113.844370
+SB-00083,1776 University Ave,,West Valley City,UT,84119,Equipment Financing,443383,2025-11-18,Denied,"Equipment Financing small business loan, West Valley City, UT",40.697167,-111.990891
+SB-00084,6290 Washington Blvd,,Smithfield,UT,84335,SBA 7(a),475073,2024-10-28,Pending,"SBA 7(a) small business loan, Smithfield, UT",41.924698,-112.029136
+SB-00085,5426 1200 East,,West Valley City,UT,84119,Equipment Financing,68620,2024-05-16,Approved,"Equipment Financing small business loan, West Valley City, UT",40.602965,-112.154589
+SB-00086,7130 900 West,,Salt Lake City,UT,84101,Line of Credit,234666,2025-07-24,Denied,"Line of Credit small business loan, Salt Lake City, UT",40.766164,-111.862387
+SB-00087,5532 Main St,,West Valley City,UT,84119,Equipment Financing,441989,2025-06-01,Pending,"Equipment Financing small business loan, West Valley City, UT",40.649264,-112.016361
+SB-00088,7030 Wall Ave,,West Valley City,UT,84119,Equipment Financing,494896,2024-10-21,Under Review,"Equipment Financing small business loan, West Valley City, UT",40.664148,-111.955869
+SB-00089,2226 Harrison Blvd,,Layton,UT,84040,Working Capital,20534,2025-09-14,Denied,"Working Capital small business loan, Layton, UT",41.088757,-111.978410
+SB-00090,3958 200 South,,Clearfield,UT,84015,Equipment Financing,32868,2023-10-13,Pending,"Equipment Financing small business loan, Clearfield, UT",41.103253,-111.980670
+SB-00091,4939 Fort Union Blvd,,Logan,UT,84321,Expansion,305155,2026-07-24,Pending,"Expansion small business loan, Logan, UT",41.742621,-111.833476
+SB-00092,3952 State St,,West Valley City,UT,84119,Working Capital,284195,2025-06-08,Pending,"Working Capital small business loan, West Valley City, UT",40.666158,-111.965071
+SB-00093,7105 200 South,,Ogden,UT,84401,Equipment Financing,71160,2024-02-20,Approved,"Equipment Financing small business loan, Ogden, UT",41.232334,-111.957901
+SB-00094,283 900 West,,South Jordan,UT,84095,Line of Credit,426560,2026-03-01,Under Review,"Line of Credit small business loan, South Jordan, UT",40.562562,-111.905512
+SB-00095,4953 Washington Blvd,,Ogden,UT,84401,Working Capital,55143,2025-04-15,Pending,"Working Capital small business loan, Ogden, UT",41.214135,-111.979701
+SB-00096,2676 Riverdale Rd,,Sandy,UT,84070,Expansion,361709,2026-09-02,Pending,"Expansion small business loan, Sandy, UT",40.621786,-111.816212
+SB-00097,3771 Bengal Blvd,,Salt Lake City,UT,84101,Line of Credit,53929,2023-12-16,Pending,"Line of Credit small business loan, Salt Lake City, UT",40.766092,-111.856577
+SB-00098,4068 Wall Ave,,Hyrum,UT,84319,Working Capital,49970,2026-04-17,Approved,"Working Capital small business loan, Hyrum, UT",41.616573,-111.822415
+SB-00099,9910 Washington Blvd,,Murray,UT,84107,Equipment Financing,147387,2024-03-11,Denied,"Equipment Financing small business loan, Murray, UT",40.642962,-111.864398
+SB-00100,8340 Main St,,Salt Lake City,UT,84101,Working Capital,240294,2023-10-20,Approved,"Working Capital small business loan, Salt Lake City, UT",40.766960,-111.856156
+SB-00101,5578 State St,,North Logan,UT,84341,Expansion,364405,2024-08-22,Denied,"Expansion small business loan, North Logan, UT",41.787356,-111.829947
+SB-00102,1752 Bengal Blvd,,Roy,UT,84067,Expansion,309537,2026-06-22,Approved,"Expansion small business loan, Roy, UT",41.160378,-112.161917
+SB-00103,4877 400 North,,Sandy,UT,84070,SBA 7(a),294560,2026-06-25,Pending,"SBA 7(a) small business loan, Sandy, UT",40.593818,-111.878352
+SB-00104,9219 State St,,West Valley City,UT,84119,Line of Credit,250924,2025-10-11,Pending,"Line of Credit small business loan, West Valley City, UT",40.688691,-112.003430
+SB-00105,6628 Fort Union Blvd,,Sandy,UT,84070,Working Capital,332223,2026-08-09,Under Review,"Working Capital small business loan, Sandy, UT",40.564935,-111.813510
+SB-00106,499 Riverdale Rd,,Sandy,UT,84070,Expansion,156634,2026-02-06,Closed,"Expansion small business loan, Sandy, UT",40.563056,-111.816569
+SB-00107,4232 900 West,,Tremonton,UT,84337,Working Capital,421144,2025-04-18,Approved,"Working Capital small business loan, Tremonton, UT",41.698790,-112.107377
+SB-00108,5473 State St,,Salt Lake City,UT,84101,SBA 7(a),55026,2026-08-28,Closed,"SBA 7(a) small business loan, Salt Lake City, UT",40.766587,-111.858765
+SB-00109,4387 State St,,Salt Lake City,UT,84101,Expansion,67686,2024-05-31,Denied,"Expansion small business loan, Salt Lake City, UT",40.774330,-111.862846
+SB-00110,1119 Riverdale Rd,,Sandy,UT,84070,SBA 7(a),340337,2025-10-22,Under Review,"SBA 7(a) small business loan, Sandy, UT",40.562096,-111.868950
+SB-00111,1971 Bengal Blvd,,South Jordan,UT,84095,Equipment Financing,84202,2025-02-27,Approved,"Equipment Financing small business loan, South Jordan, UT",40.568850,-111.909493
+SB-00112,2199 1200 East,,Smithfield,UT,84335,Line of Credit,171303,2024-05-16,Approved,"Line of Credit small business loan, Smithfield, UT",41.940234,-112.058394
+SB-00113,1129 Riverdale Rd,,Kaysville,UT,84037,Line of Credit,325746,2026-03-19,Pending,"Line of Credit small business loan, Kaysville, UT",41.013672,-111.948473
+SB-00114,5347 Harrison Blvd,,West Valley City,UT,84119,Working Capital,420667,2025-03-13,Approved,"Working Capital small business loan, West Valley City, UT",40.680247,-112.150710
+SB-00115,7738 Redwood Rd,,South Jordan,UT,84095,Working Capital,233667,2025-04-06,Under Review,"Working Capital small business loan, South Jordan, UT",40.593237,-111.889108
+SB-00116,5359 400 North,,Clearfield,UT,84015,Equipment Financing,149583,2024-11-18,Approved,"Equipment Financing small business loan, Clearfield, UT",41.124037,-112.142198
+SB-00117,4968 Bengal Blvd,,North Logan,UT,84341,SBA 7(a),494549,2024-07-31,Denied,"SBA 7(a) small business loan, North Logan, UT",41.751256,-111.817157
+SB-00118,121 200 South,,West Valley City,UT,84119,Equipment Financing,37276,2024-12-30,Under Review,"Equipment Financing small business loan, West Valley City, UT",40.701637,-112.002539
+SB-00119,6948 Washington Blvd,,South Jordan,UT,84095,SBA 7(a),464077,2026-01-15,Pending,"SBA 7(a) small business loan, South Jordan, UT",40.555696,-111.908016
+SB-00120,8352 Bengal Blvd,,Layton,UT,84040,Working Capital,498519,2026-07-07,Closed,"Working Capital small business loan, Layton, UT",41.044605,-111.981021
+SB-00121,4589 200 South,,West Valley City,UT,84119,SBA 7(a),481430,2023-09-30,Pending,"SBA 7(a) small business loan, West Valley City, UT",40.649719,-112.022023
+SB-00122,9348 Fort Union Blvd,,West Valley City,UT,84119,Expansion,227670,2024-12-08,Under Review,"Expansion small business loan, West Valley City, UT",40.643726,-112.023701
+SB-00123,3961 1200 East,,Sandy,UT,84070,SBA 7(a),277322,2023-11-10,Under Review,"SBA 7(a) small business loan, Sandy, UT",40.577924,-111.865870
+SB-00124,9616 Highland Dr,,South Jordan,UT,84095,Equipment Financing,259453,2026-02-12,Under Review,"Equipment Financing small business loan, South Jordan, UT",40.562706,-111.888473
+SB-00125,9459 200 South,,North Ogden,UT,84414,Working Capital,83141,2023-12-26,Denied,"Working Capital small business loan, North Ogden, UT",41.272793,-111.950452
+SB-00126,4092 Harrison Blvd,,South Ogden,UT,84403,Working Capital,103279,2026-03-10,Approved,"Working Capital small business loan, South Ogden, UT",41.138236,-111.902044
+SB-00127,755 400 North,,West Valley City,UT,84119,Expansion,110367,2024-06-14,Approved,"Expansion small business loan, West Valley City, UT",40.687720,-111.990650
+SB-00128,1538 Riverdale Rd,,South Ogden,UT,84403,Line of Credit,173681,2026-05-20,Closed,"Line of Credit small business loan, South Ogden, UT",41.129291,-111.866329
+SB-00129,1547 1200 East,,South Jordan,UT,84095,Expansion,237178,2024-01-13,Pending,"Expansion small business loan, South Jordan, UT",40.587132,-111.909871
+SB-00130,7767 State St,,West Valley City,UT,84119,Expansion,29693,2024-04-14,Denied,"Expansion small business loan, West Valley City, UT",40.691320,-111.988377
+SB-00131,1396 Wall Ave,,Murray,UT,84107,Working Capital,64893,2025-02-05,Under Review,"Working Capital small business loan, Murray, UT",40.691865,-111.876862
+SB-00132,2418 900 West,,Kaysville,UT,84037,Expansion,470312,2023-12-27,Pending,"Expansion small business loan, Kaysville, UT",41.026132,-111.965246
+SB-00133,9026 Riverdale Rd,,West Valley City,UT,84119,Equipment Financing,50536,2024-10-11,Under Review,"Equipment Financing small business loan, West Valley City, UT",40.658637,-111.958321
+SB-00134,9998 Canyon Rd,,Sandy,UT,84070,Working Capital,464205,2026-04-21,Under Review,"Working Capital small business loan, Sandy, UT",40.566942,-111.831028
+SB-00135,117 Main St,,North Ogden,UT,84414,Line of Credit,321723,2024-02-05,Under Review,"Line of Credit small business loan, North Ogden, UT",41.259974,-111.943408
+SB-00136,440 Main St,,Bountiful,UT,84010,Expansion,172573,2025-06-15,Closed,"Expansion small business loan, Bountiful, UT",40.832712,-111.925220
+SB-00137,5166 Fort Union Blvd,,Logan,UT,84321,Expansion,391422,2024-10-03,Denied,"Expansion small business loan, Logan, UT",41.746730,-111.830119
+SB-00138,1617 400 North,,West Valley City,UT,84119,Working Capital,444795,2025-06-16,Under Review,"Working Capital small business loan, West Valley City, UT",40.678690,-112.120843
+SB-00139,3870 State St,,West Valley City,UT,84119,SBA 7(a),100951,2025-11-23,Approved,"SBA 7(a) small business loan, West Valley City, UT",40.656283,-111.959149
+SB-00140,4357 Washington Blvd,,South Jordan,UT,84095,SBA 7(a),382841,2024-03-20,Pending,"SBA 7(a) small business loan, South Jordan, UT",40.582312,-111.912748
+SB-00141,3403 State St,,South Ogden,UT,84403,Expansion,446106,2025-09-16,Pending,"Expansion small business loan, South Ogden, UT",41.185572,-111.875507
+SB-00142,2753 Canyon Rd,,Sandy,UT,84070,Line of Credit,277091,2024-02-24,Under Review,"Line of Credit small business loan, Sandy, UT",40.614315,-111.822640
+SB-00143,3769 University Ave,,North Logan,UT,84341,Equipment Financing,67643,2026-05-20,Denied,"Equipment Financing small business loan, North Logan, UT",41.755825,-111.827298
+SB-00144,1620 Bengal Blvd,,Salt Lake City,UT,84101,SBA 7(a),470157,2023-11-29,Closed,"SBA 7(a) small business loan, Salt Lake City, UT",40.770805,-111.856372
+SB-00145,4353 Main St,,South Ogden,UT,84403,Line of Credit,166096,2024-04-10,Under Review,"Line of Credit small business loan, South Ogden, UT",41.190922,-111.969513
+SB-00146,8609 Highland Dr,,South Jordan,UT,84095,Expansion,217480,2024-09-27,Pending,"Expansion small business loan, South Jordan, UT",40.534924,-111.915201
+SB-00147,9758 Main St,,Murray,UT,84107,SBA 7(a),179376,2024-03-06,Under Review,"SBA 7(a) small business loan, Murray, UT",40.694688,-111.873509
+SB-00148,138 Fort Union Blvd,,Ogden,UT,84401,Working Capital,279178,2026-03-10,Approved,"Working Capital small business loan, Ogden, UT",41.214573,-111.969825
+SB-00149,516 Bengal Blvd,,South Jordan,UT,84095,Line of Credit,278490,2026-07-14,Closed,"Line of Credit small business loan, South Jordan, UT",40.578369,-111.929201
+SB-00150,3757 Redwood Rd,,South Jordan,UT,84095,SBA 7(a),333987,2025-07-30,Approved,"SBA 7(a) small business loan, South Jordan, UT",40.586054,-111.888558
+SB-00151,8412 200 South,,Sandy,UT,84070,Line of Credit,121016,2025-11-10,Denied,"Line of Credit small business loan, Sandy, UT",40.565152,-111.856130
+SB-00152,2425 Harrison Blvd,,Sandy,UT,84070,Line of Credit,349560,2024-05-17,Under Review,"Line of Credit small business loan, Sandy, UT",40.563471,-111.880405
+SB-00153,2347 Fort Union Blvd,,South Ogden,UT,84403,Equipment Financing,229468,2023-09-26,Denied,"Equipment Financing small business loan, South Ogden, UT",41.194656,-111.963398
+SB-00154,4078 Highland Dr,,Ogden,UT,84401,Line of Credit,479281,2023-12-31,Under Review,"Line of Credit small business loan, Ogden, UT",41.212666,-111.971589
+SB-00155,2824 200 South,,West Valley City,UT,84119,Line of Credit,299624,2024-07-31,Denied,"Line of Credit small business loan, West Valley City, UT",40.693802,-112.003020
+SB-00156,8788 Harrison Blvd,,Clearfield,UT,84015,SBA 7(a),356647,2025-01-06,Under Review,"SBA 7(a) small business loan, Clearfield, UT",41.120876,-111.958125
+SB-00157,7312 Bengal Blvd,,West Valley City,UT,84119,Equipment Financing,410874,2024-12-10,Closed,"Equipment Financing small business loan, West Valley City, UT",40.649672,-112.018570
+SB-00158,9027 Highland Dr,,Roy,UT,84067,Line of Credit,462586,2026-05-03,Approved,"Line of Credit small business loan, Roy, UT",41.191892,-112.158104
+SB-00159,9427 200 South,,Layton,UT,84040,Working Capital,238564,2023-10-13,Closed,"Working Capital small business loan, Layton, UT",41.035108,-111.995285
+SB-00160,790 1200 East,,Sandy,UT,84070,Equipment Financing,423640,2026-05-17,Pending,"Equipment Financing small business loan, Sandy, UT",40.621499,-111.829871
+SB-00161,5706 State St,,Hyrum,UT,84319,Equipment Financing,132096,2025-01-16,Approved,"Equipment Financing small business loan, Hyrum, UT",41.524661,-111.856109
+SB-00162,518 1200 East,,North Ogden,UT,84414,Expansion,368585,2024-02-12,Closed,"Expansion small business loan, North Ogden, UT",41.284418,-112.053852
+SB-00163,4149 Redwood Rd,,Clearfield,UT,84015,Line of Credit,386804,2024-02-24,Denied,"Line of Credit small business loan, Clearfield, UT",41.092096,-111.992434
+SB-00164,3791 Harrison Blvd,,Sandy,UT,84070,Line of Credit,165825,2025-10-21,Pending,"Line of Credit small business loan, Sandy, UT",40.619281,-111.832104
+SB-00165,6818 Redwood Rd,,Sandy,UT,84070,Equipment Financing,86946,2026-06-09,Pending,"Equipment Financing small business loan, Sandy, UT",40.583235,-111.874205
+SB-00166,2489 Highland Dr,,Sandy,UT,84070,SBA 7(a),428411,2024-12-24,Closed,"SBA 7(a) small business loan, Sandy, UT",40.575718,-111.866096
+SB-00167,1391 Redwood Rd,,South Jordan,UT,84095,SBA 7(a),97111,2026-03-09,Under Review,"SBA 7(a) small business loan, South Jordan, UT",40.569466,-111.887098
+SB-00168,2170 Wall Ave,,West Valley City,UT,84119,SBA 7(a),319536,2024-07-27,Approved,"SBA 7(a) small business loan, West Valley City, UT",40.689533,-112.001516
+SB-00169,7297 400 North,,South Jordan,UT,84095,Line of Credit,358351,2024-08-08,Under Review,"Line of Credit small business loan, South Jordan, UT",40.586935,-111.888210
+SB-00170,8794 900 West,,Sandy,UT,84070,SBA 7(a),290450,2025-10-02,Approved,"SBA 7(a) small business loan, Sandy, UT",40.566015,-111.815537
+SB-00171,6095 University Ave,,Clearfield,UT,84015,Equipment Financing,105388,2026-08-31,Approved,"Equipment Financing small business loan, Clearfield, UT",41.095869,-111.988793
+SB-00172,8048 Bengal Blvd,,Roy,UT,84067,Expansion,34791,2025-10-29,Closed,"Expansion small business loan, Roy, UT",41.182128,-112.027138
+SB-00173,3990 Riverdale Rd,,Murray,UT,84107,Line of Credit,154028,2024-12-17,Denied,"Line of Credit small business loan, Murray, UT",40.700632,-111.887343
+SB-00174,279 1200 East,,West Valley City,UT,84119,Line of Credit,280531,2026-03-10,Approved,"Line of Credit small business loan, West Valley City, UT",40.663247,-111.959763
+SB-00175,4866 1200 East,,Smithfield,UT,84335,Equipment Financing,391721,2024-11-01,Denied,"Equipment Financing small business loan, Smithfield, UT",41.930365,-111.816403
+SB-00176,7194 Harrison Blvd,,Sandy,UT,84070,Line of Credit,319142,2025-12-03,Denied,"Line of Credit small business loan, Sandy, UT",40.575723,-111.857669
+SB-00177,385 Washington Blvd,,Logan,UT,84321,Working Capital,362317,2025-10-07,Approved,"Working Capital small business loan, Logan, UT",41.706835,-111.844702
+SB-00178,9760 Washington Blvd,,South Jordan,UT,84095,Expansion,340067,2024-01-22,Under Review,"Expansion small business loan, South Jordan, UT",40.571681,-111.901354
+SB-00179,2442 Redwood Rd,,West Valley City,UT,84119,Line of Credit,167752,2024-05-31,Closed,"Line of Credit small business loan, West Valley City, UT",40.684699,-112.005372
+SB-00180,1861 Main St,,Roy,UT,84067,Expansion,456638,2023-10-13,Denied,"Expansion small business loan, Roy, UT",41.182276,-112.035030
+SB-00181,965 400 North,,Salt Lake City,UT,84101,SBA 7(a),51408,2024-09-19,Under Review,"SBA 7(a) small business loan, Salt Lake City, UT",40.777998,-111.858408
+SB-00182,4551 University Ave,,Smithfield,UT,84335,Line of Credit,362046,2024-06-06,Closed,"Line of Credit small business loan, Smithfield, UT",41.859461,-111.843953
+SB-00183,9776 200 South,,Ogden,UT,84401,Expansion,273904,2025-01-18,Pending,"Expansion small business loan, Ogden, UT",41.213383,-111.964524
+SB-00184,7472 200 South,,Clearfield,UT,84015,Expansion,347035,2024-05-17,Denied,"Expansion small business loan, Clearfield, UT",41.118199,-112.170110
+SB-00185,2964 Wall Ave,,Clearfield,UT,84015,Working Capital,433828,2023-09-10,Closed,"Working Capital small business loan, Clearfield, UT",41.114961,-112.012545
+SB-00186,8837 Wall Ave,,Murray,UT,84107,Working Capital,302499,2024-03-29,Approved,"Working Capital small business loan, Murray, UT",40.635247,-111.865766
+SB-00187,1914 900 West,,South Ogden,UT,84403,Equipment Financing,328973,2024-06-24,Pending,"Equipment Financing small business loan, South Ogden, UT",41.208996,-111.957404
+SB-00188,1930 Redwood Rd,,Sandy,UT,84070,Line of Credit,485186,2025-06-01,Closed,"Line of Credit small business loan, Sandy, UT",40.560575,-111.870527
+SB-00189,1133 Riverdale Rd,,Layton,UT,84040,SBA 7(a),413964,2026-05-02,Denied,"SBA 7(a) small business loan, Layton, UT",41.047804,-111.976558
+SB-00190,8582 University Ave,,Murray,UT,84107,Working Capital,358945,2026-06-26,Approved,"Working Capital small business loan, Murray, UT",40.649302,-111.865164
+SB-00191,1547 Fort Union Blvd,,Salt Lake City,UT,84101,Working Capital,33331,2026-06-23,Approved,"Working Capital small business loan, Salt Lake City, UT",40.751580,-111.804514
+SB-00192,1607 Harrison Blvd,,Bountiful,UT,84010,Working Capital,47586,2025-06-27,Denied,"Working Capital small business loan, Bountiful, UT",40.931130,-111.982035
+SB-00193,6758 Canyon Rd,,West Valley City,UT,84119,Expansion,153619,2026-05-08,Closed,"Expansion small business loan, West Valley City, UT",40.700949,-111.988809
+SB-00194,3439 Highland Dr,,Kaysville,UT,84037,Line of Credit,298007,2024-05-09,Closed,"Line of Credit small business loan, Kaysville, UT",41.001025,-111.981147
+SB-00195,5274 Washington Blvd,,Layton,UT,84040,Expansion,359697,2024-05-26,Under Review,"Expansion small business loan, Layton, UT",41.083528,-111.970826
+SB-00196,8847 Canyon Rd,,Ogden,UT,84401,Working Capital,122829,2025-07-20,Pending,"Working Capital small business loan, Ogden, UT",41.211230,-111.948459
+SB-00197,1112 Redwood Rd,,Layton,UT,84040,Line of Credit,42625,2025-11-26,Closed,"Line of Credit small business loan, Layton, UT",41.042096,-111.972864
+SB-00198,8749 Main St,,Bountiful,UT,84010,Line of Credit,461103,2024-12-13,Pending,"Line of Credit small business loan, Bountiful, UT",40.854316,-111.947163
+SB-00199,6300 Canyon Rd,,Tremonton,UT,84337,Line of Credit,350049,2025-06-17,Closed,"Line of Credit small business loan, Tremonton, UT",41.700136,-112.175467
+SB-00200,9211 Harrison Blvd,,Hyrum,UT,84319,SBA 7(a),385831,2025-02-07,Denied,"SBA 7(a) small business loan, Hyrum, UT",41.542190,-111.805631
+SB-00201,3302 Washington Blvd,,Murray,UT,84107,Expansion,104263,2025-12-29,Under Review,"Expansion small business loan, Murray, UT",40.634358,-111.856895
+SB-00202,8789 Highland Dr,,Layton,UT,84040,Equipment Financing,374485,2025-08-19,Closed,"Equipment Financing small business loan, Layton, UT",41.016724,-111.996316
+SB-00203,8421 Main St,,Salt Lake City,UT,84101,SBA 7(a),439790,2023-12-11,Approved,"SBA 7(a) small business loan, Salt Lake City, UT",40.736733,-111.810931
+SB-00204,5784 State St,,Layton,UT,84040,Line of Credit,495486,2023-10-06,Approved,"Line of Credit small business loan, Layton, UT",41.088533,-111.976507
+SB-00205,998 900 West,,Sandy,UT,84070,Expansion,253578,2024-10-04,Approved,"Expansion small business loan, Sandy, UT",40.565450,-111.834797
+SB-00206,266 Washington Blvd,,Salt Lake City,UT,84101,SBA 7(a),109575,2026-03-12,Pending,"SBA 7(a) small business loan, Salt Lake City, UT",40.778231,-111.858158
+SB-00207,3537 Harrison Blvd,,Layton,UT,84040,Equipment Financing,98170,2026-09-02,Under Review,"Equipment Financing small business loan, Layton, UT",41.036228,-111.988625
+SB-00208,670 Wall Ave,,South Jordan,UT,84095,SBA 7(a),362918,2024-10-06,Approved,"SBA 7(a) small business loan, South Jordan, UT",40.583781,-111.907974
+SB-00209,8116 400 North,,South Jordan,UT,84095,Working Capital,89294,2023-11-19,Under Review,"Working Capital small business loan, South Jordan, UT",40.537354,-111.914923
+SB-00210,2029 Highland Dr,,Sandy,UT,84070,SBA 7(a),60411,2025-07-28,Closed,"SBA 7(a) small business loan, Sandy, UT",40.563121,-111.862325
+SB-00211,7775 Highland Dr,,South Jordan,UT,84095,SBA 7(a),263133,2024-10-30,Closed,"SBA 7(a) small business loan, South Jordan, UT",40.572793,-111.887344
+SB-00212,4541 Fort Union Blvd,,Kaysville,UT,84037,SBA 7(a),128024,2025-04-12,Approved,"SBA 7(a) small business loan, Kaysville, UT",41.023080,-111.947834
+SB-00213,244 200 South,,Brigham City,UT,84302,SBA 7(a),308730,2024-06-03,Under Review,"SBA 7(a) small business loan, Brigham City, UT",41.511763,-111.944661
+SB-00214,2845 200 South,,Clearfield,UT,84015,Line of Credit,177946,2026-01-06,Pending,"Line of Credit small business loan, Clearfield, UT",41.108870,-111.998306
+SB-00215,1423 Canyon Rd,,South Jordan,UT,84095,Equipment Financing,246285,2024-11-18,Denied,"Equipment Financing small business loan, South Jordan, UT",40.562434,-111.907329
+SB-00216,2628 900 West,,North Logan,UT,84341,SBA 7(a),38634,2025-01-05,Approved,"SBA 7(a) small business loan, North Logan, UT",41.763524,-111.826116
+SB-00217,3281 Canyon Rd,,Layton,UT,84040,Line of Credit,323547,2025-02-26,Denied,"Line of Credit small business loan, Layton, UT",41.089457,-111.989196
+SB-00218,7235 Washington Blvd,,West Valley City,UT,84119,Working Capital,232255,2026-03-22,Denied,"Working Capital small business loan, West Valley City, UT",40.699433,-111.992174
+SB-00219,8483 Highland Dr,,Salt Lake City,UT,84101,Expansion,365354,2024-03-11,Approved,"Expansion small business loan, Salt Lake City, UT",40.762557,-111.856921
+SB-00220,5578 Bengal Blvd,,Salt Lake City,UT,84101,Working Capital,298353,2024-06-17,Approved,"Working Capital small business loan, Salt Lake City, UT",40.769473,-111.864690
+SB-00221,2242 Highland Dr,,West Valley City,UT,84119,Line of Credit,208542,2026-07-07,Under Review,"Line of Credit small business loan, West Valley City, UT",40.693787,-111.991133
+SB-00222,1642 Washington Blvd,,Murray,UT,84107,Line of Credit,223929,2024-08-31,Pending,"Line of Credit small business loan, Murray, UT",40.701936,-111.887367
+SB-00223,7618 Washington Blvd,,West Valley City,UT,84119,Equipment Financing,303580,2023-11-19,Pending,"Equipment Financing small business loan, West Valley City, UT",40.653005,-112.019352
+SB-00224,7220 Main St,,Salt Lake City,UT,84101,Equipment Financing,221610,2026-09-04,Denied,"Equipment Financing small business loan, Salt Lake City, UT",40.778580,-111.864965
+SB-00225,1268 Highland Dr,,North Ogden,UT,84414,Line of Credit,452487,2023-11-13,Pending,"Line of Credit small business loan, North Ogden, UT",41.267471,-111.946301
+SB-00226,7962 Harrison Blvd,,West Valley City,UT,84119,Working Capital,288283,2024-08-19,Pending,"Working Capital small business loan, West Valley City, UT",40.610184,-112.152675
+SB-00227,9409 Bengal Blvd,,Bountiful,UT,84010,Working Capital,179097,2026-08-09,Approved,"Working Capital small business loan, Bountiful, UT",40.923595,-111.987920
+SB-00228,4796 Riverdale Rd,,Roy,UT,84067,SBA 7(a),190133,2026-07-21,Denied,"SBA 7(a) small business loan, Roy, UT",41.167702,-112.028674
+SB-00229,270 Canyon Rd,,Murray,UT,84107,SBA 7(a),75537,2026-05-31,Denied,"SBA 7(a) small business loan, Murray, UT",40.647603,-111.856291
+SB-00230,149 Main St,,Sandy,UT,84070,Line of Credit,497438,2026-01-01,Denied,"Line of Credit small business loan, Sandy, UT",40.567050,-111.872230
+SB-00231,1131 Main St,,North Logan,UT,84341,Working Capital,445148,2025-01-20,Under Review,"Working Capital small business loan, North Logan, UT",41.764924,-111.781301
+SB-00232,6283 Washington Blvd,,Salt Lake City,UT,84101,Equipment Financing,164856,2025-05-24,Under Review,"Equipment Financing small business loan, Salt Lake City, UT",40.738018,-111.815726
+SB-00233,9235 Riverdale Rd,,North Ogden,UT,84414,SBA 7(a),380583,2026-04-14,Denied,"SBA 7(a) small business loan, North Ogden, UT",41.335382,-112.002596
+SB-00234,2996 Harrison Blvd,,Layton,UT,84040,Equipment Financing,293483,2024-10-01,Denied,"Equipment Financing small business loan, Layton, UT",41.121792,-111.931523
+SB-00235,7896 200 South,,Sandy,UT,84070,Equipment Financing,423655,2024-10-08,Closed,"Equipment Financing small business loan, Sandy, UT",40.569403,-111.819063
+SB-00236,252 Canyon Rd,,South Jordan,UT,84095,SBA 7(a),358460,2026-02-26,Approved,"SBA 7(a) small business loan, South Jordan, UT",40.593094,-111.890063
+SB-00237,9542 Harrison Blvd,,Clearfield,UT,84015,Line of Credit,133359,2025-04-22,Under Review,"Line of Credit small business loan, Clearfield, UT",41.092196,-111.991987
+SB-00238,6560 Canyon Rd,,North Ogden,UT,84414,Working Capital,113652,2024-04-14,Approved,"Working Capital small business loan, North Ogden, UT",41.293637,-112.047230
+SB-00239,8244 Canyon Rd,,Sandy,UT,84070,Expansion,59549,2023-12-16,Under Review,"Expansion small business loan, Sandy, UT",40.578024,-111.858603
+SB-00240,1144 State St,,Farmington,UT,84025,Working Capital,189410,2025-03-30,Under Review,"Working Capital small business loan, Farmington, UT",40.958760,-111.829354
+SB-00241,5175 Main St,,Layton,UT,84040,Expansion,434384,2024-08-28,Closed,"Expansion small business loan, Layton, UT",41.088185,-111.969137
+SB-00242,8188 University Ave,,Ogden,UT,84401,Expansion,324703,2025-05-07,Approved,"Expansion small business loan, Ogden, UT",41.213390,-111.959254
+SB-00243,1581 State St,,Murray,UT,84107,Line of Credit,473278,2026-01-24,Under Review,"Line of Credit small business loan, Murray, UT",40.635122,-111.858330
+SB-00244,4953 Main St,,Roy,UT,84067,Working Capital,71591,2024-03-13,Under Review,"Working Capital small business loan, Roy, UT",41.146890,-112.019772
+SB-00245,4118 University Ave,,Layton,UT,84040,Working Capital,481506,2026-05-20,Closed,"Working Capital small business loan, Layton, UT",41.114289,-111.878293
+SB-00246,8329 Harrison Blvd,,Layton,UT,84040,Equipment Financing,155368,2026-03-20,Approved,"Equipment Financing small business loan, Layton, UT",41.050888,-111.972816
+SB-00247,9922 900 West,,Salt Lake City,UT,84101,SBA 7(a),488061,2026-04-28,Approved,"SBA 7(a) small business loan, Salt Lake City, UT",40.742779,-111.816536
+SB-00248,2172 Harrison Blvd,,West Valley City,UT,84119,Working Capital,36389,2024-02-28,Under Review,"Working Capital small business loan, West Valley City, UT",40.700780,-111.997486
+SB-00249,2986 Main St,,Clearfield,UT,84015,Working Capital,201298,2025-07-04,Denied,"Working Capital small business loan, Clearfield, UT",41.098959,-111.978547
+SB-00250,8462 State St,,West Valley City,UT,84119,SBA 7(a),31337,2025-03-02,Closed,"SBA 7(a) small business loan, West Valley City, UT",40.693658,-112.003007
+SB-00251,6757 400 North,,Murray,UT,84107,Working Capital,270191,2024-08-04,Approved,"Working Capital small business loan, Murray, UT",40.704283,-111.875965
+SB-00252,2411 1200 East,,Clearfield,UT,84015,Expansion,329031,2024-10-22,Denied,"Expansion small business loan, Clearfield, UT",41.104247,-112.111130
+SB-00253,8567 Redwood Rd,,Murray,UT,84107,Working Capital,472228,2024-03-16,Pending,"Working Capital small business loan, Murray, UT",40.702803,-111.880826
+SB-00254,5810 Canyon Rd,,Salt Lake City,UT,84101,SBA 7(a),31927,2025-09-22,Approved,"SBA 7(a) small business loan, Salt Lake City, UT",40.766189,-111.860806
+SB-00255,5462 Main St,,Clearfield,UT,84015,Line of Credit,65445,2025-06-01,Closed,"Line of Credit small business loan, Clearfield, UT",41.114891,-112.003405
+SB-00256,4065 Main St,,North Logan,UT,84341,SBA 7(a),61426,2024-11-21,Pending,"SBA 7(a) small business loan, North Logan, UT",41.739636,-111.789424
+SB-00257,6431 State St,,Roy,UT,84067,Equipment Financing,243280,2025-12-03,Denied,"Equipment Financing small business loan, Roy, UT",41.138390,-111.996553
+SB-00258,1648 Main St,,Ogden,UT,84401,Working Capital,447839,2024-12-27,Under Review,"Working Capital small business loan, Ogden, UT",41.221377,-111.950650
+SB-00259,315 Bengal Blvd,,West Valley City,UT,84119,Line of Credit,318764,2024-05-01,Denied,"Line of Credit small business loan, West Valley City, UT",40.702756,-111.994436
+SB-00260,7935 Bengal Blvd,,Murray,UT,84107,Line of Credit,168680,2026-03-30,Denied,"Line of Credit small business loan, Murray, UT",40.703684,-111.876509
+SB-00261,8736 200 South,,West Valley City,UT,84119,Working Capital,177166,2024-10-16,Denied,"Working Capital small business loan, West Valley City, UT",40.688403,-111.997148
+SB-00262,3158 1200 East,,North Ogden,UT,84414,Equipment Financing,467410,2025-12-31,Closed,"Equipment Financing small business loan, North Ogden, UT",41.264193,-111.987281
+SB-00263,4609 900 West,,Layton,UT,84040,Working Capital,62832,2023-10-27,Approved,"Working Capital small business loan, Layton, UT",41.090181,-111.987464
+SB-00264,1748 State St,,South Jordan,UT,84095,SBA 7(a),159422,2023-11-20,Pending,"SBA 7(a) small business loan, South Jordan, UT",40.565601,-111.941950
+SB-00265,6166 Bengal Blvd,,Roy,UT,84067,SBA 7(a),435398,2026-02-25,Closed,"SBA 7(a) small business loan, Roy, UT",41.167699,-112.113691
+SB-00266,4846 Redwood Rd,,Sandy,UT,84070,Expansion,397807,2025-01-14,Approved,"Expansion small business loan, Sandy, UT",40.568256,-111.822492
+SB-00267,3503 Washington Blvd,,Tremonton,UT,84337,Expansion,185659,2025-03-07,Denied,"Expansion small business loan, Tremonton, UT",41.925551,-112.425982
+SB-00268,7192 Highland Dr,,Salt Lake City,UT,84101,Working Capital,143856,2024-03-23,Closed,"Working Capital small business loan, Salt Lake City, UT",40.738088,-111.814226
+SB-00269,1227 400 North,,Layton,UT,84040,Line of Credit,139847,2024-11-07,Closed,"Line of Credit small business loan, Layton, UT",41.092357,-111.981483
+SB-00270,4813 Washington Blvd,,North Ogden,UT,84414,Expansion,200144,2026-03-05,Closed,"Expansion small business loan, North Ogden, UT",41.264241,-111.952292
+SB-00271,6841 Main St,,Clearfield,UT,84015,Working Capital,31028,2025-02-23,Approved,"Working Capital small business loan, Clearfield, UT",41.085008,-112.026333
+SB-00272,6937 Canyon Rd,,Layton,UT,84040,Equipment Financing,322090,2026-05-23,Pending,"Equipment Financing small business loan, Layton, UT",41.117317,-111.881806
+SB-00273,8042 Riverdale Rd,,Murray,UT,84107,Equipment Financing,486292,2025-04-13,Pending,"Equipment Financing small business loan, Murray, UT",40.701694,-111.874815
+SB-00274,8679 University Ave,,Sandy,UT,84070,Expansion,158663,2023-12-06,Approved,"Expansion small business loan, Sandy, UT",40.570778,-111.867970
+SB-00275,6334 Harrison Blvd,,West Valley City,UT,84119,SBA 7(a),242849,2025-02-20,Denied,"SBA 7(a) small business loan, West Valley City, UT",40.609615,-112.157835
+SB-00276,5789 Washington Blvd,,Roy,UT,84067,SBA 7(a),27895,2024-09-01,Pending,"SBA 7(a) small business loan, Roy, UT",41.162787,-112.153240
+SB-00277,9247 Riverdale Rd,,Ogden,UT,84401,SBA 7(a),115404,2025-04-26,Under Review,"SBA 7(a) small business loan, Ogden, UT",41.252064,-111.955747
+SB-00278,6590 200 South,,West Valley City,UT,84119,SBA 7(a),196170,2025-08-11,Closed,"SBA 7(a) small business loan, West Valley City, UT",40.642372,-112.020362
+SB-00279,8158 Riverdale Rd,,West Valley City,UT,84119,SBA 7(a),477424,2026-01-23,Closed,"SBA 7(a) small business loan, West Valley City, UT",40.656356,-111.961113
+SB-00280,1618 Fort Union Blvd,,Clearfield,UT,84015,Expansion,422118,2024-07-09,Closed,"Expansion small business loan, Clearfield, UT",41.105741,-112.001533
+SB-00281,8709 200 South,,Clearfield,UT,84015,Expansion,17130,2025-10-05,Denied,"Expansion small business loan, Clearfield, UT",41.109956,-112.004849
+SB-00282,7476 400 North,,Layton,UT,84040,SBA 7(a),187203,2025-06-08,Denied,"SBA 7(a) small business loan, Layton, UT",41.090586,-111.981313
+SB-00283,7077 400 North,,West Valley City,UT,84119,Line of Credit,206531,2026-03-25,Under Review,"Line of Credit small business loan, West Valley City, UT",40.667178,-111.966387
+SB-00284,3459 Main St,,Clearfield,UT,84015,Working Capital,30312,2025-12-06,Under Review,"Working Capital small business loan, Clearfield, UT",41.077612,-112.027800
+SB-00285,4421 Redwood Rd,,Roy,UT,84067,Working Capital,442530,2025-04-06,Pending,"Working Capital small business loan, Roy, UT",41.140792,-112.168868
+SB-00286,7319 200 South,,Sandy,UT,84070,Line of Credit,361420,2024-06-03,Under Review,"Line of Credit small business loan, Sandy, UT",40.577095,-111.855369
+SB-00287,2589 1200 East,,Murray,UT,84107,Line of Credit,475691,2024-11-25,Under Review,"Line of Credit small business loan, Murray, UT",40.692559,-111.875804
+SB-00288,4277 200 South,,West Valley City,UT,84119,Expansion,488602,2025-01-02,Closed,"Expansion small business loan, West Valley City, UT",40.662997,-111.960020
+SB-00289,2431 Bengal Blvd,,Roy,UT,84067,Working Capital,414611,2025-07-20,Denied,"Working Capital small business loan, Roy, UT",41.161443,-112.405602
+SB-00290,779 Fort Union Blvd,,Salt Lake City,UT,84101,SBA 7(a),346910,2025-01-22,Under Review,"SBA 7(a) small business loan, Salt Lake City, UT",40.771255,-111.855146
+SB-00291,1306 Bengal Blvd,,Murray,UT,84107,Working Capital,435494,2024-11-07,Approved,"Working Capital small business loan, Murray, UT",40.638844,-111.860958
+SB-00292,2117 Highland Dr,,Sandy,UT,84070,Expansion,348719,2024-02-14,Approved,"Expansion small business loan, Sandy, UT",40.568591,-111.854066
+SB-00293,5679 Riverdale Rd,,West Valley City,UT,84119,Equipment Financing,32913,2025-11-11,Under Review,"Equipment Financing small business loan, West Valley City, UT",40.685461,-111.995520
+SB-00294,890 Wall Ave,,South Jordan,UT,84095,Equipment Financing,294563,2025-09-19,Closed,"Equipment Financing small business loan, South Jordan, UT",40.532209,-111.908688
+SB-00295,9626 Riverdale Rd,,Salt Lake City,UT,84101,Line of Credit,184100,2023-09-24,Pending,"Line of Credit small business loan, Salt Lake City, UT",40.724481,-111.812640
+SB-00296,9197 Fort Union Blvd,,Clearfield,UT,84015,SBA 7(a),157448,2026-01-26,Under Review,"SBA 7(a) small business loan, Clearfield, UT",41.112128,-112.005712
+SB-00297,9580 900 West,,Clearfield,UT,84015,Working Capital,219874,2025-05-01,Pending,"Working Capital small business loan, Clearfield, UT",41.095039,-111.989810
+SB-00298,1181 400 North,,Ogden,UT,84401,Equipment Financing,199261,2026-02-06,Pending,"Equipment Financing small business loan, Ogden, UT",41.212911,-111.968801
+SB-00299,1339 200 South,,South Jordan,UT,84095,Working Capital,57503,2024-05-18,Under Review,"Working Capital small business loan, South Jordan, UT",40.567122,-111.942642
+SB-00300,937 Main St,,Bountiful,UT,84010,Expansion,399987,2024-08-11,Closed,"Expansion small business loan, Bountiful, UT",40.866093,-111.929588
+SB-00301,4870 Bengal Blvd,,North Logan,UT,84341,Working Capital,381754,2026-05-26,Under Review,"Working Capital small business loan, North Logan, UT",41.767010,-111.778255
+SB-00302,1444 Fort Union Blvd,,Salt Lake City,UT,84101,Working Capital,260500,2024-07-16,Denied,"Working Capital small business loan, Salt Lake City, UT",40.765003,-111.858431
+SB-00303,9480 Canyon Rd,,Murray,UT,84107,Equipment Financing,192151,2025-07-29,Under Review,"Equipment Financing small business loan, Murray, UT",40.705862,-111.875655
+SB-00304,7594 Riverdale Rd,,Sandy,UT,84070,Working Capital,476235,2024-06-28,Pending,"Working Capital small business loan, Sandy, UT",40.567227,-111.820605
+SB-00305,3978 State St,,West Valley City,UT,84119,Equipment Financing,461920,2024-11-21,Under Review,"Equipment Financing small business loan, West Valley City, UT",40.658640,-111.960084
+SB-00306,4336 Highland Dr,,Kaysville,UT,84037,Expansion,255233,2025-08-31,Under Review,"Expansion small business loan, Kaysville, UT",41.015088,-111.994934
+SB-00307,7848 State St,,West Valley City,UT,84119,Line of Credit,225987,2024-12-02,Pending,"Line of Credit small business loan, West Valley City, UT",40.672070,-112.114123
+SB-00308,6830 Bengal Blvd,,Salt Lake City,UT,84101,SBA 7(a),134521,2025-03-21,Closed,"SBA 7(a) small business loan, Salt Lake City, UT",40.765614,-111.860106
+SB-00309,9805 Fort Union Blvd,,South Jordan,UT,84095,Working Capital,29185,2026-04-23,Pending,"Working Capital small business loan, South Jordan, UT",40.531431,-111.912743
+SB-00310,1093 Redwood Rd,,West Valley City,UT,84119,Equipment Financing,432661,2025-10-13,Pending,"Equipment Financing small business loan, West Valley City, UT",40.642025,-112.022378
+SB-00311,8749 State St,,West Valley City,UT,84119,SBA 7(a),211852,2026-07-19,Under Review,"SBA 7(a) small business loan, West Valley City, UT",40.608413,-112.066990
+SB-00312,8909 Main St,,South Ogden,UT,84403,Working Capital,207045,2026-06-05,Closed,"Working Capital small business loan, South Ogden, UT",41.206166,-111.973054
+SB-00313,4277 University Ave,,Kaysville,UT,84037,SBA 7(a),305793,2024-10-03,Under Review,"SBA 7(a) small business loan, Kaysville, UT",41.126433,-111.846836
+SB-00314,1203 Riverdale Rd,,North Ogden,UT,84414,Working Capital,189758,2026-05-09,Under Review,"Working Capital small business loan, North Ogden, UT",41.273295,-111.961013
+SB-00315,7373 Fort Union Blvd,,Ogden,UT,84401,Line of Credit,184283,2024-02-19,Pending,"Line of Credit small business loan, Ogden, UT",41.226368,-111.948447
+SB-00316,8912 Highland Dr,,Salt Lake City,UT,84101,Working Capital,313248,2023-10-18,Approved,"Working Capital small business loan, Salt Lake City, UT",40.741509,-111.816552
+SB-00317,4058 Canyon Rd,,Clearfield,UT,84015,Equipment Financing,329398,2026-04-02,Under Review,"Equipment Financing small business loan, Clearfield, UT",41.125362,-111.969632
+SB-00318,908 400 North,,South Jordan,UT,84095,SBA 7(a),455086,2025-02-06,Approved,"SBA 7(a) small business loan, South Jordan, UT",40.538969,-111.907274
+SB-00319,1021 200 South,,Sandy,UT,84070,Expansion,108163,2024-10-21,Closed,"Expansion small business loan, Sandy, UT",40.560742,-111.831774
+SB-00320,2664 400 North,,Clearfield,UT,84015,Expansion,426174,2024-09-07,Approved,"Expansion small business loan, Clearfield, UT",41.112468,-112.310172
+SB-00321,5075 Bengal Blvd,,Roy,UT,84067,Equipment Financing,454020,2023-11-11,Pending,"Equipment Financing small business loan, Roy, UT",41.179397,-112.034592
+SB-00322,3702 200 South,,Salt Lake City,UT,84101,Expansion,183617,2024-07-07,Approved,"Expansion small business loan, Salt Lake City, UT",40.747178,-111.806781
+SB-00323,7660 Fort Union Blvd,,West Valley City,UT,84119,SBA 7(a),135055,2025-03-01,Pending,"SBA 7(a) small business loan, West Valley City, UT",40.595448,-112.117908
+SB-00324,839 University Ave,,West Valley City,UT,84119,Equipment Financing,345295,2025-11-30,Pending,"Equipment Financing small business loan, West Valley City, UT",40.683235,-112.004832
+SB-00325,6740 900 West,,South Jordan,UT,84095,SBA 7(a),329956,2026-04-01,Approved,"SBA 7(a) small business loan, South Jordan, UT",40.571959,-111.890191
+SB-00326,9176 State St,,South Jordan,UT,84095,Equipment Financing,47806,2024-03-19,Denied,"Equipment Financing small business loan, South Jordan, UT",40.563304,-111.901336
+SB-00327,9205 400 North,,Salt Lake City,UT,84101,SBA 7(a),205229,2026-03-01,Pending,"SBA 7(a) small business loan, Salt Lake City, UT",40.766389,-111.860838
+SB-00328,1968 University Ave,,South Jordan,UT,84095,Line of Credit,123521,2025-07-06,Pending,"Line of Credit small business loan, South Jordan, UT",40.577823,-111.897065
+SB-00329,8507 University Ave,,Clearfield,UT,84015,Equipment Financing,246510,2024-12-11,Denied,"Equipment Financing small business loan, Clearfield, UT",41.079744,-112.020705
+SB-00330,6327 Wall Ave,,Sandy,UT,84070,Equipment Financing,128317,2025-11-20,Denied,"Equipment Financing small business loan, Sandy, UT",40.621425,-111.820972
+SB-00331,7131 400 North,,West Valley City,UT,84119,Working Capital,348398,2025-05-18,Pending,"Working Capital small business loan, West Valley City, UT",40.648195,-112.019034
+SB-00332,3072 Washington Blvd,,South Jordan,UT,84095,Equipment Financing,268642,2024-08-26,Closed,"Equipment Financing small business loan, South Jordan, UT",40.580224,-111.898525
+SB-00333,7328 Redwood Rd,,Clearfield,UT,84015,Line of Credit,431214,2025-02-26,Pending,"Line of Credit small business loan, Clearfield, UT",41.086707,-112.029279
+SB-00334,827 Washington Blvd,,Tremonton,UT,84337,Working Capital,360615,2023-12-13,Pending,"Working Capital small business loan, Tremonton, UT",41.589780,-112.467170
+SB-00335,5146 Redwood Rd,,Perry,UT,84302,SBA 7(a),211912,2025-11-13,Closed,"SBA 7(a) small business loan, Perry, UT",41.394244,-112.053927
+SB-00336,3841 Washington Blvd,,Bountiful,UT,84010,Expansion,111606,2025-01-31,Under Review,"Expansion small business loan, Bountiful, UT",40.939240,-111.854315
+SB-00337,8290 Wall Ave,,West Valley City,UT,84119,Expansion,215124,2026-06-08,Under Review,"Expansion small business loan, West Valley City, UT",40.659326,-111.955312
+SB-00338,6759 Main St,,Sandy,UT,84070,Equipment Financing,111090,2025-01-20,Under Review,"Equipment Financing small business loan, Sandy, UT",40.566439,-111.856188
+SB-00339,9935 900 West,,Sandy,UT,84070,Expansion,16498,2025-10-03,Approved,"Expansion small business loan, Sandy, UT",40.568108,-111.854497
+SB-00340,2814 Harrison Blvd,,West Valley City,UT,84119,Equipment Financing,415765,2026-09-06,Closed,"Equipment Financing small business loan, West Valley City, UT",40.682387,-111.987279
+SB-00341,4689 Harrison Blvd,,Kaysville,UT,84037,Equipment Financing,489703,2026-01-23,Denied,"Equipment Financing small business loan, Kaysville, UT",41.012190,-111.956320
+SB-00342,2895 Wall Ave,,Sandy,UT,84070,Working Capital,67043,2025-08-15,Closed,"Working Capital small business loan, Sandy, UT",40.560692,-111.856730
+SB-00343,8587 Highland Dr,,Layton,UT,84040,Expansion,341946,2024-11-03,Under Review,"Expansion small business loan, Layton, UT",41.114424,-111.910781
+SB-00344,4912 Redwood Rd,,South Jordan,UT,84095,SBA 7(a),284709,2025-07-31,Pending,"SBA 7(a) small business loan, South Jordan, UT",40.579956,-111.954558
+SB-00345,172 1200 East,,Salt Lake City,UT,84101,Expansion,143558,2026-04-12,Under Review,"Expansion small business loan, Salt Lake City, UT",40.771463,-111.860314
+SB-00346,7572 University Ave,,North Ogden,UT,84414,Line of Credit,459439,2023-09-17,Closed,"Line of Credit small business loan, North Ogden, UT",41.263031,-111.985491
+SB-00347,1113 200 South,,Sandy,UT,84070,Working Capital,250079,2023-11-13,Under Review,"Working Capital small business loan, Sandy, UT",40.577673,-111.868544
+SB-00348,3176 Canyon Rd,,Layton,UT,84040,Equipment Financing,211464,2025-03-27,Pending,"Equipment Financing small business loan, Layton, UT",41.065750,-112.031429
+SB-00349,3322 900 West,,South Jordan,UT,84095,Line of Credit,282427,2026-03-14,Pending,"Line of Credit small business loan, South Jordan, UT",40.563094,-111.902947
+SB-00350,8098 900 West,,South Ogden,UT,84403,Equipment Financing,175815,2025-04-28,Closed,"Equipment Financing small business loan, South Ogden, UT",41.193338,-111.957621
+SB-00351,1843 Bengal Blvd,,Layton,UT,84040,Equipment Financing,197375,2025-09-13,Under Review,"Equipment Financing small business loan, Layton, UT",41.096284,-111.981617
+SB-00352,2561 Wall Ave,,North Ogden,UT,84414,Line of Credit,231915,2026-04-25,Pending,"Line of Credit small business loan, North Ogden, UT",41.354610,-111.966725
+SB-00353,239 State St,,Sandy,UT,84070,Working Capital,163231,2025-10-24,Pending,"Working Capital small business loan, Sandy, UT",40.592916,-111.877077
+SB-00354,3259 Fort Union Blvd,,North Logan,UT,84341,Equipment Financing,89614,2026-02-24,Closed,"Equipment Financing small business loan, North Logan, UT",41.775858,-111.805404
+SB-00355,1504 Harrison Blvd,,Salt Lake City,UT,84101,Equipment Financing,238049,2024-01-15,Under Review,"Equipment Financing small business loan, Salt Lake City, UT",40.743284,-111.822964
+SB-00356,9564 1200 East,,South Jordan,UT,84095,SBA 7(a),24134,2026-07-01,Denied,"SBA 7(a) small business loan, South Jordan, UT",40.545506,-111.913084
+SB-00357,5551 200 South,,Sandy,UT,84070,Expansion,334934,2026-03-24,Pending,"Expansion small business loan, Sandy, UT",40.581384,-111.881703
+SB-00358,9173 900 West,,Murray,UT,84107,SBA 7(a),216410,2026-07-10,Approved,"SBA 7(a) small business loan, Murray, UT",40.640484,-111.859503
+SB-00359,3691 Canyon Rd,,North Ogden,UT,84414,Expansion,314726,2025-10-28,Denied,"Expansion small business loan, North Ogden, UT",41.343542,-111.982955
+SB-00360,9721 400 North,,West Valley City,UT,84119,Line of Credit,256810,2025-11-13,Closed,"Line of Credit small business loan, West Valley City, UT",40.702878,-112.003830
+SB-00361,8997 Wall Ave,,West Valley City,UT,84119,Expansion,346951,2026-08-10,Pending,"Expansion small business loan, West Valley City, UT",40.700337,-111.990155
+SB-00362,5304 1200 East,,Bountiful,UT,84010,Working Capital,175335,2026-07-05,Closed,"Working Capital small business loan, Bountiful, UT",40.870844,-111.921908
+SB-00363,8925 900 West,,Murray,UT,84107,Line of Credit,287600,2026-06-06,Approved,"Line of Credit small business loan, Murray, UT",40.638858,-111.859539
+SB-00364,3667 200 South,,South Jordan,UT,84095,SBA 7(a),179491,2023-09-26,Under Review,"SBA 7(a) small business loan, South Jordan, UT",40.576944,-111.893105
+SB-00365,7226 Canyon Rd,,Salt Lake City,UT,84101,Line of Credit,340529,2025-12-17,Denied,"Line of Credit small business loan, Salt Lake City, UT",40.743240,-111.810030
+SB-00366,1949 State St,,Sandy,UT,84070,Line of Credit,268727,2026-05-23,Closed,"Line of Credit small business loan, Sandy, UT",40.562173,-111.812930
+SB-00367,5734 Highland Dr,,Murray,UT,84107,SBA 7(a),334664,2025-10-19,Denied,"SBA 7(a) small business loan, Murray, UT",40.701757,-111.883650
+SB-00368,841 Canyon Rd,,West Valley City,UT,84119,Working Capital,214382,2024-08-09,Denied,"Working Capital small business loan, West Valley City, UT",40.643662,-112.018728
+SB-00369,2407 200 South,,South Jordan,UT,84095,Equipment Financing,483770,2024-02-13,Denied,"Equipment Financing small business loan, South Jordan, UT",40.540592,-111.907024
+SB-00370,7256 Riverdale Rd,,Sandy,UT,84070,Working Capital,20362,2023-12-05,Approved,"Working Capital small business loan, Sandy, UT",40.578207,-111.865928
+SB-00371,5706 1200 East,,West Valley City,UT,84119,Line of Credit,342951,2025-04-27,Denied,"Line of Credit small business loan, West Valley City, UT",40.657873,-111.956127
+SB-00372,7218 1200 East,,Sandy,UT,84070,Working Capital,60568,2024-05-20,Closed,"Working Capital small business loan, Sandy, UT",40.620749,-111.828486
+SB-00373,5705 Harrison Blvd,,Logan,UT,84321,Equipment Financing,379029,2025-06-26,Denied,"Equipment Financing small business loan, Logan, UT",41.750116,-111.826756
+SB-00374,7425 Highland Dr,,Draper,UT,84020,SBA 7(a),48069,2025-11-27,Denied,"SBA 7(a) small business loan, Draper, UT",40.528953,-111.906718
+SB-00375,4080 1200 East,,West Valley City,UT,84119,SBA 7(a),21134,2025-03-12,Closed,"SBA 7(a) small business loan, West Valley City, UT",40.700445,-111.993279
+SB-00376,844 1200 East,,West Valley City,UT,84119,Expansion,175000,2024-02-04,Approved,"Expansion small business loan, West Valley City, UT",40.695787,-112.183503
+SB-00377,8744 Canyon Rd,,South Jordan,UT,84095,Line of Credit,183843,2024-06-09,Closed,"Line of Credit small business loan, South Jordan, UT",40.576855,-111.890165
+SB-00378,2448 Redwood Rd,,South Jordan,UT,84095,Equipment Financing,253514,2025-08-09,Denied,"Equipment Financing small business loan, South Jordan, UT",40.565908,-111.884788
+SB-00379,6548 Harrison Blvd,,Clearfield,UT,84015,SBA 7(a),433526,2026-07-18,Closed,"SBA 7(a) small business loan, Clearfield, UT",41.095504,-111.992630
+SB-00380,681 Highland Dr,,Farmington,UT,84025,SBA 7(a),70479,2025-04-23,Pending,"SBA 7(a) small business loan, Farmington, UT",40.962286,-111.846685
+SB-00381,3999 Redwood Rd,,Murray,UT,84107,Working Capital,54180,2024-10-17,Pending,"Working Capital small business loan, Murray, UT",40.706429,-111.875627
+SB-00382,5409 Bengal Blvd,,South Jordan,UT,84095,Working Capital,79448,2025-07-02,Pending,"Working Capital small business loan, South Jordan, UT",40.570539,-111.907873
+SB-00383,1497 Wall Ave,,Brigham City,UT,84302,SBA 7(a),87626,2026-08-24,Pending,"SBA 7(a) small business loan, Brigham City, UT",41.491991,-112.015494
+SB-00384,1444 Main St,,West Valley City,UT,84119,Working Capital,448097,2025-08-15,Approved,"Working Capital small business loan, West Valley City, UT",40.663541,-111.962866
+SB-00385,9668 900 West,,Layton,UT,84040,Working Capital,167438,2026-08-12,Under Review,"Working Capital small business loan, Layton, UT",41.085392,-111.961346
+SB-00386,9438 1200 East,,Smithfield,UT,84335,Expansion,193550,2024-03-14,Under Review,"Expansion small business loan, Smithfield, UT",41.876779,-111.627593
+SB-00387,9264 Redwood Rd,,Salt Lake City,UT,84101,SBA 7(a),51728,2026-02-21,Approved,"SBA 7(a) small business loan, Salt Lake City, UT",40.773294,-111.853869
+SB-00388,5074 400 North,,Clearfield,UT,84015,Equipment Financing,55043,2025-06-11,Under Review,"Equipment Financing small business loan, Clearfield, UT",41.075529,-112.031629
+SB-00389,3626 Highland Dr,,Ogden,UT,84401,Line of Credit,42314,2024-12-02,Pending,"Line of Credit small business loan, Ogden, UT",41.253930,-111.977136
+SB-00390,7380 1200 East,,South Jordan,UT,84095,Line of Credit,356087,2024-10-24,Denied,"Line of Credit small business loan, South Jordan, UT",40.565163,-111.886190
+SB-00391,4591 University Ave,,West Valley City,UT,84119,Working Capital,140928,2025-11-19,Denied,"Working Capital small business loan, West Valley City, UT",40.662549,-111.961805
+SB-00392,9931 Bengal Blvd,,North Ogden,UT,84414,Working Capital,482994,2024-01-22,Pending,"Working Capital small business loan, North Ogden, UT",41.305540,-112.161759
+SB-00393,6774 Wall Ave,,Draper,UT,84020,Line of Credit,481362,2025-08-13,Approved,"Line of Credit small business loan, Draper, UT",40.531500,-111.906597
+SB-00394,4976 1200 East,,Brigham City,UT,84302,SBA 7(a),298098,2024-05-01,Approved,"SBA 7(a) small business loan, Brigham City, UT",41.462416,-111.805012
+SB-00395,4277 900 West,,Clearfield,UT,84015,Expansion,347082,2026-08-26,Closed,"Expansion small business loan, Clearfield, UT",41.074579,-112.043263
+SB-00396,2553 Main St,,Bountiful,UT,84010,Expansion,42814,2023-11-13,Closed,"Expansion small business loan, Bountiful, UT",40.875406,-111.924584
+SB-00397,2790 900 West,,North Ogden,UT,84414,Working Capital,29599,2024-08-26,Closed,"Working Capital small business loan, North Ogden, UT",41.260480,-111.946466
+SB-00398,4717 Canyon Rd,,Sandy,UT,84070,Working Capital,184836,2023-12-14,Approved,"Working Capital small business loan, Sandy, UT",40.564850,-111.821788
+SB-00399,5212 1200 East,,West Valley City,UT,84119,Expansion,424622,2026-05-04,Pending,"Expansion small business loan, West Valley City, UT",40.661893,-111.959658
+SB-00400,4362 900 West,,Brigham City,UT,84302,Expansion,343577,2026-05-06,Under Review,"Expansion small business loan, Brigham City, UT",41.500514,-112.025765
+SB-00401,1695 Main St,,Sandy,UT,84070,Expansion,463452,2024-07-18,Denied,"Expansion small business loan, Sandy, UT",40.573491,-111.867932
+SB-00402,486 200 South,,Sandy,UT,84070,Equipment Financing,452941,2025-10-15,Closed,"Equipment Financing small business loan, Sandy, UT",40.573633,-111.861070
+SB-00403,5087 Redwood Rd,,South Jordan,UT,84095,Line of Credit,458764,2025-09-04,Approved,"Line of Credit small business loan, South Jordan, UT",40.579444,-111.907794
+SB-00404,3921 1200 East,,South Jordan,UT,84095,Equipment Financing,447018,2024-09-19,Pending,"Equipment Financing small business loan, South Jordan, UT",40.575500,-111.915768
+SB-00405,500 Highland Dr,,Clearfield,UT,84015,Expansion,115368,2024-01-23,Pending,"Expansion small business loan, Clearfield, UT",41.129504,-112.189528
+SB-00406,7584 University Ave,,South Jordan,UT,84095,Line of Credit,230779,2024-08-13,Approved,"Line of Credit small business loan, South Jordan, UT",40.583985,-111.906675
+SB-00407,9393 Main St,,Tremonton,UT,84337,Working Capital,107105,2023-10-25,Under Review,"Working Capital small business loan, Tremonton, UT",41.641107,-112.072896
+SB-00408,980 Main St,,Murray,UT,84107,Line of Credit,346036,2025-06-21,Approved,"Line of Credit small business loan, Murray, UT",40.639110,-111.859994
+SB-00409,5010 200 South,,Sandy,UT,84070,Line of Credit,102661,2026-09-04,Denied,"Line of Credit small business loan, Sandy, UT",40.618316,-111.830711
+SB-00410,2111 Fort Union Blvd,,Logan,UT,84321,Expansion,173171,2024-03-19,Under Review,"Expansion small business loan, Logan, UT",41.732058,-111.832810
+SB-00411,6034 University Ave,,West Valley City,UT,84119,Line of Credit,328785,2024-08-09,Denied,"Line of Credit small business loan, West Valley City, UT",40.717268,-112.208692
+SB-00412,9659 Washington Blvd,,South Jordan,UT,84095,Equipment Financing,211339,2024-01-04,Approved,"Equipment Financing small business loan, South Jordan, UT",40.576635,-111.909103
+SB-00413,6839 Washington Blvd,,South Jordan,UT,84095,Equipment Financing,349504,2025-06-02,Under Review,"Equipment Financing small business loan, South Jordan, UT",40.540593,-111.913564
+SB-00414,2317 Fort Union Blvd,,Sandy,UT,84070,Working Capital,167577,2024-08-11,Pending,"Working Capital small business loan, Sandy, UT",40.591173,-111.875819
+SB-00415,3344 Main St,,West Valley City,UT,84119,Line of Credit,297517,2023-11-08,Closed,"Line of Credit small business loan, West Valley City, UT",40.653461,-111.956786
+SB-00416,290 Washington Blvd,,Clearfield,UT,84015,SBA 7(a),373070,2026-04-18,Denied,"SBA 7(a) small business loan, Clearfield, UT",41.073045,-112.035325
+SB-00417,4394 Harrison Blvd,,West Valley City,UT,84119,Equipment Financing,189303,2025-01-17,Approved,"Equipment Financing small business loan, West Valley City, UT",40.667457,-111.966527
+SB-00418,8336 900 West,,South Jordan,UT,84095,Expansion,348104,2026-07-20,Pending,"Expansion small business loan, South Jordan, UT",40.579333,-111.919792
+SB-00419,675 Bengal Blvd,,Sandy,UT,84070,Working Capital,79307,2025-06-29,Approved,"Working Capital small business loan, Sandy, UT",40.614952,-111.824154
+SB-00420,3037 200 South,,Salt Lake City,UT,84101,Expansion,24910,2026-08-16,Pending,"Expansion small business loan, Salt Lake City, UT",40.746941,-111.814247
+SB-00421,7413 400 North,,Murray,UT,84107,Equipment Financing,428260,2026-05-04,Denied,"Equipment Financing small business loan, Murray, UT",40.701678,-111.883453
+SB-00422,4126 Highland Dr,,North Ogden,UT,84414,Line of Credit,452955,2023-10-23,Denied,"Line of Credit small business loan, North Ogden, UT",41.328350,-112.072402
+SB-00423,1843 400 North,,West Valley City,UT,84119,SBA 7(a),347425,2025-05-11,Closed,"SBA 7(a) small business loan, West Valley City, UT",40.640715,-112.020748
+SB-00424,8271 Main St,,West Valley City,UT,84119,SBA 7(a),457752,2024-12-09,Approved,"SBA 7(a) small business loan, West Valley City, UT",40.665786,-111.957220
+SB-00425,1080 State St,,North Ogden,UT,84414,Equipment Financing,273494,2023-10-08,Under Review,"Equipment Financing small business loan, North Ogden, UT",41.281086,-112.066096
+SB-00426,3282 Redwood Rd,,West Valley City,UT,84119,SBA 7(a),492320,2023-10-27,Closed,"SBA 7(a) small business loan, West Valley City, UT",40.659932,-111.957054
+SB-00427,8466 1200 East,,West Valley City,UT,84119,Line of Credit,229277,2025-09-02,Closed,"Line of Credit small business loan, West Valley City, UT",40.664088,-111.959863
+SB-00428,6523 State St,,West Valley City,UT,84119,Working Capital,78141,2025-12-11,Approved,"Working Capital small business loan, West Valley City, UT",40.644478,-112.019303
+SB-00429,7745 State St,,Kaysville,UT,84037,Expansion,455409,2026-04-14,Closed,"Expansion small business loan, Kaysville, UT",41.039508,-111.965333
+SB-00430,9694 Bengal Blvd,,Sandy,UT,84070,Line of Credit,339240,2026-08-10,Approved,"Line of Credit small business loan, Sandy, UT",40.561082,-111.813097
+SB-00431,3896 Wall Ave,,Salt Lake City,UT,84101,Working Capital,374454,2026-03-16,Pending,"Working Capital small business loan, Salt Lake City, UT",40.739352,-111.805549
+SB-00432,3781 400 North,,Sandy,UT,84070,Expansion,64516,2024-12-23,Under Review,"Expansion small business loan, Sandy, UT",40.566581,-111.881485
+SB-00433,9233 University Ave,,Sandy,UT,84070,SBA 7(a),271423,2026-04-25,Denied,"SBA 7(a) small business loan, Sandy, UT",40.568568,-111.808609
+SB-00434,5662 Main St,,West Valley City,UT,84119,Expansion,419235,2025-03-10,Denied,"Expansion small business loan, West Valley City, UT",40.634400,-112.083562
+SB-00435,4746 Washington Blvd,,Ogden,UT,84401,SBA 7(a),187645,2023-10-17,Pending,"SBA 7(a) small business loan, Ogden, UT",41.265343,-112.059875
+SB-00436,229 Riverdale Rd,,West Valley City,UT,84119,Expansion,28003,2024-04-15,Denied,"Expansion small business loan, West Valley City, UT",40.696089,-111.994768
+SB-00437,4458 200 South,,Bountiful,UT,84010,Line of Credit,139828,2023-09-30,Denied,"Line of Credit small business loan, Bountiful, UT",40.837162,-111.920842
+SB-00438,9909 400 North,,South Ogden,UT,84403,SBA 7(a),21844,2025-12-19,Denied,"SBA 7(a) small business loan, South Ogden, UT",41.195286,-111.969029
+SB-00439,8302 200 South,,Logan,UT,84321,Equipment Financing,399679,2025-06-20,Under Review,"Equipment Financing small business loan, Logan, UT",41.725130,-111.800254
+SB-00440,3036 Highland Dr,,Ogden,UT,84401,Equipment Financing,324569,2024-09-04,Pending,"Equipment Financing small business loan, Ogden, UT",41.230873,-111.949522
+SB-00441,3642 Fort Union Blvd,,Sandy,UT,84070,Equipment Financing,71797,2024-03-19,Under Review,"Equipment Financing small business loan, Sandy, UT",40.560414,-111.822725
+SB-00442,5032 400 North,,Roy,UT,84067,Expansion,277403,2026-02-23,Denied,"Expansion small business loan, Roy, UT",41.144726,-112.075435
+SB-00443,3421 Harrison Blvd,,South Ogden,UT,84403,Expansion,174744,2026-03-31,Closed,"Expansion small business loan, South Ogden, UT",41.200162,-111.979025
+SB-00444,2905 Redwood Rd,,Smithfield,UT,84335,Equipment Financing,306435,2026-07-09,Approved,"Equipment Financing small business loan, Smithfield, UT",41.897597,-111.769738
+SB-00445,8542 Canyon Rd,,Riverdale,UT,84405,Expansion,463476,2026-03-04,Pending,"Expansion small business loan, Riverdale, UT",41.195825,-112.022950
+SB-00446,6891 Bengal Blvd,,Salt Lake City,UT,84101,SBA 7(a),165599,2025-11-30,Closed,"SBA 7(a) small business loan, Salt Lake City, UT",40.763726,-111.859890
+SB-00447,3459 400 North,,South Jordan,UT,84095,Working Capital,310784,2023-11-22,Approved,"Working Capital small business loan, South Jordan, UT",40.569535,-111.956729
+SB-00448,3416 Canyon Rd,,South Jordan,UT,84095,Equipment Financing,316419,2024-04-11,Under Review,"Equipment Financing small business loan, South Jordan, UT",40.572169,-111.885867
+SB-00449,5283 Wall Ave,,Smithfield,UT,84335,Expansion,363407,2026-02-24,Under Review,"Expansion small business loan, Smithfield, UT",41.850977,-111.877635
+SB-00450,1609 1200 East,,Clearfield,UT,84015,SBA 7(a),386826,2024-08-04,Pending,"SBA 7(a) small business loan, Clearfield, UT",41.072102,-112.030875
+SB-00451,3011 200 South,,Brigham City,UT,84302,Expansion,257770,2023-11-02,Approved,"Expansion small business loan, Brigham City, UT",41.507036,-111.972818
+SB-00452,7941 State St,,Sandy,UT,84070,SBA 7(a),464904,2024-05-24,Approved,"SBA 7(a) small business loan, Sandy, UT",40.562523,-111.838551
+SB-00453,1066 Bengal Blvd,,South Jordan,UT,84095,Equipment Financing,475807,2026-08-04,Under Review,"Equipment Financing small business loan, South Jordan, UT",40.572765,-111.955237
+SB-00454,4963 Washington Blvd,,Layton,UT,84040,Equipment Financing,274625,2025-07-18,Denied,"Equipment Financing small business loan, Layton, UT",41.095506,-111.974213
+SB-00455,5497 Highland Dr,,North Ogden,UT,84414,Working Capital,418375,2025-07-01,Approved,"Working Capital small business loan, North Ogden, UT",41.305860,-112.073569
+SB-00456,9714 Bengal Blvd,,Sandy,UT,84070,Expansion,108512,2024-05-24,Denied,"Expansion small business loan, Sandy, UT",40.558969,-111.821246
+SB-00457,8129 Wall Ave,,West Valley City,UT,84119,Line of Credit,241151,2025-07-08,Denied,"Line of Credit small business loan, West Valley City, UT",40.657866,-111.961678
+SB-00458,8093 Washington Blvd,,Smithfield,UT,84335,Line of Credit,490348,2023-10-23,Under Review,"Line of Credit small business loan, Smithfield, UT",41.961495,-111.865406
+SB-00459,3747 Harrison Blvd,,Brigham City,UT,84302,Line of Credit,271199,2024-04-10,Denied,"Line of Credit small business loan, Brigham City, UT",41.566293,-111.999371
+SB-00460,1213 Harrison Blvd,,Salt Lake City,UT,84101,SBA 7(a),24050,2024-08-10,Pending,"SBA 7(a) small business loan, Salt Lake City, UT",40.748752,-111.820239
+SB-00461,330 Riverdale Rd,,Roy,UT,84067,Equipment Financing,412877,2024-07-09,Closed,"Equipment Financing small business loan, Roy, UT",41.155176,-112.105969
+SB-00462,8498 Wall Ave,,Salt Lake City,UT,84101,Expansion,37884,2023-11-16,Under Review,"Expansion small business loan, Salt Lake City, UT",40.777201,-111.861028
+SB-00463,7050 Main St,,Salt Lake City,UT,84101,Equipment Financing,99930,2025-12-20,Pending,"Equipment Financing small business loan, Salt Lake City, UT",40.766461,-111.856920
+SB-00464,5289 Harrison Blvd,,Clearfield,UT,84015,Expansion,485393,2024-05-21,Under Review,"Expansion small business loan, Clearfield, UT",41.082889,-112.027184
+SB-00465,2458 400 North,,West Valley City,UT,84119,Equipment Financing,481373,2025-12-25,Under Review,"Equipment Financing small business loan, West Valley City, UT",40.705800,-112.119768
+SB-00466,4021 1200 East,,Bountiful,UT,84010,Working Capital,395654,2025-06-14,Closed,"Working Capital small business loan, Bountiful, UT",40.849122,-111.929286
+SB-00467,4010 Redwood Rd,,West Valley City,UT,84119,Expansion,184320,2024-05-10,Closed,"Expansion small business loan, West Valley City, UT",40.646383,-112.075894
+SB-00468,6454 State St,,Clearfield,UT,84015,Line of Credit,211164,2025-04-29,Closed,"Line of Credit small business loan, Clearfield, UT",41.078413,-112.017420
+SB-00469,5617 University Ave,,Bountiful,UT,84010,Line of Credit,298007,2025-12-18,Pending,"Line of Credit small business loan, Bountiful, UT",40.939365,-111.865036
+SB-00470,3592 State St,,West Valley City,UT,84119,SBA 7(a),199885,2024-11-02,Under Review,"SBA 7(a) small business loan, West Valley City, UT",40.700149,-112.160907
+SB-00471,9969 200 South,,Sandy,UT,84070,Equipment Financing,453754,2024-05-14,Pending,"Equipment Financing small business loan, Sandy, UT",40.564949,-111.815332
+SB-00472,4069 Fort Union Blvd,,Roy,UT,84067,Working Capital,292318,2024-02-02,Under Review,"Working Capital small business loan, Roy, UT",41.272364,-112.167762
+SB-00473,8469 Harrison Blvd,,South Jordan,UT,84095,Equipment Financing,381994,2025-04-20,Denied,"Equipment Financing small business loan, South Jordan, UT",40.573330,-111.930418
+SB-00474,9910 University Ave,,Bountiful,UT,84010,Equipment Financing,440789,2024-11-08,Pending,"Equipment Financing small business loan, Bountiful, UT",40.870541,-111.920489
+SB-00475,5192 Main St,,Sandy,UT,84070,Expansion,260177,2025-06-23,Under Review,"Expansion small business loan, Sandy, UT",40.614282,-111.818250
+SB-00476,2555 University Ave,,Salt Lake City,UT,84101,Equipment Financing,90353,2024-02-23,Approved,"Equipment Financing small business loan, Salt Lake City, UT",40.770202,-111.868611
+SB-00477,1176 Redwood Rd,,West Valley City,UT,84119,Line of Credit,85109,2024-06-01,Pending,"Line of Credit small business loan, West Valley City, UT",40.697910,-111.981445
+SB-00478,1039 Bengal Blvd,,Sandy,UT,84070,Line of Credit,342869,2023-10-01,Closed,"Line of Credit small business loan, Sandy, UT",40.592515,-111.878533
+SB-00479,3296 Wall Ave,,Smithfield,UT,84335,Equipment Financing,139613,2024-12-10,Approved,"Equipment Financing small business loan, Smithfield, UT",41.884377,-111.848637
+SB-00480,2760 Harrison Blvd,,South Ogden,UT,84403,SBA 7(a),90619,2024-06-07,Denied,"SBA 7(a) small business loan, South Ogden, UT",41.150364,-111.870986
+SB-00481,4365 Harrison Blvd,,Kaysville,UT,84037,Equipment Financing,49686,2025-11-15,Pending,"Equipment Financing small business loan, Kaysville, UT",41.010838,-111.939952
+SB-00482,7804 Washington Blvd,,Bountiful,UT,84010,SBA 7(a),364894,2024-01-16,Denied,"SBA 7(a) small business loan, Bountiful, UT",40.827637,-111.938224
+SB-00483,7384 Redwood Rd,,South Ogden,UT,84403,SBA 7(a),366107,2024-07-31,Closed,"SBA 7(a) small business loan, South Ogden, UT",41.178369,-111.881436
+SB-00484,4898 Bengal Blvd,,West Valley City,UT,84119,Line of Credit,482968,2025-05-26,Closed,"Line of Credit small business loan, West Valley City, UT",40.691569,-111.994288
+SB-00485,6571 200 South,,West Valley City,UT,84119,Expansion,261243,2025-03-14,Denied,"Expansion small business loan, West Valley City, UT",40.688250,-111.997042
+SB-00486,6571 Riverdale Rd,,Salt Lake City,UT,84101,Line of Credit,227874,2025-11-13,Closed,"Line of Credit small business loan, Salt Lake City, UT",40.747097,-111.807894
+SB-00487,3936 State St,,Salt Lake City,UT,84101,Working Capital,191862,2024-11-12,Under Review,"Working Capital small business loan, Salt Lake City, UT",40.766963,-111.855793
+SB-00488,9187 Harrison Blvd,,Sandy,UT,84070,Expansion,208407,2025-09-25,Denied,"Expansion small business loan, Sandy, UT",40.618979,-111.826972
+SB-00489,3874 1200 East,,Sandy,UT,84070,Line of Credit,158581,2024-04-04,Pending,"Line of Credit small business loan, Sandy, UT",40.577705,-111.853476
+SB-00490,4440 Highland Dr,,Bountiful,UT,84010,SBA 7(a),429117,2024-04-27,Approved,"SBA 7(a) small business loan, Bountiful, UT",40.847500,-111.936974
+SB-00491,4017 Washington Blvd,,North Ogden,UT,84414,Working Capital,220933,2024-05-26,Pending,"Working Capital small business loan, North Ogden, UT",41.263809,-111.988943
+SB-00492,619 Riverdale Rd,,Smithfield,UT,84335,Working Capital,160261,2024-01-26,Closed,"Working Capital small business loan, Smithfield, UT",41.865977,-111.849156
+SB-00493,1579 200 South,,Murray,UT,84107,Equipment Financing,442051,2026-05-07,Closed,"Equipment Financing small business loan, Murray, UT",40.702844,-111.880969
+SB-00494,2397 Washington Blvd,,Salt Lake City,UT,84101,Equipment Financing,309516,2024-09-27,Approved,"Equipment Financing small business loan, Salt Lake City, UT",40.773516,-111.857637
+SB-00495,8874 Washington Blvd,,Logan,UT,84321,SBA 7(a),403270,2024-10-16,Approved,"SBA 7(a) small business loan, Logan, UT",41.739802,-111.839169
+SB-00496,5572 University Ave,,Ogden,UT,84401,Working Capital,77476,2025-06-27,Approved,"Working Capital small business loan, Ogden, UT",41.255310,-111.983871
+SB-00497,7967 400 North,,Sandy,UT,84070,Working Capital,116226,2026-09-02,Closed,"Working Capital small business loan, Sandy, UT",40.569826,-111.814565
+SB-00498,6356 Harrison Blvd,,Ogden,UT,84401,SBA 7(a),432413,2024-03-04,Approved,"SBA 7(a) small business loan, Ogden, UT",41.224479,-111.958840
+SB-00499,9944 200 South,,Kaysville,UT,84037,Line of Credit,307528,2025-02-18,Denied,"Line of Credit small business loan, Kaysville, UT",41.039011,-111.964460
+SB-00500,634 Fort Union Blvd,,West Valley City,UT,84119,Expansion,93229,2024-07-25,Under Review,"Expansion small business loan, West Valley City, UT",40.641702,-112.022890

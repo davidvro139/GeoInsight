@@ -1,0 +1,81 @@
+external_id,address_line_1,address_line_2,city,state,postal_code,category,amount,date,status,description,latitude,longitude
+ATM-00001,1448 Wall Ave,,Sandy,UT,84070,ATM,,2025-01-24,Active,"In-branch ATM, Sandy, UT",40.589579,-111.875950
+ATM-00002,2809 Washington Blvd,,Sandy,UT,84070,ATM,,2025-07-06,Active,"Drive-up ATM, Sandy, UT",40.569334,-111.854286
+ATM-00003,3634 Bengal Blvd,,West Valley City,UT,84119,ATM,,2026-04-13,Active,"Drive-up ATM, West Valley City, UT",40.658710,-111.956045
+ATM-00004,5438 Harrison Blvd,,South Jordan,UT,84095,ATM,,2026-06-23,Active,"Walk-up ATM, South Jordan, UT",40.564775,-111.935092
+ATM-00005,9324 400 North,,South Jordan,UT,84095,ATM,,2025-07-11,Active,"In-branch ATM, South Jordan, UT",40.576385,-111.947519
+ATM-00006,2396 Washington Blvd,,North Ogden,UT,84414,ATM,,2024-09-27,Active,"In-branch ATM, North Ogden, UT",41.272175,-111.945855
+ATM-00007,3444 Highland Dr,,Clearfield,UT,84015,ATM,,2025-09-15,Out of Service,"Walk-up ATM, Clearfield, UT",41.128763,-111.965714
+ATM-00008,7423 University Ave,,Roy,UT,84067,ATM,,2025-09-30,Out of Service,"In-branch ATM, Roy, UT",41.172062,-112.036640
+ATM-00009,6509 Highland Dr,,North Ogden,UT,84414,ATM,,2024-01-04,Active,"Walk-up ATM, North Ogden, UT",41.259461,-111.942796
+ATM-00010,7715 Canyon Rd,,Logan,UT,84321,ATM,,2024-07-28,Active,"Drive-up ATM, Logan, UT",41.750448,-111.825304
+ATM-00011,5412 Washington Blvd,,South Jordan,UT,84095,ATM,,2025-06-17,Active,"In-branch ATM, South Jordan, UT",40.581490,-111.910975
+ATM-00012,2024 Redwood Rd,,South Jordan,UT,84095,ATM,,2024-08-25,Active,"In-branch ATM, South Jordan, UT",40.578650,-111.906629
+ATM-00013,7714 Riverdale Rd,,South Ogden,UT,84403,ATM,,2024-02-12,Active,"Walk-up ATM, South Ogden, UT",41.196372,-111.973257
+ATM-00014,7525 900 West,,South Jordan,UT,84095,ATM,,2025-07-24,Active,"Walk-up ATM, South Jordan, UT",40.556103,-111.908087
+ATM-00015,1171 Riverdale Rd,,Salt Lake City,UT,84101,ATM,,2024-09-22,Active,"Walk-up ATM, Salt Lake City, UT",40.748822,-111.820879
+ATM-00016,7157 900 West,,North Logan,UT,84341,ATM,,2023-11-28,Active,"In-branch ATM, North Logan, UT",41.742798,-111.795123
+ATM-00017,9388 200 South,,South Jordan,UT,84095,ATM,,2025-09-27,Active,"In-branch ATM, South Jordan, UT",40.575477,-111.914607
+ATM-00018,698 900 West,,South Ogden,UT,84403,ATM,,2025-02-14,Active,"Walk-up ATM, South Ogden, UT",41.198584,-111.949853
+ATM-00019,6376 400 North,,South Ogden,UT,84403,ATM,,2026-01-03,Active,"Walk-up ATM, South Ogden, UT",41.140708,-111.860409
+ATM-00020,3795 State St,,Sandy,UT,84070,ATM,,2023-11-24,Active,"Drive-up ATM, Sandy, UT",40.620146,-111.833440
+ATM-00021,5046 Washington Blvd,,Murray,UT,84107,ATM,,2026-02-13,Active,"Walk-up ATM, Murray, UT",40.702958,-111.887287
+ATM-00022,1313 Redwood Rd,,Logan,UT,84321,ATM,,2026-05-13,Out of Service,"In-branch ATM, Logan, UT",41.722538,-111.832505
+ATM-00023,1942 University Ave,,Logan,UT,84321,ATM,,2024-09-18,Active,"Walk-up ATM, Logan, UT",41.710879,-111.796995
+ATM-00024,8207 200 South,,Farmington,UT,84025,ATM,,2025-06-14,Out of Service,"In-branch ATM, Farmington, UT",40.951241,-111.842115
+ATM-00025,7556 State St,,Smithfield,UT,84335,ATM,,2026-02-18,Active,"Drive-up ATM, Smithfield, UT",41.803258,-111.810231
+ATM-00026,7493 State St,,Roy,UT,84067,ATM,,2025-12-07,Out of Service,"In-branch ATM, Roy, UT",41.178560,-112.112226
+ATM-00027,2356 State St,,South Ogden,UT,84403,ATM,,2024-12-16,Active,"Drive-up ATM, South Ogden, UT",41.194490,-111.966218
+ATM-00028,3370 Canyon Rd,,Perry,UT,84302,ATM,,2024-01-20,Active,"Walk-up ATM, Perry, UT",41.367264,-112.043532
+ATM-00029,4197 University Ave,,Salt Lake City,UT,84101,ATM,,2025-10-09,Active,"In-branch ATM, Salt Lake City, UT",40.776714,-111.857361
+ATM-00030,9232 Fort Union Blvd,,Sandy,UT,84070,ATM,,2026-05-25,Active,"In-branch ATM, Sandy, UT",40.620308,-111.819480
+ATM-00031,9376 Riverdale Rd,,Murray,UT,84107,ATM,,2025-08-23,Active,"Walk-up ATM, Murray, UT",40.646159,-111.862839
+ATM-00032,6290 Canyon Rd,,Sandy,UT,84070,ATM,,2024-08-11,Active,"In-branch ATM, Sandy, UT",40.620999,-111.830704
+ATM-00033,4032 Wall Ave,,Kaysville,UT,84037,ATM,,2026-08-01,Active,"Drive-up ATM, Kaysville, UT",40.983033,-111.965704
+ATM-00034,1827 Washington Blvd,,South Jordan,UT,84095,ATM,,2026-09-04,Active,"Drive-up ATM, South Jordan, UT",40.574540,-111.929563
+ATM-00035,2297 200 South,,Murray,UT,84107,ATM,,2024-10-23,Active,"Drive-up ATM, Murray, UT",40.644997,-111.863637
+ATM-00036,8529 900 West,,Bountiful,UT,84010,ATM,,2026-02-04,Out of Service,"Drive-up ATM, Bountiful, UT",40.853056,-111.948694
+ATM-00037,3201 Washington Blvd,,South Jordan,UT,84095,ATM,,2026-03-20,Active,"In-branch ATM, South Jordan, UT",40.572694,-111.935303
+ATM-00038,4106 Highland Dr,,Salt Lake City,UT,84101,ATM,,2024-03-04,Active,"Walk-up ATM, Salt Lake City, UT",40.737591,-111.805168
+ATM-00039,2927 Harrison Blvd,,South Ogden,UT,84403,ATM,,2024-08-07,Out of Service,"Walk-up ATM, South Ogden, UT",41.191159,-111.976725
+ATM-00040,1595 Harrison Blvd,,West Valley City,UT,84119,ATM,,2024-04-23,Active,"Drive-up ATM, West Valley City, UT",40.597363,-112.128926
+ATM-00041,5529 Main St,,Murray,UT,84107,ATM,,2025-06-12,Active,"Drive-up ATM, Murray, UT",40.639167,-111.859106
+ATM-00042,7135 Main St,,West Valley City,UT,84119,ATM,,2026-01-20,Active,"In-branch ATM, West Valley City, UT",40.699956,-111.987111
+ATM-00043,8256 Harrison Blvd,,North Ogden,UT,84414,ATM,,2026-07-25,Active,"In-branch ATM, North Ogden, UT",41.322099,-111.954948
+ATM-00044,922 Fort Union Blvd,,North Ogden,UT,84414,ATM,,2025-08-01,Out of Service,"In-branch ATM, North Ogden, UT",41.275268,-111.945532
+ATM-00045,5889 Harrison Blvd,,Logan,UT,84321,ATM,,2025-07-15,Active,"Walk-up ATM, Logan, UT",41.748653,-111.839134
+ATM-00046,8643 900 West,,Logan,UT,84321,ATM,,2026-01-17,Active,"Walk-up ATM, Logan, UT",41.747078,-111.845431
+ATM-00047,1495 University Ave,,Salt Lake City,UT,84101,ATM,,2024-09-06,Active,"Walk-up ATM, Salt Lake City, UT",40.744175,-111.819385
+ATM-00048,266 Bengal Blvd,,Clearfield,UT,84015,ATM,,2026-03-08,Active,"In-branch ATM, Clearfield, UT",41.074833,-112.032137
+ATM-00049,5751 200 South,,Salt Lake City,UT,84101,ATM,,2025-02-06,Out of Service,"Drive-up ATM, Salt Lake City, UT",40.776282,-111.859079
+ATM-00050,9797 Main St,,South Jordan,UT,84095,ATM,,2024-06-27,Out of Service,"Walk-up ATM, South Jordan, UT",40.561500,-111.907794
+ATM-00051,5302 Highland Dr,,West Valley City,UT,84119,ATM,,2024-06-02,Active,"Drive-up ATM, West Valley City, UT",40.662793,-111.961116
+ATM-00052,8958 400 North,,Salt Lake City,UT,84101,ATM,,2025-09-28,Active,"Drive-up ATM, Salt Lake City, UT",40.781399,-111.863301
+ATM-00053,6324 Riverdale Rd,,Tremonton,UT,84337,ATM,,2024-10-04,Active,"In-branch ATM, Tremonton, UT",41.703438,-112.174033
+ATM-00054,1621 Wall Ave,,Bountiful,UT,84010,ATM,,2026-05-21,Active,"Drive-up ATM, Bountiful, UT",40.854348,-111.945569
+ATM-00055,3770 State St,,South Jordan,UT,84095,ATM,,2026-07-16,Active,"Walk-up ATM, South Jordan, UT",40.567786,-111.906161
+ATM-00056,5023 900 West,,Farmington,UT,84025,ATM,,2025-06-26,Active,"In-branch ATM, Farmington, UT",40.953815,-111.817388
+ATM-00057,7597 400 North,,South Ogden,UT,84403,ATM,,2025-12-11,Active,"Walk-up ATM, South Ogden, UT",41.198127,-111.956987
+ATM-00058,8446 900 West,,West Valley City,UT,84119,ATM,,2023-10-30,Active,"In-branch ATM, West Valley City, UT",40.649462,-112.151249
+ATM-00059,7330 Fort Union Blvd,,Ogden,UT,84401,ATM,,2023-10-13,Active,"Drive-up ATM, Ogden, UT",41.219956,-111.948651
+ATM-00060,4545 Bengal Blvd,,North Ogden,UT,84414,ATM,,2024-07-28,Active,"Walk-up ATM, North Ogden, UT",41.350970,-111.989504
+ATM-00061,6887 Riverdale Rd,,Roy,UT,84067,ATM,,2026-02-18,Out of Service,"In-branch ATM, Roy, UT",41.184427,-112.029082
+ATM-00062,5359 Redwood Rd,,Logan,UT,84321,ATM,,2024-01-27,Out of Service,"Drive-up ATM, Logan, UT",41.746200,-111.826962
+ATM-00063,5307 Main St,,Sandy,UT,84070,ATM,,2026-08-21,Out of Service,"Walk-up ATM, Sandy, UT",40.590852,-111.878082
+ATM-00064,9744 Wall Ave,,Sandy,UT,84070,ATM,,2026-03-01,Active,"In-branch ATM, Sandy, UT",40.620034,-111.829724
+ATM-00065,3975 Harrison Blvd,,West Valley City,UT,84119,ATM,,2025-10-06,Active,"Drive-up ATM, West Valley City, UT",40.685886,-111.996112
+ATM-00066,7076 Bengal Blvd,,Sandy,UT,84070,ATM,,2025-09-28,Out of Service,"In-branch ATM, Sandy, UT",40.570090,-111.859196
+ATM-00067,4251 Wall Ave,,Draper,UT,84020,ATM,,2024-04-12,Active,"Walk-up ATM, Draper, UT",40.527653,-111.906823
+ATM-00068,6395 Main St,,West Valley City,UT,84119,ATM,,2024-03-15,Active,"In-branch ATM, West Valley City, UT",40.687001,-112.005284
+ATM-00069,6000 Harrison Blvd,,Sandy,UT,84070,ATM,,2025-04-10,Active,"Walk-up ATM, Sandy, UT",40.566684,-111.868450
+ATM-00070,5250 State St,,Layton,UT,84040,ATM,,2023-12-29,Active,"Walk-up ATM, Layton, UT",41.083183,-111.974794
+ATM-00071,225 University Ave,,Sandy,UT,84070,ATM,,2023-09-14,Active,"Walk-up ATM, Sandy, UT",40.565079,-111.858882
+ATM-00072,4987 1200 East,,West Valley City,UT,84119,ATM,,2024-10-14,Active,"Walk-up ATM, West Valley City, UT",40.653592,-111.960855
+ATM-00073,7506 1200 East,,Sandy,UT,84070,ATM,,2023-12-19,Active,"Walk-up ATM, Sandy, UT",40.559641,-111.857188
+ATM-00074,4870 Canyon Rd,,Clearfield,UT,84015,ATM,,2024-06-05,Active,"Drive-up ATM, Clearfield, UT",41.120561,-112.215306
+ATM-00075,2997 Bengal Blvd,,Sandy,UT,84070,ATM,,2025-02-13,Active,"Drive-up ATM, Sandy, UT",40.620813,-111.818532
+ATM-00076,8659 Main St,,North Ogden,UT,84414,ATM,,2026-05-29,Active,"In-branch ATM, North Ogden, UT",41.265996,-111.953611
+ATM-00077,2571 400 North,,Clearfield,UT,84015,ATM,,2026-02-01,Active,"Drive-up ATM, Clearfield, UT",41.097998,-111.981762
+ATM-00078,6527 Redwood Rd,,South Ogden,UT,84403,ATM,,2024-07-17,Active,"Drive-up ATM, South Ogden, UT",41.197966,-111.980658
+ATM-00079,1816 Fort Union Blvd,,Sandy,UT,84070,ATM,,2024-08-10,Active,"In-branch ATM, Sandy, UT",40.568798,-111.866233
+ATM-00080,8448 Canyon Rd,,Roy,UT,84067,ATM,,2026-08-09,Active,"Walk-up ATM, Roy, UT",41.148151,-112.081670
